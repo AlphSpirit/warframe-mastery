@@ -4,7 +4,8 @@ import vue from '@vitejs/plugin-vue'
 // https://vitejs.dev/config/
 export default defineConfig({
   build: {
-    polyfillDynamicImport: true
+    polyfillDynamicImport: true,
+    outDir: "public"
   },
   plugins: [vue()]
 })
