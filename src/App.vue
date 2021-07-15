@@ -8,6 +8,7 @@
         </div>
         <div class="element" :class="{active: hideMastered}" >
           <div class="name">Hide mastered</div>
+          <div class="grow"></div>
           <div class="completed" :class="{active: hideMastered}" @click="toggleHideMastered">✓</div>
         </div>
         <div class="element">
@@ -17,7 +18,11 @@
       <div class="column" :class="{hidden: howManyMastered(category.items) == category.items.length}" v-for="category of categories" :key="category.name">
         <div class="title">{{ category.name }} ({{ howManyMastered(category.items) }}/{{ category.items.length }})</div>
         <div class="element" :class="{active: isMastered(item), hidden: hideMastered && isMastered(item)}" v-for="item of category.items" :key="item.name">
-          <div class="name">{{ item.name }}</div>
+          <div class="name link" @click="openWiki(item)">{{ item.name }}</div>
+          <div class="grow"></div>
+          <div class="icons" v-if="item.vaulted">
+            <div class="icon vaulted" v-if="item.vaulted" title="Vaulted">V</div>
+          </div>
           <div class="completed" :class="{active: isMastered(item)}" @click="toggleMastery(item)">✓</div>
         </div>
       </div>
@@ -121,6 +126,9 @@
       toggleHideMastered() {
         this.hideMastered = !this.hideMastered;
         localStorage.setItem("warframe-mastery-hidemastered", this.hideMastered);
+      },
+      openWiki(item) {
+        window.open("https://warframe.fandom.com/wiki/" + item.name.replace(" ", "_"), "_blank");
       }
     }
   }
@@ -191,7 +199,26 @@ body {
     padding: 5px 12px;
     text-transform: uppercase;
     white-space: nowrap;
+    &.link {
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline;
+      }
+    }
+  }
+  .grow {
     flex-grow: 1;
+  }
+  .icons {
+    display: flex;
+    align-items: center;
+    .icon {
+      margin-right: 5px;
+      opacity: 0.4;
+      font-size: 12px;
+      cursor: default;
+      font-weight: bold;
+    }
   }
   .completed {
     width: 40px;
