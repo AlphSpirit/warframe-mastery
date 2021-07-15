@@ -137,7 +137,7 @@ html, body {
 }
 
 body {
-  font-family: "Cairo";
+  font-family: "Cairo", sans-serif;
   background-color: #090C10;
 }
 
