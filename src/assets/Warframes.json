@@ -51,7 +51,7 @@
           },
           {
             "chance": 0.1026,
-            "location": "Pluto/Obol Crossing (Defense), Rotation C",
+            "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
             "rarity": "Uncommon",
             "type": "Ash Chassis Blueprint"
           }
@@ -67,13 +67,13 @@
         "drops": [
           {
             "chance": 0.0833,
-            "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation C",
+            "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
             "rarity": "Rare",
             "type": "Ash Neuroptics Blueprint"
           },
           {
             "chance": 0.0851,
-            "location": "Neptune/Arva Vector (Defense), Rotation C",
+            "location": "Neptune/Arva Vector (Skirmish), Rotation C",
             "rarity": "Rare",
             "type": "Ash Neuroptics Blueprint"
           }
@@ -104,7 +104,7 @@
           },
           {
             "chance": 0.1053,
-            "location": "Venus/Falling Glory (Defense), Rotation C",
+            "location": "Venus/Falling Glory (Skirmish), Rotation C",
             "rarity": "Uncommon",
             "type": "Ash Systems Blueprint"
           }
@@ -127,6 +127,14 @@
     "name": "Ash",
     "passiveDescription": "Bleed effects inflicted on enemies do |DAMAGE|% increased damage and last |DURATION|% longer.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Ash Smoke Shadow Augment"
+      },
       {
         "name": "Call of the Tempestarii: Update 30",
         "date": "2021-04-13T18:04:02Z",
@@ -1679,6 +1687,14 @@
     "name": "Ash Prime",
     "passiveDescription": "Bleed effects inflicted on enemies do |DAMAGE|% increased damage and last |DURATION|% longer.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Ash Smoke Shadow Augment"
+      },
       {
         "name": "Call of the Tempestarii: Update 30",
         "date": "2021-04-13T18:04:02Z",
@@ -7107,6 +7123,14 @@
     "passiveDescription": "Each projectile dodged, each enemy lulled or disarmed, erodes Baruuk's restraint and fuels the storm within. As Baruuk's restraint is diminished he becomes up to |PERCENT|% more resistant to damage.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Baruuk Desolate Hands"
+      },
+      {
         "name": "Call of the Tempestarii: TennoGen: Update 30.2.0",
         "date": "2021-05-12T19:38:18Z",
         "url": "https://forums.warframe.com/topic/1263575-call-of-the-tempestarii-tennogen-update-3020/",
@@ -7699,6 +7723,14 @@
     "name": "Chroma",
     "passiveDescription": "Wings sprout for an additional jump and bullet jump.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -9383,6 +9415,14 @@
     "name": "Chroma Prime",
     "passiveDescription": "Wings sprout for an additional jump and bullet jump.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -21823,7 +21863,7 @@
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Glass/GaraPrime",
     "vaultDate": "n/a",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/7/77/GaraPrime-Arsenal.webp/revision/latest?cb=20210526001543",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/e/e0/GaraPrimeNewLook.png/revision/latest?cb=20210731082007",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Gara%2FPrime"
   },
   {
@@ -23215,6 +23255,14 @@
     "passiveDescription": "Overshield cap doubled.",
     "patchlogs": [
       {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Added Harrow Crucis and Yareli Physalia Helmet Blueprints to the Nightwave Store rotation.",
+        "fixes": ""
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.1",
         "date": "2021-07-06T21:24:17Z",
         "url": "https://forums.warframe.com/topic/1269937-sisters-of-parvos-hotfix-3051/",
@@ -24287,6 +24335,14 @@
     "name": "Hydroid",
     "passiveDescription": "Slam Attacks have a |CHANCE|% chance to summon a tentacle for |DURATION|s.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the ability to reach locations where enemies cannot not damage you by using Hydroid’s Undertow. "
+      },
       {
         "name": "Call of the Tempestarii: TennoGen: Hotfix 30.1.1",
         "date": "2021-05-05T21:12:25Z",
@@ -25577,6 +25633,14 @@
     "name": "Hydroid Prime",
     "passiveDescription": "Slam Attacks have a |CHANCE|% chance to summon a tentacle for |DURATION|s.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the ability to reach locations where enemies cannot not damage you by using Hydroid’s Undertow. "
+      },
       {
         "name": "Call of the Tempestarii: TennoGen: Hotfix 30.1.1",
         "date": "2021-05-05T21:12:25Z",
@@ -28394,7 +28458,7 @@
           },
           {
             "chance": 0.12,
-            "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+            "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Neuroptics Blueprint"
           }
@@ -28467,7 +28531,7 @@
           },
           {
             "chance": 0.12,
-            "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+            "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
             "rarity": "Uncommon",
             "type": "Ivara Systems Blueprint"
           }
@@ -28491,6 +28555,14 @@
     "name": "Ivara",
     "passiveDescription": "Senses nearby enemies within |RADIUS|m.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Ivara Cloak Arrow"
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.1",
         "date": "2021-07-06T21:24:17Z",
@@ -29989,6 +30061,14 @@
     "passiveDescription": "Senses nearby enemies within |RADIUS|m.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Ivara Cloak Arrow"
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.1",
         "date": "2021-07-06T21:24:17Z",
         "url": "https://forums.warframe.com/topic/1269937-sisters-of-parvos-hotfix-3051/",
@@ -30948,7 +31028,7 @@
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Ranger/IvaraPrime",
     "vaultDate": "n/a",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/a/a8/IvaraPrime.png/revision/latest?cb=20191217235626",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/e/e6/IvaraPrimeNewLook.png/revision/latest?cb=20210731025409",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Ivara%2FPrime"
   },
   {
@@ -31932,6 +32012,14 @@
     "name": "Limbo",
     "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal lasting |DURATION|s. Energy slowly recharges in the Rift, and each enemy killed in there also gives |ENERGY| Energy.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed scenario where Energy could cost 0 with a Limbo's Infused with Thermal Sunder."
+      },
       {
         "name": "Gara Prime: Update 30.3.0",
         "date": "2021-05-25T17:56:49Z",
@@ -33546,6 +33634,14 @@
     "name": "Limbo Prime",
     "passiveDescription": "Dodge to enter and exit the Rift. Entering leaves behind a small Rift portal lasting |DURATION|s. Energy slowly recharges in the Rift, and each enemy killed in there also gives |ENERGY| Energy.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed scenario where Energy could cost 0 with a Limbo's Infused with Thermal Sunder."
+      },
       {
         "name": "Gara Prime: Update 30.3.0",
         "date": "2021-05-25T17:56:49Z",
@@ -41026,6 +41122,14 @@
     "passiveDescription": "Shoot dual-wielded sidearms |SPEED|% faster and reload single-handed sidearms |RELOAD|% more rapidly. Gain |HEALTH| Bonus Health when not using Melee Weapons.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Mesa Shooting Gallery"
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.2",
         "date": "2021-07-07T20:26:51Z",
         "url": "https://forums.warframe.com/topic/1270347-sisters-of-parvos-hotfix-3052/",
@@ -42501,6 +42605,14 @@
     "name": "Mesa Prime",
     "passiveDescription": "Shoot dual-wielded sidearms |SPEED|% faster and reload single-handed sidearms |RELOAD|% more rapidly. Gain |HEALTH| Bonus Health when not using Melee Weapons.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Mesa Shooting Gallery"
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.2",
         "date": "2021-07-07T20:26:51Z",
@@ -54289,6 +54401,14 @@
     "passiveDescription": "Enemies are |PERCENT|% less accurate when targeting Nyx.",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime returns alongside his Prime Weapons and exclusive Customizations for a limited time. With Nyx Prime already available to earn through Void Storm Missions, there are now even more opportunities to obtain this deadly psychic Warframe and her Prime Accessories.\nRhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.\nNyx Prime\nRhino & Nyx Prime Glyphs\nNyx Prime\nImproved the Hound Reflex Denial Precept to be more similar to Nyx’s Absorb and capped the Damage per burst that can be directed back at you by Enemy Hounds; preventing self-damage or friendly fire. This also fixes player Hounds not redirecting the full amount of player Damage, only base.",
+        "fixes": ""
+      },
+      {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
         "date": "2021-03-19T15:18:34Z",
         "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
@@ -56029,6 +56149,14 @@
     "passiveDescription": "Enemies are |PERCENT|% less accurate when targeting Nyx Prime.",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime returns alongside his Prime Weapons and exclusive Customizations for a limited time. With Nyx Prime already available to earn through Void Storm Missions, there are now even more opportunities to obtain this deadly psychic Warframe and her Prime Accessories.\nRhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.\nNyx Prime\nRhino & Nyx Prime Glyphs\nNyx Prime\nImproved the Hound Reflex Denial Precept to be more similar to Nyx’s Absorb and capped the Damage per burst that can be directed back at you by Enemy Hounds; preventing self-damage or friendly fire. This also fixes player Hounds not redirecting the full amount of player Damage, only base.",
+        "fixes": ""
+      },
+      {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
         "date": "2021-03-19T15:18:34Z",
         "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
@@ -57532,6 +57660,14 @@
     "name": "Oberon",
     "passiveDescription": "Allied pets receive |HEALTH|% Health, Armor and Shield buffs. In addition, your pet receives an instant revive per mission.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Oberon Hallowed Ground"
+      },
       {
         "name": "Call of the Tempestarii: Update 30",
         "date": "2021-04-13T18:04:02Z",
@@ -59058,6 +59194,14 @@
     "passiveDescription": "Allied pets receive |HEALTH|% Health, Armor and Shield buffs. In addition, your pet receives an instant revive per mission.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Oberon Hallowed Ground"
+      },
+      {
         "name": "Call of the Tempestarii: Update 30",
         "date": "2021-04-13T18:04:02Z",
         "url": "https://forums.warframe.com/topic/1258560-call-of-the-tempestarii-update-30/",
@@ -60088,6 +60232,14 @@
     "name": "Octavia",
     "passiveDescription": "Replenish |ENERGY| energy over |DURATION|s for Octavia and allies within |RANGE|m when abilities are activated.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Octavia Metronome"
+      },
       {
         "name": "Call of the Tempestarii: TennoGen: Update 30.1.0",
         "date": "2021-04-29T17:49:28Z",
@@ -61124,6 +61276,14 @@
     "passiveDescription": "Replenish |ENERGY| energy over |DURATION|s for Octavia and allies within |RANGE|m when abilities are activated.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Octavia Metronome"
+      },
+      {
         "name": "Call of the Tempestarii: TennoGen: Update 30.1.0",
         "date": "2021-04-29T17:49:28Z",
         "url": "https://forums.warframe.com/topic/1261802-call-of-the-tempestarii-tennogen-update-3010/",
@@ -61886,7 +62046,7 @@
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Bard/OctaviaPrime",
     "vaultDate": "n/a",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/c/c4/OctaviaPrime-Arsenal.webp/revision/latest?cb=20210225043119",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/5/56/OctaviaPrimeNewLook.png/revision/latest?cb=20210731025401",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Octavia%2FPrime"
   },
   {
@@ -61998,6 +62158,22 @@
     "name": "Protea",
     "passiveDescription": "Every |CASTS|th Power Cast is granted +|STRENGTH|% Ability Strength.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed inability to pick up universal Ammo (Lavo’s Transmutation Probe, Protea’s Dispensary, etc) when Yareli is on Merulina. "
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Protea Shield grenades"
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -62932,6 +63108,14 @@
     "name": "Rhino",
     "passiveDescription": "Emit a shockwave dealing |DAMAGE| damage after landing from a great height.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime returns alongside his Prime Weapons and exclusive Customizations for a limited time. With Nyx Prime already available to earn through Void Storm Missions, there are now even more opportunities to obtain this deadly psychic Warframe and her Prime Accessories.\nRhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.\nRhino Prime\nRhino & Nyx Prime Glyphs\nRhino Prime",
+        "fixes": "Fixed Rhino Roar buff becoming permanent on other players if they become nullified while the buff is on them."
+      },
       {
         "name": "Call of the Tempestarii: Hotfix 30.0.6",
         "date": "2021-04-20T19:37:13Z",
@@ -64298,6 +64482,14 @@
     "name": "Rhino Prime",
     "passiveDescription": "Emit a shockwave dealing |DAMAGE| damage after landing from a great height.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime returns alongside his Prime Weapons and exclusive Customizations for a limited time. With Nyx Prime already available to earn through Void Storm Missions, there are now even more opportunities to obtain this deadly psychic Warframe and her Prime Accessories.\nRhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.\nRhino Prime\nRhino & Nyx Prime Glyphs\nRhino Prime",
+        "fixes": "Fixed Rhino Roar buff becoming permanent on other players if they become nullified while the buff is on them."
+      },
       {
         "name": "Call of the Tempestarii: Hotfix 30.0.6",
         "date": "2021-04-20T19:37:13Z",
@@ -68289,6 +68481,14 @@
     "passiveDescription": "On death, become Sevagoth's Shadow and fight to resurrect him by collecting the souls needed to rebuild his tombstone. ",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "Added the Sevagoth Lucifuge Helmet to the Nightwave Cred Offerings rotation.",
+        "changes": "",
+        "fixes": ""
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.3",
         "date": "2021-07-09T15:07:34Z",
         "url": "https://forums.warframe.com/topic/1270868-sisters-of-parvos-hotfix-3053%C2%A0%C2%A0/",
@@ -68539,6 +68739,14 @@
     "name": "Titania",
     "passiveDescription": "Titania generates Health for herself and nearby allies every time she casts an Ability.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Titania Tribute"
+      },
       {
         "name": "Call of the Tempestarii: Hotfix 30.0.6",
         "date": "2021-04-20T19:37:13Z",
@@ -69892,6 +70100,14 @@
     "name": "Titania Prime",
     "passiveDescription": "Titania generates Health for herself and nearby allies every time she casts an Ability.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Titania Tribute"
+      },
       {
         "name": "Call of the Tempestarii: Hotfix 30.0.6",
         "date": "2021-04-20T19:37:13Z",
@@ -78229,6 +78445,14 @@
     "name": "Voidrig",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a crash occurring when dying while in Voidrig’s Guard Mode."
+      },
+      {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
@@ -78472,6 +78696,14 @@
     "name": "Volt",
     "passiveDescription": "Grounded movement generates an electrical charge building up |DAMAGE| Damage per meter that is unleashed with the next attack.",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur when using Transference next to a Volt Electric Shield with the Transistor Shield Augment equipped."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -79948,6 +80180,14 @@
     "passiveDescription": "Grounded movement generates an electrical charge building up |DAMAGE| Damage per meter that is unleashed with the next attack.",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur when using Transference next to a Volt Electric Shield with the Transistor Shield Augment equipped."
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
         "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
@@ -81103,6 +81343,14 @@
     "name": "Wisp",
     "passiveDescription": "Flowing between dimensions Wisp becomes invisible to enemies while in the air. ",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Wisp Reservoirs "
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -84165,6 +84413,30 @@
     "passiveDescription": "Yareli gains +|CHANCE|% Critical Chance for Secondary weapons when she has been moving for at least |TIME|s.",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed breaking their K-Drive and weapon functionality by spamming Transference and Yareli’s Merulina while trying to mount.\nFixed inability to pick up universal Ammo (Lavo’s Transmutation Probe, Protea’s Dispensary, etc) when Yareli is on Merulina. \nFixed the Yareli Noggle missing her skirt."
+      },
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Added Harrow Crucis and Yareli Physalia Helmet Blueprints to the Nightwave Store rotation.",
+        "fixes": "Fixed for some vehicle sounds, including Yareli's Merulina, playing when in the Arsenal after going to the Upgrade screen."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "You can now use Transference while on a K-Drive or when Yareli is using Merulina. ",
+        "fixes": "Fixed numerous abilities not functioning while Yareli is on Merulina.  "
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
         "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
@@ -84218,7 +84490,7 @@
     "tradable": false,
     "type": "Warframe",
     "uniqueName": "/Lotus/Powersuits/Yareli/Yareli",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/6/65/Yareli-Arsenal.webp/revision/latest?cb=20210706231955",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/8/88/YareliNewLook.png/revision/latest?cb=20210731134507",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Yareli"
   },
   {
@@ -84310,6 +84582,14 @@
     "name": "Zephyr",
     "passiveDescription": "Zephyr moves faster and falls slower while airborne. Also gain |CRIT|% Critical Hit chance with weapons while airborne.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.",
+        "fixes": ""
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.2",
         "date": "2021-07-07T20:26:51Z",
@@ -85870,6 +86150,14 @@
     "name": "Zephyr Prime",
     "passiveDescription": "Zephyr moves faster and falls slower while airborne. Also gain |CRIT|% Critical Hit chance with weapons while airborne.",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime, Nyx Prime, Ankyros Prime, Boltor Prime, Hikou Prime, and Scindo Prime Relics have been added to the drop tables! These Relics have replaced the Zephyr and Chroma Prime Relics in the Void drop tables, Bounties, and Relic Packs.",
+        "fixes": ""
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.2",
         "date": "2021-07-07T20:26:51Z",

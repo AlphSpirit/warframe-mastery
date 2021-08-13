@@ -72,7 +72,7 @@
               && m.uniqueName.indexOf("MoaPets") == -1) || m.primeOmegaAttenuation > 0)
         }, {
           name: "Robotics",
-          items: [...Sentinels, ...SentinelWeapons, ...Misc.filter(m => m.name.indexOf("Hound") > -1), ...Pets.filter(p => p.name.indexOf("Moa") > -1 && p.productCategory == "Pistols")].sort((a, b) => a.name.localeCompare(b.name))
+          items: [...Sentinels, ...SentinelWeapons, ...Pets.filter(m => m.name.indexOf("Hound") > -1), ...Pets.filter(p => p.name.indexOf("Moa") > -1 && p.productCategory == "Pistols")].sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Companions",
           items: Pets.filter(p => p.productCategory != "Pistols")

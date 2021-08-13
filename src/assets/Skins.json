@@ -564,7 +564,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardTennoPackA"
   },
   {
@@ -925,7 +925,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichElectric"
   },
   {
@@ -1370,7 +1370,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackA"
   },
   {
@@ -2291,7 +2291,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/OceanADiorama"
   },
   {
@@ -6129,7 +6129,7 @@
     "imageName": "baruuk-background.png",
     "name": "Baruuk Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/BaruukBackground"
   },
   {
@@ -6353,7 +6353,7 @@
     "imageName": "baruuk-theme.png",
     "name": "Baruuk Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/BaruukStyle"
   },
   {
@@ -7294,7 +7294,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackB"
   },
   {
@@ -8037,7 +8037,7 @@
     "imageName": "bombast-instruments.png",
     "name": "Bombast Instruments",
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardHipHopPackA"
   },
   {
@@ -10156,7 +10156,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/CephalonDiorama"
   },
   {
@@ -13076,7 +13076,7 @@
     "imageName": "conquest.png",
     "name": "Conquest",
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichMag"
   },
   {
@@ -13115,7 +13115,7 @@
     "imageName": "controllera.png",
     "name": "Controllera",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerA"
   },
   {
@@ -13125,7 +13125,7 @@
     "imageName": "controllerb.png",
     "name": "Controllerb",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerB"
   },
   {
@@ -13135,7 +13135,7 @@
     "imageName": "controllerc.png",
     "name": "Controllerc",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerC"
   },
   {
@@ -13145,7 +13145,7 @@
     "imageName": "controllerd.png",
     "name": "Controllerd",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerD"
   },
   {
@@ -13155,7 +13155,7 @@
     "imageName": "controllere.png",
     "name": "Controllere",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerE"
   },
   {
@@ -13165,7 +13165,7 @@
     "imageName": "controllerf.png",
     "name": "Controllerf",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerF"
   },
   {
@@ -13175,7 +13175,7 @@
     "imageName": "controllerg.png",
     "name": "Controllerg",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerG"
   },
   {
@@ -13185,7 +13185,7 @@
     "imageName": "controllerh.png",
     "name": "Controllerh",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerH"
   },
   {
@@ -13195,7 +13195,7 @@
     "imageName": "controlleri.png",
     "name": "Controlleri",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerI"
   },
   {
@@ -13205,7 +13205,7 @@
     "imageName": "controllerj.png",
     "name": "Controllerj",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerJ"
   },
   {
@@ -13215,7 +13215,7 @@
     "imageName": "controllerk.png",
     "name": "Controllerk",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/ControllerK"
   },
   {
@@ -13403,7 +13403,7 @@
         "chance": 0.0375,
         "location": "Demolisher Anti Moa",
         "rarity": "Uncommon",
-        "type": "Smite Corpus"
+        "type": "Expel Corpus"
       },
       {
         "chance": 0.0375,
@@ -13415,19 +13415,19 @@
         "chance": 0.0375,
         "location": "Demolisher Anti Moa",
         "rarity": "Uncommon",
-        "type": "Cleanse Corpus"
+        "type": "Smite Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Anti Moa",
         "rarity": "Uncommon",
-        "type": "Expel Corpus"
+        "type": "Cleanse Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Bursa",
         "rarity": "Uncommon",
-        "type": "Smite Corpus"
+        "type": "Expel Corpus"
       },
       {
         "chance": 0.0375,
@@ -13439,19 +13439,19 @@
         "chance": 0.0375,
         "location": "Demolisher Bursa",
         "rarity": "Uncommon",
-        "type": "Cleanse Corpus"
+        "type": "Smite Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Bursa",
         "rarity": "Uncommon",
-        "type": "Expel Corpus"
+        "type": "Cleanse Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Hyena",
         "rarity": "Uncommon",
-        "type": "Smite Corpus"
+        "type": "Expel Corpus"
       },
       {
         "chance": 0.0375,
@@ -13463,19 +13463,19 @@
         "chance": 0.0375,
         "location": "Demolisher Hyena",
         "rarity": "Uncommon",
-        "type": "Cleanse Corpus"
+        "type": "Smite Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Hyena",
         "rarity": "Uncommon",
-        "type": "Expel Corpus"
+        "type": "Cleanse Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Machinist",
         "rarity": "Uncommon",
-        "type": "Smite Corpus"
+        "type": "Expel Corpus"
       },
       {
         "chance": 0.0375,
@@ -13487,13 +13487,13 @@
         "chance": 0.0375,
         "location": "Demolisher Machinist",
         "rarity": "Uncommon",
-        "type": "Cleanse Corpus"
+        "type": "Smite Corpus"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Machinist",
         "rarity": "Uncommon",
-        "type": "Expel Corpus"
+        "type": "Cleanse Corpus"
       },
       {
         "chance": 0.0376,
@@ -13837,6 +13837,14 @@
     "imageName": "corpus.png",
     "name": "Corpus",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Glaxion beam FX issues when used by Corpus enemies from a distance away."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -16745,7 +16753,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/CorpusBackground"
   },
   {
@@ -16755,7 +16763,7 @@
     "imageName": "corpus-crewman-gun-pose-set.png",
     "name": "Corpus Crewman Gun Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/CorpusCrewmanGunPoseSet"
   },
   {
@@ -16765,7 +16773,7 @@
     "imageName": "corpus-crewman-reaction-pose-set.png",
     "name": "Corpus Crewman Reaction Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/CorpusCrewmanReactPoseSet"
   },
   {
@@ -16784,7 +16792,7 @@
     "imageName": "corpus-sounds.png",
     "name": "Corpus Sounds",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Sound",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/CorpusSounds"
   },
   {
@@ -16794,7 +16802,7 @@
     "imageName": "corpus-theme.png",
     "name": "Corpus Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/CorpusStyle"
   },
   {
@@ -17672,7 +17680,7 @@
     "imageName": "dark-lotus-background.png",
     "name": "Dark Lotus Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/NatahBackground"
   },
   {
@@ -17682,7 +17690,7 @@
     "imageName": "dark-lotus-theme.png",
     "name": "Dark Lotus Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NatahStyle"
   },
   {
@@ -17992,7 +18000,7 @@
     "imageName": "darkness.png",
     "name": "Darkness",
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichTrickster"
   },
   {
@@ -18417,7 +18425,7 @@
     "imageName": "deadlock-background.png",
     "name": "Deadlock Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/DeadlockBackground"
   },
   {
@@ -18427,7 +18435,7 @@
     "imageName": "deadlock-theme.png",
     "name": "Deadlock Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/DeadlockStyle"
   },
   {
@@ -18583,7 +18591,7 @@
     "imageName": "deimos-predasite-pattern.png",
     "name": "Deimos Predasite Pattern",
     "tradable": false,
-    "type": "Misc",
+    "type": "Fur Pattern",
     "uniqueName": "/Lotus/Types/Game/InfestedPredatorPet/Patterns/InfestedPredatorPatternDefault"
   },
   {
@@ -18640,7 +18648,7 @@
     "imageName": "delta-instruments.png",
     "name": "Delta Instruments",
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackD"
   },
   {
@@ -20147,6 +20155,14 @@
     "imageName": "dojo.png",
     "name": "Dojo",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed changing the colour of Bash's Lab Dojo room via Polychrome resulting in the Ventkid NPCs skin color also changing."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.2",
         "date": "2021-07-07T20:26:51Z",
@@ -22908,7 +22924,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardGrineerPackA"
   },
   {
@@ -23371,7 +23387,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EarthADiorama"
   },
   {
@@ -25014,7 +25030,7 @@
     "imageName": "empyrean-vignette.png",
     "name": "Empyrean Vignette",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EmpyreanRegionADiorama"
   },
   {
@@ -25255,7 +25271,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackE"
   },
   {
@@ -25311,7 +25327,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/GradientBackground"
   },
   {
@@ -25720,7 +25736,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/EquinoxStyle"
   },
   {
@@ -25937,7 +25953,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/CorpusIcePlanetDiorama"
   },
   {
@@ -27343,6 +27359,14 @@
     "imageName": "eximus.png",
     "name": "Eximus",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "Hound Null Audit Precept now triggers more reliably. Previously it would only trigger if the current target was an Eximus, it will now target a nearby Eximus in range even if they aren't the current target.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -29197,7 +29221,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichIce"
   },
   {
@@ -29780,6 +29804,14 @@
     "imageName": "fire.png",
     "name": "Fire",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Ambassador not triggering its Alt Fire radial attack when it hits an enemy.\nFixed Buzlok Alt Fire homing causing most shots to deal no damage.\nFixed Buzlok Alt Fire homing darts tagging Sisters as “KUVA LICH Agor Rok” and Hound as “[HC] Lawyer Pet”."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -31551,6 +31583,14 @@
     "name": "Follow",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a crash occurring when interacting with a dead Specter ‘Follow’ Context Action after a Host migration occured during a Sister Railjack showdown."
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
         "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
@@ -31702,7 +31742,7 @@
     "imageName": "fortuna-background.png",
     "name": "Fortuna Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/FortunaBackground"
   },
   {
@@ -31712,7 +31752,7 @@
     "imageName": "fortuna-theme.png",
     "name": "Fortuna Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/FortunaStyle"
   },
   {
@@ -33488,7 +33528,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardCorpusPackC"
   },
   {
@@ -36008,6 +36048,12 @@
         "chance": 0.0375,
         "location": "Demolisher Bailiff",
         "rarity": "Uncommon",
+        "type": "Smite Grineer"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Bailiff",
+        "rarity": "Uncommon",
         "type": "Bane Of Grineer"
       },
       {
@@ -36020,13 +36066,13 @@
         "chance": 0.0375,
         "location": "Demolisher Bailiff",
         "rarity": "Uncommon",
-        "type": "Smite Grineer"
+        "type": "Cleanse Grineer"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Bailiff",
+        "location": "Demolisher Devourer",
         "rarity": "Uncommon",
-        "type": "Cleanse Grineer"
+        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -36044,13 +36090,13 @@
         "chance": 0.0375,
         "location": "Demolisher Devourer",
         "rarity": "Uncommon",
-        "type": "Smite Grineer"
+        "type": "Cleanse Grineer"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Devourer",
+        "location": "Demolisher Expired",
         "rarity": "Uncommon",
-        "type": "Cleanse Grineer"
+        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -36068,13 +36114,13 @@
         "chance": 0.0375,
         "location": "Demolisher Expired",
         "rarity": "Uncommon",
-        "type": "Smite Grineer"
+        "type": "Cleanse Grineer"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Expired",
+        "location": "Demolisher Heavy Gunner",
         "rarity": "Uncommon",
-        "type": "Cleanse Grineer"
+        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -36092,13 +36138,13 @@
         "chance": 0.0375,
         "location": "Demolisher Heavy Gunner",
         "rarity": "Uncommon",
-        "type": "Smite Grineer"
+        "type": "Cleanse Grineer"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Heavy Gunner",
+        "location": "Demolisher Kuva Guardian",
         "rarity": "Uncommon",
-        "type": "Cleanse Grineer"
+        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -36116,13 +36162,13 @@
         "chance": 0.0375,
         "location": "Demolisher Kuva Guardian",
         "rarity": "Uncommon",
-        "type": "Smite Grineer"
+        "type": "Cleanse Grineer"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Kuva Guardian",
+        "location": "Demolisher Nox",
         "rarity": "Uncommon",
-        "type": "Cleanse Grineer"
+        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -36135,12 +36181,6 @@
         "location": "Demolisher Nox",
         "rarity": "Uncommon",
         "type": "Expel Grineer"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Nox",
-        "rarity": "Uncommon",
-        "type": "Smite Grineer"
       },
       {
         "chance": 0.0375,
@@ -39842,7 +39882,7 @@
     "imageName": "grineer-background.png",
     "name": "Grineer Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/GrineerBackground"
   },
   {
@@ -39862,7 +39902,7 @@
     "imageName": "grineer-gun-pose-set.png",
     "name": "Grineer Gun Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/GrineerGunPoseSet"
   },
   {
@@ -39892,7 +39932,7 @@
     "imageName": "grineer-reaction-pose-set.png",
     "name": "Grineer Reaction Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/GrineerReactPoseSet"
   },
   {
@@ -39922,7 +39962,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/GrineerStyle"
   },
   {
@@ -41564,10 +41604,62 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Priest/UnlockPriestAgile"
   },
   {
+    "buildPrice": 20000,
+    "buildQuantity": 1,
+    "buildTime": 43200,
     "category": "Skins",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "description": "Carbon steel plates used to reinforce Grineer armor.Locations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+        "itemCount": 3500,
+        "imageName": "alloy-plate.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Helmets/PriestAlt2HelmetBlueprint",
+        "name": "Blueprint",
+        "description": "An alternate helmet for Harrow, minister of the Void's veiled verses.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "description": "Biotech sensor organ harvested from Infested entities.Locations: Earth, Lua, Eris, and Deimos.",
+        "itemCount": 2,
+        "imageName": "neurodes.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.Locations: Ceres, Saturn, and Deimos.",
+        "itemCount": 1,
+        "imageName": "orokin-cell.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "description": "High value metals collected from war salvage.Locations: Mars, Jupiter, and Sedna.",
+        "itemCount": 5000,
+        "imageName": "salvage.png",
+        "tradable": false,
+        "drops": [  ]
+      }
+    ],
+    "consumeOnBuild": true,
     "description": "An alternate helmet for Harrow, minister of the Void's veiled verses.",
     "imageName": "harrow-crucis-helmet.png",
     "name": "Harrow Crucis Helmet",
+    "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Priest/PriestAlt2Helmet"
@@ -42062,7 +42154,7 @@
     "imageName": "hatred.png",
     "name": "Hatred",
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichFire"
   },
   {
@@ -42946,7 +43038,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/ContrastStyle"
   },
   {
@@ -43143,7 +43235,7 @@
     "imageName": "horos-instruments.png",
     "name": "Horos Instruments",
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardEDMPackA"
   },
   {
@@ -43747,19 +43839,19 @@
       },
       {
         "chance": 0.1,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation C",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Arcane Ice"
       },
       {
         "chance": 0.1034,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation C",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Arcane Ice"
       },
       {
         "chance": 0.1034,
-        "location": "Venus/Vesper Strait (Orphix), Rotation C",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Arcane Ice"
       },
@@ -45819,19 +45911,13 @@
         "chance": 0.0375,
         "location": "Demolisher Boiler",
         "rarity": "Uncommon",
-        "type": "Smite Infested"
+        "type": "Expel Infested"
       },
       {
         "chance": 0.0375,
         "location": "Demolisher Boiler",
         "rarity": "Uncommon",
         "type": "Bane Of Infested"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Boiler",
-        "rarity": "Uncommon",
-        "type": "Expel Infested"
       },
       {
         "chance": 0.0375,
@@ -45841,15 +45927,9 @@
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Charger",
+        "location": "Demolisher Boiler",
         "rarity": "Uncommon",
         "type": "Smite Infested"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Charger",
-        "rarity": "Uncommon",
-        "type": "Bane Of Infested"
       },
       {
         "chance": 0.0375,
@@ -45861,19 +45941,19 @@
         "chance": 0.0375,
         "location": "Demolisher Charger",
         "rarity": "Uncommon",
+        "type": "Bane Of Infested"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Charger",
+        "rarity": "Uncommon",
         "type": "Cleanse Infested"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Juggernaut",
+        "location": "Demolisher Charger",
         "rarity": "Uncommon",
         "type": "Smite Infested"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Juggernaut",
-        "rarity": "Uncommon",
-        "type": "Bane Of Infested"
       },
       {
         "chance": 0.0375,
@@ -45885,19 +45965,19 @@
         "chance": 0.0375,
         "location": "Demolisher Juggernaut",
         "rarity": "Uncommon",
+        "type": "Bane Of Infested"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Juggernaut",
+        "rarity": "Uncommon",
         "type": "Cleanse Infested"
       },
       {
         "chance": 0.0375,
-        "location": "Demolisher Thrasher",
+        "location": "Demolisher Juggernaut",
         "rarity": "Uncommon",
         "type": "Smite Infested"
-      },
-      {
-        "chance": 0.0375,
-        "location": "Demolisher Thrasher",
-        "rarity": "Uncommon",
-        "type": "Bane Of Infested"
       },
       {
         "chance": 0.0375,
@@ -45909,7 +45989,19 @@
         "chance": 0.0375,
         "location": "Demolisher Thrasher",
         "rarity": "Uncommon",
+        "type": "Bane Of Infested"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Thrasher",
+        "rarity": "Uncommon",
         "type": "Cleanse Infested"
+      },
+      {
+        "chance": 0.0375,
+        "location": "Demolisher Thrasher",
+        "rarity": "Uncommon",
+        "type": "Smite Infested"
       },
       {
         "chance": 0.0376,
@@ -46307,6 +46399,14 @@
     "imageName": "infested.png",
     "name": "Infested",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "While not currently applicable, we felt it important to note that we’ve made improvements towards Drone pathing in Plague Star that resulted in the Drone becoming stuck, or stopping short of the Infested Boil. While this logic does carry over to the normal Drone escort mission in the Plains of Eidolon, there are some distinct differences due to the specific path it takes in each scenario.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -52842,7 +52942,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/FortressDiorama"
   },
   {
@@ -53340,31 +53440,31 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Engines Mk I"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk I"
       },
       {
         "chance": 0.2,
-        "location": "Venus/Falling Glory (Defense), Rotation A",
+        "location": "Venus/Falling Glory (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk I"
       },
@@ -53424,13 +53524,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk Ii"
       },
@@ -53442,19 +53542,19 @@
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation A",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk Ii"
       },
       {
         "chance": 0.2,
-        "location": "Neptune/Arva Vector (Defense), Rotation A",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk Ii"
       },
       {
         "chance": 0.2,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation A",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk Ii"
       }
@@ -53508,25 +53608,25 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Engines Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Engines Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation A",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk Iii"
       },
@@ -53538,7 +53638,7 @@
       },
       {
         "chance": 0.2,
-        "location": "Pluto/Obol Crossing (Defense), Rotation A",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Engines Mk Iii"
       }
@@ -53586,31 +53686,31 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Plating Mk I"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk I"
       },
       {
         "chance": 0.1765,
-        "location": "Venus/Falling Glory (Defense), Rotation B",
+        "location": "Venus/Falling Glory (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk I"
       },
@@ -53670,13 +53770,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk Ii"
       },
@@ -53688,19 +53788,19 @@
       },
       {
         "chance": 0.1395,
-        "location": "Neptune/Arva Vector (Defense), Rotation B",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk Ii"
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation A",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk Ii"
       },
       {
         "chance": 0.1714,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation B",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk Ii"
       }
@@ -53754,19 +53854,19 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Plating Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation A",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk Iii"
       },
@@ -53778,7 +53878,7 @@
       },
       {
         "chance": 0.1818,
-        "location": "Pluto/Obol Crossing (Defense), Rotation B",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Plating Mk Iii"
       }
@@ -53826,31 +53926,31 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk I"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk I"
       },
       {
         "chance": 0.2,
-        "location": "Venus/Falling Glory (Defense), Rotation A",
+        "location": "Venus/Falling Glory (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk I"
       },
@@ -53910,13 +54010,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk Ii"
       },
@@ -53928,19 +54028,19 @@
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation A",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk Ii"
       },
       {
         "chance": 0.2,
-        "location": "Neptune/Arva Vector (Defense), Rotation A",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk Ii"
       },
       {
         "chance": 0.2,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation A",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk Ii"
       }
@@ -53994,25 +54094,25 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Reactor Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation A",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk Iii"
       },
@@ -54024,7 +54124,7 @@
       },
       {
         "chance": 0.2,
-        "location": "Pluto/Obol Crossing (Defense), Rotation A",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Reactor Mk Iii"
       }
@@ -54072,31 +54172,31 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk I"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Vesper Strait (Orphix), Rotation A",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk I"
       },
       {
         "chance": 0.1765,
-        "location": "Venus/Falling Glory (Defense), Rotation B",
+        "location": "Venus/Falling Glory (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk I"
       },
@@ -54156,13 +54256,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk Ii"
       },
@@ -54174,19 +54274,19 @@
       },
       {
         "chance": 0.1395,
-        "location": "Neptune/Arva Vector (Defense), Rotation B",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk Ii"
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation A",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk Ii"
       },
       {
         "chance": 0.1714,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation B",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk Ii"
       }
@@ -54240,25 +54340,25 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Lavan Shield Array Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation A",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk Iii"
       },
@@ -54270,7 +54370,7 @@
       },
       {
         "chance": 0.1818,
-        "location": "Pluto/Obol Crossing (Defense), Rotation B",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Lavan Shield Array Mk Iii"
       }
@@ -54527,7 +54627,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/LegacyBackground"
   },
   {
@@ -54537,7 +54637,7 @@
     "imageName": "legacy-sounds.png",
     "name": "Legacy Sounds",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Sound",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/LegacySounds"
   },
   {
@@ -54557,7 +54657,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/LegacyStyle"
   },
   {
@@ -57593,7 +57693,7 @@
     "imageName": "lotus-theme.png",
     "name": "Lotus Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/LotusStyle"
   },
   {
@@ -57612,7 +57712,7 @@
     "imageName": "lotusarchwingcustomization.png",
     "name": "Lotusarchwingcustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusArchwingCustomization"
   },
   {
@@ -57622,7 +57722,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Heads/CatbrowHeadA"
   },
   {
@@ -57632,7 +57732,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Heads/CatbrowHeadB"
   },
   {
@@ -57642,7 +57742,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Heads/CatbrowHeadC"
   },
   {
@@ -57652,7 +57752,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Heads/CatbrowHeadD"
   },
   {
@@ -57662,7 +57762,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/CatbrowPet/Heads/CatbrowHeadVampire"
   },
   {
@@ -57672,7 +57772,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Heads/InfestedCritterHeadA"
   },
   {
@@ -57682,7 +57782,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Heads/InfestedCritterHeadB"
   },
   {
@@ -57692,7 +57792,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Heads/InfestedCritterHeadC"
   },
   {
@@ -57702,7 +57802,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Tails/InfestedCritterTailA"
   },
   {
@@ -57712,7 +57812,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Tails/InfestedCritterTailB"
   },
   {
@@ -57722,7 +57822,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedKavatPet/Tails/InfestedCritterTailC"
   },
   {
@@ -57732,7 +57832,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedPredatorPet/Heads/InfestedPredatorHeadA"
   },
   {
@@ -57742,7 +57842,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedPredatorPet/Heads/InfestedPredatorHeadB"
   },
   {
@@ -57752,7 +57852,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skins",
     "uniqueName": "/Lotus/Types/Game/InfestedPredatorPet/Heads/InfestedPredatorHeadC"
   },
   {
@@ -57762,7 +57862,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusCompanionCustomization"
   },
   {
@@ -57772,7 +57872,7 @@
     "imageName": "lotuscompanioncustomization.png",
     "name": "Lotuscompanioncustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusEmptyCompanionCustomization"
   },
   {
@@ -57782,7 +57882,7 @@
     "imageName": "lotusoperatorcustomization.png",
     "name": "Lotusoperatorcustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusOperatorCustomization"
   },
   {
@@ -57792,7 +57892,7 @@
     "imageName": "lotuswarframecustomization.png",
     "name": "Lotuswarframecustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusSpecterCustomization"
   },
   {
@@ -57802,7 +57902,7 @@
     "imageName": "lotuswarframecustomization.png",
     "name": "Lotuswarframecustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusWarframeCustomization"
   },
   {
@@ -57841,7 +57941,7 @@
     "imageName": "lotusweaponcustomization.png",
     "name": "Lotusweaponcustomization",
     "tradable": false,
-    "type": "Misc",
+    "type": "Skin",
     "uniqueName": "/Lotus/Types/Game/LotusWeaponCustomization"
   },
   {
@@ -57871,7 +57971,7 @@
     "imageName": "lua-vignette.png",
     "name": "Lua Vignette",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/OrokinMoonDiorama"
   },
   {
@@ -59405,7 +59505,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/SettlementDiorama"
   },
   {
@@ -61827,7 +61927,7 @@
     "imageName": "mousegreya.png",
     "name": "Mousegreya",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyA"
   },
   {
@@ -61837,7 +61937,7 @@
     "imageName": "mousegreyb.png",
     "name": "Mousegreyb",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyB"
   },
   {
@@ -61847,7 +61947,7 @@
     "imageName": "mousegreyc.png",
     "name": "Mousegreyc",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyC"
   },
   {
@@ -61857,7 +61957,7 @@
     "imageName": "mousegreyd.png",
     "name": "Mousegreyd",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyD"
   },
   {
@@ -61867,7 +61967,7 @@
     "imageName": "mousegreye.png",
     "name": "Mousegreye",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyE"
   },
   {
@@ -61877,7 +61977,7 @@
     "imageName": "mousegreyf.png",
     "name": "Mousegreyf",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyF"
   },
   {
@@ -61887,7 +61987,7 @@
     "imageName": "mousegreyg.png",
     "name": "Mousegreyg",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseGreyG"
   },
   {
@@ -61897,7 +61997,7 @@
     "imageName": "mouselinea.png",
     "name": "Mouselinea",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineA"
   },
   {
@@ -61907,7 +62007,7 @@
     "imageName": "mouselineb.png",
     "name": "Mouselineb",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineB"
   },
   {
@@ -61917,7 +62017,7 @@
     "imageName": "mouselinec.png",
     "name": "Mouselinec",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineC"
   },
   {
@@ -61927,7 +62027,7 @@
     "imageName": "mouselined.png",
     "name": "Mouselined",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineD"
   },
   {
@@ -61937,7 +62037,7 @@
     "imageName": "mouselinee.png",
     "name": "Mouselinee",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineE"
   },
   {
@@ -61947,7 +62047,7 @@
     "imageName": "mouselinef.png",
     "name": "Mouselinef",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineF"
   },
   {
@@ -61957,7 +62057,7 @@
     "imageName": "mouselineg.png",
     "name": "Mouselineg",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineG"
   },
   {
@@ -61967,7 +62067,7 @@
     "imageName": "mouselineh.png",
     "name": "Mouselineh",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineH"
   },
   {
@@ -61977,7 +62077,7 @@
     "imageName": "mouselinei.png",
     "name": "Mouselinei",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseLineI"
   },
   {
@@ -61987,7 +62087,7 @@
     "imageName": "mouseyareli.png",
     "name": "Mouseyareli",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Cursors/MouseYareli"
   },
   {
@@ -63934,7 +64034,7 @@
     "imageName": "nidus-theme.png",
     "name": "Nidus Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/NidusStyle"
   },
   {
@@ -63981,6 +64081,22 @@
     "imageName": "nightwave.png",
     "name": "Nightwave",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "Added the Sevagoth Lucifuge Helmet to the Nightwave Cred Offerings rotation.",
+        "changes": "Nightwave: Prime Vault: Hotfix 30.6.1:",
+        "fixes": ""
+      },
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Nightwave: Nora’S Choice: Update 30.6.0:\nIt’s time to tune into Nora’s latest program, Nightwave: Nora’s Choice, is coming to all platforms today at 2pm ET!\nNora’s Choice brings back a slew of classic Nightwave Rewards while adding exclusive new items into the mix, like the Ride The Wave Glyph and the mesmerizing Waveform Ephemera.\nAdded Harrow Crucis and Yareli Physalia Helmet Blueprints to the Nightwave Store rotation.\nCorrected the ‘Feed The Beast’ Nightwave Weekly Act to award the proper 4500 Standing.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -66206,6 +66322,16 @@
   },
   {
     "category": "Skins",
+    "description": "A small wobbly statue of Yareli and Merulina.",
+    "excludeFromCodex": true,
+    "imageName": "noggle-statue---yareli-and-merulina.png",
+    "name": "Noggle Statue - Yareli And Merulina",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliMerulinaBobbleHead"
+  },
+  {
+    "category": "Skins",
     "description": "A small wobbly statue of Zephyr.",
     "imageName": "noggle-statue---zephyr.png",
     "name": "Noggle Statue - Zephyr",
@@ -66460,6 +66586,14 @@
     "name": "Noru Prime Syandana",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Noru Prime Syandana\nNoru Prime Syandana\nNoru Prime Syandana",
+        "fixes": ""
+      },
+      {
         "name": "Update 17.5: The Jordas Precept. + Hotfix 17.5.1",
         "date": "2015-10-02T02:05:33Z",
         "url": "https://forums.warframe.com/topic/536207-update-175-the-jordas-precept-hotfix-1751/",
@@ -66498,6 +66632,66 @@
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Scarves/NidusDeluxeScarf"
+  },
+  {
+    "category": "Skins",
+    "description": "A beacon capable of displaying custom messages.",
+    "excludeFromCodex": true,
+    "imageName": "note-beacon.png",
+    "name": "Note Beacon",
+    "patchlogs": [
+      {
+        "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
+        "date": "2021-03-19T15:18:34Z",
+        "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
+        "additions": "",
+        "changes": "Fixed seeing Note Beacon and Tributa Statue \"text\" through walls when placed in the Dojo.",
+        "fixes": ""
+      },
+      {
+        "name": "Atlas Prime: Update 25.8.0 + 25.8.0.1",
+        "date": "2019-10-01T18:00:28Z",
+        "url": "https://forums.warframe.com/topic/1131643-atlas-prime-update-2580-25801/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Note Beacon text not appearing for Orbiter guests."
+      },
+      {
+        "name": "Prime Vault: Hotfix 25.3.3 + 25.3.3.1",
+        "date": "2019-07-16T18:00:37Z",
+        "url": "https://forums.warframe.com/topic/1111888-prime-vault-hotfix-2533-25331/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed crashes caused by typing in forbidden characters in the Tribute statue and Note Beacon."
+      },
+      {
+        "name": "Fortuna: Update 24.3.0 - Nightwave",
+        "date": "2019-02-27T18:58:21Z",
+        "url": "https://forums.warframe.com/topic/1064591-fortuna-update-2430-nightwave/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Note Beacon text appearing in Navigation dioramas if placed behind the Navigation console."
+      },
+      {
+        "name": "Fortuna: Update 24.0",
+        "date": "2018-11-08T20:46:20Z",
+        "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed incorrect color combinations when choosing ‘white’ as one of the colors for the Note Beacon Decoration."
+      },
+      {
+        "name": "Chimera: Hotfix 23.10.5",
+        "date": "2018-10-18T14:52:11Z",
+        "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
+        "additions": "Added a Decoration called the ‘Note Beacon’! A beacon capable of displaying custom messages that can be placed in both Orbiter and Dojo!",
+        "changes": "",
+        "fixes": ""
+      }
+    ],
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Objects/Tenno/Props/TnoLisetTextProjector"
   },
   {
     "category": "Skins",
@@ -69063,7 +69257,7 @@
     "imageName": "orb-pose-set.png",
     "name": "Orb Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/ArachnoidCamperPoseSet"
   },
   {
@@ -71759,7 +71953,7 @@
     "imageName": "orokin-theme.png",
     "name": "Orokin Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/OrokinStyle"
   },
   {
@@ -72756,6 +72950,14 @@
     "name": "Parazon",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed outdated loading screen tips related to Parazon Mercy eligibility. "
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.3",
         "date": "2021-07-09T15:07:34Z",
         "url": "https://forums.warframe.com/topic/1270868-sisters-of-parvos-hotfix-3053%C2%A0%C2%A0/",
@@ -73533,7 +73735,7 @@
     "imageName": "plains-of-eidolon-vignette.png",
     "name": "Plains Of Eidolon Vignette",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/EidolonADiorama"
   },
   {
@@ -73644,7 +73846,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Note Packs",
     "uniqueName": "/Lotus/Types/Game/NotePacks/BardGrineerPackB"
   },
   {
@@ -78046,6 +78248,16 @@
   },
   {
     "category": "Skins",
+    "description": "A cover for Yareli's first ever Graphica adventure, suitable for display in the Orbiter.",
+    "excludeFromCodex": true,
+    "imageName": "ride-the-wave-poster.png",
+    "name": "Ride The Wave Poster",
+    "tradable": false,
+    "type": "Ship Decoration",
+    "uniqueName": "/Lotus/Types/Items/ShipDecos/YareliComicCoverPoster"
+  },
+  {
+    "category": "Skins",
     "description": "Decorative shoulder plates for your Warframe.",
     "excludeFromCodex": true,
     "imageName": "right-eos-prime-shoulder-plates.png",
@@ -78723,7 +78935,7 @@
     "imageName": "ropalolyst-pose-set.png",
     "name": "Ropalolyst Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/RopalolystPoseSet"
   },
   {
@@ -79285,7 +79497,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichPoison"
   },
   {
@@ -81397,11 +81609,70 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Wraith/WraithHelmet"
   },
   {
+    "buildPrice": 20000,
+    "buildQuantity": 1,
+    "buildTime": 43200,
     "category": "Skins",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "description": "Carbon steel plates used to reinforce Grineer armor.Locations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+        "itemCount": 6000,
+        "imageName": "alloy-plate.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Helmets/SevagothAltHelmetBlueprint",
+        "name": "Blueprint",
+        "description": "A macabre alternate helmet for Sevagoth, the Warframe who harbors the Shadow.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/NeuralSensor",
+        "name": "Neural Sensors",
+        "description": "Implanted neural-link for controlling augmentations. Grineer design.Location: Jupiter",
+        "itemCount": 5,
+        "imageName": "neural-sensors.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
+        "name": "Nitain Extract",
+        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.This resource can be acquired from Nightwave offerings.",
+        "itemCount": 2,
+        "imageName": "nitain-extract.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.Locations: Ceres, Saturn, and Deimos.",
+        "itemCount": 2,
+        "imageName": "orokin-cell.png",
+        "tradable": false,
+        "drops": [  ]
+      }
+    ],
+    "consumeOnBuild": true,
     "description": "A macabre alternate helmet for Sevagoth, the Warframe who harbors the Shadow.",
     "imageName": "sevagoth-lucifuge-helmet.png",
     "name": "Sevagoth Lucifuge Helmet",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "Added the Sevagoth Lucifuge Helmet to the Nightwave Cred Offerings rotation.",
+        "changes": "",
+        "fixes": ""
+      },
       {
         "name": "Call of the Tempestarii: Update 30",
         "date": "2021-04-13T18:04:02Z",
@@ -81411,6 +81682,7 @@
         "fixes": "Sevagoth Lucifuge Helmet by Voli"
       }
     ],
+    "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Wraith/WraithAltHelmet"
@@ -83526,6 +83798,14 @@
     "name": "Smoke",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Ash Smoke Shadow Augment"
+      },
+      {
         "name": "Gara Prime: Hotfix 30.3.5",
         "date": "2021-06-10T19:47:41Z",
         "url": "https://forums.warframe.com/topic/1267287-gara-prime-hotfix-3035/",
@@ -85202,7 +85482,7 @@
     "imageName": "stalker-background.png",
     "name": "Stalker Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/StalkerBackground"
   },
   {
@@ -85212,7 +85492,7 @@
     "imageName": "stalker-theme.png",
     "name": "Stalker Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/StalkerStyle"
   },
   {
@@ -85746,6 +86026,14 @@
     "imageName": "storm.png",
     "name": "Storm",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Rhino Prime returns alongside his Prime Weapons and exclusive Customizations for a limited time. With Nyx Prime already available to earn through Void Storm Missions, there are now even more opportunities to obtain this deadly psychic Warframe and her Prime Accessories.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -90111,7 +90399,7 @@
     "imageName": "tenno-gun-pose-set.png",
     "name": "Tenno Gun Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/WarframeGunPoseSet"
   },
   {
@@ -90440,7 +90728,7 @@
     "imageName": "tenno-theme.png",
     "name": "Tenno Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/TennoStyle"
   },
   {
@@ -90783,7 +91071,7 @@
     "imageName": "teralyst-pose-set.png",
     "name": "Teralyst Pose Set",
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/PoseSets/TeralystPoseSet"
   },
   {
@@ -92724,6 +93012,14 @@
     "imageName": "transmission.png",
     "name": "Transmission",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on player Transmissions."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.3",
         "date": "2021-07-09T15:07:34Z",
@@ -95265,7 +95561,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Color Palette",
     "uniqueName": "/Lotus/Types/StoreItems/SuitCustomizations/Nemesis/ColourPickerKuvaLichBase"
   },
   {
@@ -98065,7 +98361,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Ship Decoration",
     "uniqueName": "/Lotus/Types/Game/ActionFigureDioramas/VenusADiorama"
   },
   {
@@ -98256,31 +98552,31 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Engines Mk I"
       },
       {
         "chance": 0.1364,
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk I"
       },
       {
         "chance": 0.1765,
-        "location": "Venus/Falling Glory (Defense), Rotation B",
+        "location": "Venus/Falling Glory (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk I"
       },
@@ -98340,13 +98636,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Ii"
       },
@@ -98358,19 +98654,19 @@
       },
       {
         "chance": 0.1364,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation B",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Ii"
       },
       {
         "chance": 0.1395,
-        "location": "Neptune/Arva Vector (Defense), Rotation B",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Ii"
       },
       {
         "chance": 0.1714,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation B",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Ii"
       }
@@ -98424,31 +98720,31 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Engines Mk Iii"
       },
@@ -98460,13 +98756,13 @@
       },
       {
         "chance": 0.1364,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation B",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Orphix), Rotation A",
+        "location": "Veil/Erato (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Iii"
       },
@@ -98478,19 +98774,19 @@
       },
       {
         "chance": 0.1818,
-        "location": "Pluto/Obol Crossing (Defense), Rotation B",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.2143,
-        "location": "Veil/Arc Silver (Defense), Rotation A",
+        "location": "Veil/Arc Silver (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Iii"
       },
       {
         "chance": 0.2143,
-        "location": "Veil/Lu-Yan (Volatile), Rotation A",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Engines Mk Iii"
       }
@@ -98538,19 +98834,19 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Plating Mk I"
       },
@@ -98562,13 +98858,13 @@
       },
       {
         "chance": 0.1364,
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk I"
       },
       {
         "chance": 0.1579,
-        "location": "Venus/Falling Glory (Defense), Rotation C",
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk I"
       }
@@ -98622,13 +98918,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Ii"
       },
@@ -98640,19 +98936,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation C",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Ii"
       },
       {
         "chance": 0.1277,
-        "location": "Neptune/Arva Vector (Defense), Rotation C",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Ii"
       },
       {
         "chance": 0.1364,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation B",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Ii"
       }
@@ -98706,31 +99002,31 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Plating Mk Iii"
       },
@@ -98748,31 +99044,31 @@
       },
       {
         "chance": 0.1364,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation B",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Orphix), Rotation A",
+        "location": "Veil/Erato (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.1538,
-        "location": "Pluto/Obol Crossing (Defense), Rotation C",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation B",
+        "location": "Veil/Arc Silver (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Lu-Yan (Volatile), Rotation B",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Plating Mk Iii"
       }
@@ -98820,19 +99116,19 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk I"
       },
@@ -98844,13 +99140,13 @@
       },
       {
         "chance": 0.1364,
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk I"
       },
       {
         "chance": 0.1579,
-        "location": "Venus/Falling Glory (Defense), Rotation C",
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk I"
       }
@@ -98904,13 +99200,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Ii"
       },
@@ -98922,19 +99218,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation C",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Ii"
       },
       {
         "chance": 0.1277,
-        "location": "Neptune/Arva Vector (Defense), Rotation C",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Ii"
       },
       {
         "chance": 0.1364,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation B",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Ii"
       }
@@ -98988,31 +99284,31 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Reactor Mk Iii"
       },
@@ -99030,31 +99326,31 @@
       },
       {
         "chance": 0.1364,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation B",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Orphix), Rotation A",
+        "location": "Veil/Erato (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.1538,
-        "location": "Pluto/Obol Crossing (Defense), Rotation C",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.2143,
-        "location": "Veil/Arc Silver (Defense), Rotation A",
+        "location": "Veil/Arc Silver (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Iii"
       },
       {
         "chance": 0.2143,
-        "location": "Veil/Lu-Yan (Volatile), Rotation A",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Reactor Mk Iii"
       }
@@ -99102,19 +99398,19 @@
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk I"
       },
       {
         "chance": 0.0732,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk I"
       },
       {
         "chance": 0.08,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation C",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk I"
       },
@@ -99126,13 +99422,13 @@
       },
       {
         "chance": 0.1364,
-        "location": "Venus/Vesper Strait (Orphix), Rotation B",
+        "location": "Venus/Vesper Strait (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk I"
       },
       {
         "chance": 0.1579,
-        "location": "Venus/Falling Glory (Defense), Rotation C",
+        "location": "Venus/Falling Glory (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk I"
       }
@@ -99186,13 +99482,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Ii"
       },
       {
         "chance": 0.0723,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Ii"
       },
@@ -99204,19 +99500,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation C",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Ii"
       },
       {
         "chance": 0.1277,
-        "location": "Neptune/Arva Vector (Defense), Rotation C",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Ii"
       },
       {
         "chance": 0.1364,
-        "location": "Neptune/Mammon's Prospect (Orphix), Rotation B",
+        "location": "Neptune/Mammon's Prospect (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Ii"
       }
@@ -99270,31 +99566,31 @@
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.08,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation C",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "Vidar Shield Array Mk Iii"
       },
@@ -99312,31 +99608,31 @@
       },
       {
         "chance": 0.1364,
-        "location": "Pluto/Khufu Envoy (Orphix), Rotation B",
+        "location": "Pluto/Khufu Envoy (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Orphix), Rotation A",
+        "location": "Veil/Erato (Skirmish), Rotation A",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.1538,
-        "location": "Pluto/Obol Crossing (Defense), Rotation C",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation B",
+        "location": "Veil/Arc Silver (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Lu-Yan (Volatile), Rotation B",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Vidar Shield Array Mk Iii"
       }
@@ -99560,7 +99856,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/HelminthBackground"
   },
   {
@@ -99570,7 +99866,7 @@
     "imageName": "vitruvian-sounds.png",
     "name": "Vitruvian Sounds",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Sound",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/HelminthSounds"
   },
   {
@@ -99580,7 +99876,7 @@
     "imageName": "vitruvian-theme.png",
     "name": "Vitruvian Theme",
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/HelminthStyle"
   },
   {
@@ -100394,7 +100690,7 @@
     "drops": [
       {
         "chance": 0.003,
-        "location": "Necramech (Tier 2)",
+        "location": "Nechramech (Tier 2)",
         "rarity": "Rare",
         "type": "Necramech Seismic Wave"
       },
@@ -100475,6 +100771,14 @@
     "imageName": "wave.png",
     "name": "Wave",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Nora’s Choice brings back a slew of classic Nightwave Rewards while adding exclusive new items into the mix, like the Ride The Wave Glyph and the mesmerizing Waveform Ephemera.",
+        "fixes": "Fixed Bindings used for K-Drive tricks may be displayed incorrectly in the Waverider Quest."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.3",
         "date": "2021-07-09T15:07:34Z",
@@ -100895,6 +101199,26 @@
   },
   {
     "category": "Skins",
+    "description": "Sweet frequencies ripple through this Nightwave themed ephemera.",
+    "excludeFromCodex": true,
+    "imageName": "waveform-ephemera.png",
+    "name": "Waveform Ephemera",
+    "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Nora’s Choice brings back a slew of classic Nightwave Rewards while adding exclusive new items into the mix, like the Ride The Wave Glyph and the mesmerizing Waveform Ephemera.",
+        "fixes": ""
+      }
+    ],
+    "tradable": false,
+    "type": "Skin",
+    "uniqueName": "/Lotus/Upgrades/Skins/Effects/NightwaveIntermissionEphemera"
+  },
+  {
+    "category": "Skins",
     "description": "An exceedingly rare Graphica chronicling the first known adventure of the Warframe Yareli.",
     "imageName": "waverider-#1.png",
     "name": "Waverider #1",
@@ -101283,13 +101607,13 @@
         "chance": 0.1355,
         "location": "Wolf Of Saturn Six",
         "rarity": "Common",
-        "type": "Wolf Sledge Head"
+        "type": "Wolf Sledge Handle"
       },
       {
         "chance": 0.1355,
         "location": "Wolf Of Saturn Six",
         "rarity": "Common",
-        "type": "Wolf Sledge Handle"
+        "type": "Wolf Sledge Head"
       }
     ],
     "excludeFromCodex": true,
@@ -102735,11 +103059,70 @@
     "uniqueName": "/Lotus/Upgrades/Skins/Yareli/YareliNobleAnims"
   },
   {
+    "buildPrice": 20000,
+    "buildQuantity": 1,
+    "buildTime": 43200,
     "category": "Skins",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
+        "name": "Alloy Plate",
+        "description": "Carbon steel plates used to reinforce Grineer armor.Locations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
+        "itemCount": 350,
+        "imageName": "alloy-plate.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Helmets/YareliAltHelmetBlueprint",
+        "name": "Blueprint",
+        "description": "Emerge from the depths with this alternative helmet for Yareli.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Neurode",
+        "name": "Neurodes",
+        "description": "Biotech sensor organ harvested from Infested entities.Locations: Earth, Lua, Eris, and Deimos.",
+        "itemCount": 2,
+        "imageName": "neurodes.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.Locations: Ceres, Saturn, and Deimos.",
+        "itemCount": 1,
+        "imageName": "orokin-cell.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
+        "name": "Salvage",
+        "description": "High value metals collected from war salvage.Locations: Mars, Jupiter, and Sedna.",
+        "itemCount": 500,
+        "imageName": "salvage.png",
+        "tradable": false,
+        "drops": [  ]
+      }
+    ],
+    "consumeOnBuild": true,
     "description": "Emerge from the depths with this alternative helmet for Yareli.",
     "imageName": "yareli-physalia-helmet.png",
     "name": "Yareli Physalia Helmet",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Added Harrow Crucis and Yareli Physalia Helmet Blueprints to the Nightwave Store rotation.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -102749,6 +103132,7 @@
         "fixes": ""
       }
     ],
+    "skipBuildTimePrice": 25,
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Yareli/YareliAltHelmet"
@@ -103188,6 +103572,16 @@
     "description": "A fashionable accessory for your Operator.",
     "imageName": "zato-oculus.png",
     "name": "Zato Oculus",
+    "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an invisible volume appearing if you Transferred to your Operator who had the Zato Oculus equipped, resulting in movement issues."
+      }
+    ],
     "tradable": false,
     "type": "Skin",
     "uniqueName": "/Lotus/Upgrades/Skins/Operator/Accessories/ExcaliburDeluxeEyepiece"
@@ -103802,7 +104196,7 @@
     "imageName": "zephyr-harrier-background.png",
     "name": "Zephyr Harrier Background",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Background",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Backgrounds/ZephyrDeluxeBackground"
   },
   {
@@ -103876,7 +104270,7 @@
     "imageName": "zephyr-harrier-sounds.png",
     "name": "Zephyr Harrier Sounds",
     "tradable": false,
-    "type": "Misc",
+    "type": "Theme Sound",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/Sounds/ZephyrDeluxeSounds"
   },
   {
@@ -103896,7 +104290,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Themes",
     "uniqueName": "/Lotus/Interface/Graphics/CustomUI/ZephyrDeluxeStyle"
   },
   {
@@ -104203,13 +104597,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Engines Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Engines Mk Iii"
       },
@@ -104227,19 +104621,19 @@
       },
       {
         "chance": 0.1364,
-        "location": "Veil/Erato (Orphix), Rotation B",
+        "location": "Veil/Erato (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Engines Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation B",
+        "location": "Veil/Arc Silver (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Engines Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Lu-Yan (Volatile), Rotation B",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Engines Mk Iii"
       }
@@ -104317,13 +104711,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Plating Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Plating Mk Iii"
       },
@@ -104341,19 +104735,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Veil/Lu-Yan (Volatile), Rotation C",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Plating Mk Iii"
       },
       {
         "chance": 0.1364,
-        "location": "Veil/Erato (Orphix), Rotation B",
+        "location": "Veil/Erato (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Plating Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation C",
+        "location": "Veil/Arc Silver (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Plating Mk Iii"
       }
@@ -104431,13 +104825,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Reactor Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Reactor Mk Iii"
       },
@@ -104455,19 +104849,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Veil/Lu-Yan (Volatile), Rotation C",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Reactor Mk Iii"
       },
       {
         "chance": 0.1364,
-        "location": "Veil/Erato (Orphix), Rotation B",
+        "location": "Veil/Erato (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Reactor Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation C",
+        "location": "Veil/Arc Silver (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Reactor Mk Iii"
       }
@@ -104545,13 +104939,13 @@
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Shield Array Mk Iii"
       },
       {
         "chance": 0.0723,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Zetki Shield Array Mk Iii"
       },
@@ -104569,19 +104963,19 @@
       },
       {
         "chance": 0.125,
-        "location": "Veil/Lu-Yan (Volatile), Rotation C",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Shield Array Mk Iii"
       },
       {
         "chance": 0.1364,
-        "location": "Veil/Erato (Orphix), Rotation B",
+        "location": "Veil/Erato (Skirmish), Rotation B",
         "rarity": "Uncommon",
         "type": "Zetki Shield Array Mk Iii"
       },
       {
         "chance": 0.1714,
-        "location": "Veil/Arc Silver (Defense), Rotation C",
+        "location": "Veil/Arc Silver (Skirmish), Rotation C",
         "rarity": "Uncommon",
         "type": "Zetki Shield Array Mk Iii"
       }

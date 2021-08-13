@@ -1,6 +1,36 @@
 [
   {
     "category": "Resources",
+    "description": "/Lotus/Language/Items/RelayReconstructionItemADesc",
+    "excludeFromCodex": true,
+    "imageName": "lotus-language-items-relayreconstructionitemaname.png",
+    "name": "/Lotus/Language/Items/Relayreconstructionitemaname",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemA"
+  },
+  {
+    "category": "Resources",
+    "description": "/Lotus/Language/Items/RelayReconstructionItemBDesc",
+    "excludeFromCodex": true,
+    "imageName": "lotus-language-items-relayreconstructionitembname.png",
+    "name": "/Lotus/Language/Items/Relayreconstructionitembname",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemB"
+  },
+  {
+    "category": "Resources",
+    "description": "/Lotus/Language/Items/RelayReconstructionItemCDesc",
+    "excludeFromCodex": true,
+    "imageName": "lotus-language-items-relayreconstructionitemcname.png",
+    "name": "/Lotus/Language/Items/Relayreconstructionitemcname",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemC"
+  },
+  {
+    "category": "Resources",
     "description": "With a blazing orange hue and rigid material strength, this compound is prized by ship and station architects.",
     "imageName": "lotus-language-relayreconstruction-relayreconphase1leftitemname.png",
     "name": "/Lotus/Language/Relayreconstruction/Relayreconphase1leftitemname",
@@ -338,7 +368,7 @@
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Arva Vector (Defense)",
+        "location": "Neptune/Arva Vector (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -350,25 +380,25 @@
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile)",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Mammon's Prospect (Orphix)",
+        "location": "Neptune/Mammon's Prospect (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -380,31 +410,31 @@
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Khufu Envoy (Orphix)",
+        "location": "Pluto/Khufu Envoy (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Obol Crossing (Defense)",
+        "location": "Pluto/Obol Crossing (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Peregrine Axis (Orphix)",
+        "location": "Pluto/Peregrine Axis (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -440,19 +470,19 @@
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Arc Silver (Defense)",
+        "location": "Veil/Arc Silver (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Erato (Orphix)",
+        "location": "Veil/Erato (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -470,7 +500,7 @@
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Lu-Yan (Volatile)",
+        "location": "Veil/Lu-Yan (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -482,7 +512,7 @@
       },
       {
         "chance": 0.1429,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -500,19 +530,19 @@
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Falling Glory (Defense)",
+        "location": "Venus/Falling Glory (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -524,13 +554,13 @@
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
       {
         "chance": 0.1429,
-        "location": "Venus/Vesper Strait (Orphix)",
+        "location": "Venus/Vesper Strait (Skirmish)",
         "rarity": "Uncommon",
         "type": "5X Asterite"
       },
@@ -4916,6 +4946,16 @@
   },
   {
     "category": "Resources",
+    "description": "A token symbolizing a converted Kuva Lich. Can be traded to other players for control of said Lich.",
+    "excludeFromCodex": true,
+    "imageName": "lich-token.png",
+    "name": "Lich Token",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedGrineerLichToken"
+  },
+  {
+    "category": "Resources",
     "description": "These orbs have long since fulfilled their original function, but still, thrum with faint power.",
     "drops": [
       {
@@ -5851,7 +5891,7 @@
       },
       {
         "chance": 0.0714,
-        "location": "Neptune/Arva Vector (Defense)",
+        "location": "Neptune/Arva Vector (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -5863,25 +5903,25 @@
       },
       {
         "chance": 0.0714,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile)",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Neptune/Mammon's Prospect (Orphix)",
+        "location": "Neptune/Mammon's Prospect (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -5893,31 +5933,31 @@
       },
       {
         "chance": 0.0714,
-        "location": "Pluto/Khufu Envoy (Orphix)",
+        "location": "Pluto/Khufu Envoy (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Pluto/Obol Crossing (Defense)",
+        "location": "Pluto/Obol Crossing (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Pluto/Peregrine Axis (Orphix)",
+        "location": "Pluto/Peregrine Axis (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -5953,19 +5993,19 @@
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Arc Silver (Defense)",
+        "location": "Veil/Arc Silver (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Erato (Orphix)",
+        "location": "Veil/Erato (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -5983,7 +6023,7 @@
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Lu-Yan (Volatile)",
+        "location": "Veil/Lu-Yan (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -5995,7 +6035,7 @@
       },
       {
         "chance": 0.0714,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -6013,19 +6053,19 @@
       },
       {
         "chance": 0.0714,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Venus/Falling Glory (Defense)",
+        "location": "Venus/Falling Glory (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -6037,13 +6077,13 @@
       },
       {
         "chance": 0.0714,
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
       {
         "chance": 0.0714,
-        "location": "Venus/Vesper Strait (Orphix)",
+        "location": "Venus/Vesper Strait (Skirmish)",
         "rarity": "Rare",
         "type": "Nullstones"
       },
@@ -7607,6 +7647,16 @@
   },
   {
     "category": "Resources",
+    "description": "Once part of an intricate Entrati apparatus, now shattered and bearing a sharp edge.",
+    "excludeFromCodex": true,
+    "imageName": "seriglass-shard.png",
+    "name": "Seriglass Shard",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard"
+  },
+  {
+    "category": "Resources",
     "description": "Covers everything from hab rent to insurance, docking permits and paying off that rail tractor. Big ticket items.",
     "drops": [
       {
@@ -7680,6 +7730,16 @@
     "tradable": false,
     "type": "Resource",
     "uniqueName": "/Lotus/Types/Items/Solaris/DebtTokenB"
+  },
+  {
+    "category": "Resources",
+    "description": "A token symbolizing a converted Sister of Parvos. Can be traded to other players for control of said Sister of Parvos.",
+    "excludeFromCodex": true,
+    "imageName": "sister-of-parvos-token.png",
+    "name": "Sister Of Parvos Token",
+    "tradable": false,
+    "type": "Resource",
+    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedCorpusLichToken"
   },
   {
     "category": "Resources",
@@ -8973,7 +9033,7 @@
       },
       {
         "chance": 0.2857,
-        "location": "Neptune/Arva Vector (Defense)",
+        "location": "Neptune/Arva Vector (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -8985,25 +9045,25 @@
       },
       {
         "chance": 0.2857,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile)",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Neptune/Mammon's Prospect (Orphix)",
+        "location": "Neptune/Mammon's Prospect (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9015,31 +9075,31 @@
       },
       {
         "chance": 0.2857,
-        "location": "Pluto/Khufu Envoy (Orphix)",
+        "location": "Pluto/Khufu Envoy (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Pluto/Obol Crossing (Defense)",
+        "location": "Pluto/Obol Crossing (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Pluto/Peregrine Axis (Orphix)",
+        "location": "Pluto/Peregrine Axis (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9075,19 +9135,19 @@
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Arc Silver (Defense)",
+        "location": "Veil/Arc Silver (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Erato (Orphix)",
+        "location": "Veil/Erato (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9105,7 +9165,7 @@
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Lu-Yan (Volatile)",
+        "location": "Veil/Lu-Yan (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9117,7 +9177,7 @@
       },
       {
         "chance": 0.2857,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9135,19 +9195,19 @@
       },
       {
         "chance": 0.2857,
-        "location": "Venus/Beacon Shield Ring (Volatile)",
+        "location": "Venus/Beacon Shield Ring (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Venus/Bifrost Echo (Exterminate)",
+        "location": "Venus/Bifrost Echo (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Venus/Falling Glory (Defense)",
+        "location": "Venus/Falling Glory (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
@@ -9159,13 +9219,13 @@
       },
       {
         "chance": 0.2857,
-        "location": "Venus/Orvin-Haarc (Exterminate)",
+        "location": "Venus/Orvin-Haarc (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },
       {
         "chance": 0.2857,
-        "location": "Venus/Vesper Strait (Orphix)",
+        "location": "Venus/Vesper Strait (Skirmish)",
         "rarity": "Uncommon",
         "type": "200X Titanium"
       },

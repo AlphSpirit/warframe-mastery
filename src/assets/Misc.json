@@ -29,36 +29,6 @@
   },
   {
     "category": "Misc",
-    "description": "/Lotus/Language/Items/RelayReconstructionItemADesc",
-    "excludeFromCodex": true,
-    "imageName": "lotus-language-items-relayreconstructionitemaname.png",
-    "name": "/Lotus/Language/Items/Relayreconstructionitemaname",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemA"
-  },
-  {
-    "category": "Misc",
-    "description": "/Lotus/Language/Items/RelayReconstructionItemBDesc",
-    "excludeFromCodex": true,
-    "imageName": "lotus-language-items-relayreconstructionitembname.png",
-    "name": "/Lotus/Language/Items/Relayreconstructionitembname",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemB"
-  },
-  {
-    "category": "Misc",
-    "description": "/Lotus/Language/Items/RelayReconstructionItemCDesc",
-    "excludeFromCodex": true,
-    "imageName": "lotus-language-items-relayreconstructionitemcname.png",
-    "name": "/Lotus/Language/Items/Relayreconstructionitemcname",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Events/RelayReconstructionItemC"
-  },
-  {
-    "category": "Misc",
     "description": "",
     "excludeFromCodex": true,
     "imageName": "lotus-language-shipfeatureitems-shipfeaturealchemyroom.png",
@@ -87,77 +57,6 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MiscItems/ModSlotUnlocker"
-  },
-  {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyABlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreBAlloyBItem",
-        "name": "Coprite Alloy",
-        "description": "Coprun that has been forged into a stronger metal.",
-        "itemCount": 40,
-        "imageName": "coprite-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
-        "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.Locations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
-        "itemCount": 1500,
-        "imageName": "rubedo.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
-        "name": "Spectral Debris",
-        "description": "Discharged specter particles form an inert dust that can be collected and re-energized for various robotic projects.",
-        "excludeFromCodex": true,
-        "itemCount": 5,
-        "imageName": "spectral-debris.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisUncommonOreAAlloyItem",
-        "name": "Venerdo Alloy",
-        "description": "A compound formed from Venerol.",
-        "itemCount": 25,
-        "imageName": "venerdo-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "adlet-core.png",
-    "masteryReq": 0,
-    "name": "Adlet Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyA"
   },
   {
     "category": "Misc",
@@ -314,7 +213,7 @@
     "imageName": "alloy-plate.png",
     "itemCount": 1000,
     "name": "Alloy Plate",
-    "parents": [ "Adrenal Stim", "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Asa Syandana", "Baruuk Meroe Helmet", "Calcifin Stim", "Chroma Amaru Helmet", "Chroma Drac Helmet", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Excalibur Mordred Helmet", "Force Specter", "Fragor Brokk Skin", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Ketos Helmet", "Hydroid Triton Helmet", "Inaros Canopic Helmet", "Ivara Zirastra Helmet", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Loki Enigma Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Mirage Harlequin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Nova Slipstream Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Pazza Sugatra", "Penta Shock-Camo Skin", "Pharoma", "Phase Specter", "Protea Telema Helmet", "Prova Shock-Camo Skin", "Scindo Dagger-Axe Skin", "Scindo Forest-Camo Skin", "Scindo Manticore Skin", "Soma Forest-Camo Skin", "Squad Energy Restore (Medium)", "Squad Shield Restore (Large)", "Squad Shield Restore (Medium)", "Tantu Sugatra", "Titan Extractor Prime", "Titania Aurai Helmet", "Titania Mab Helmet", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vauban Armistice Helmet", "Wisp Gaoth Helmet", "Wukong Macak Helmet", "Yomo Syandana" ],
+    "parents": [ "Adrenal Stim", "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Asa Syandana", "Baruuk Meroe Helmet", "Calcifin Stim", "Chroma Amaru Helmet", "Chroma Drac Helmet", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Excalibur Mordred Helmet", "Force Specter", "Fragor Brokk Skin", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Crucis Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Ketos Helmet", "Hydroid Triton Helmet", "Inaros Canopic Helmet", "Ivara Zirastra Helmet", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Loki Enigma Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Mirage Harlequin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Nova Slipstream Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Pazza Sugatra", "Penta Shock-Camo Skin", "Pharoma", "Phase Specter", "Protea Telema Helmet", "Prova Shock-Camo Skin", "Scindo Dagger-Axe Skin", "Scindo Forest-Camo Skin", "Scindo Manticore Skin", "Sevagoth Lucifuge Helmet", "Soma Forest-Camo Skin", "Squad Energy Restore (Medium)", "Squad Shield Restore (Large)", "Squad Shield Restore (Medium)", "Tantu Sugatra", "Titan Extractor Prime", "Titania Aurai Helmet", "Titania Mab Helmet", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vauban Armistice Helmet", "Wisp Gaoth Helmet", "Wukong Macak Helmet", "Yareli Physalia Helmet", "Yomo Syandana" ],
     "patchlogs": [
       {
         "name": "Heart of Deimos: Hotfix 29.0.4",
@@ -1133,11 +1032,43 @@
   },
   {
     "accuracy": 16.666666,
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 3.33,
+        "crit_chance": 50,
+        "crit_mult": 3,
+        "status_chance": 50,
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
+        "damage": {
+          "impact": 10
+        }
+      },
+      {
+        "name": "Radial Attack",
+        "radius": 600,
+        "speed": 3.33,
+        "crit_chance": 50,
+        "crit_mult": 3,
+        "status_chance": 50,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 6
+        },
+        "damage": {
+          "heat": 3000,
+          "blast": 9000
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0.5,
     "criticalMultiplier": 3,
     "damagePerShot": [ 10, 0, 0, 3000, 0, 0, 0, 9000, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "[PH] Description",
     "disposition": 1,
     "excludeFromCodex": true,
@@ -1266,11 +1197,77 @@
   },
   {
     "accuracy": 100,
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Base Uncharged Shot",
+        "speed": 1,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 20,
+        "shot_type": "Projectile",
+        "shot_speed": 70,
+        "flight": 70,
+        "damage": {
+          "impact": 33.6,
+          "slash": 14.4,
+          "puncture": 192
+        }
+      },
+      {
+        "name": "Base Charged Shot",
+        "speed": 1,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 20,
+        "charge_time": 1,
+        "shot_type": "Projectile",
+        "shot_speed": 85,
+        "flight": 85,
+        "damage": {
+          "impact": 33.6,
+          "slash": 14.4,
+          "puncture": 192
+        }
+      },
+      {
+        "name": "Concentrated Arrow Shot",
+        "speed": 1,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 20,
+        "shot_type": "Projectile",
+        "shot_speed": 70,
+        "flight": 70,
+        "damage": {
+          "impact": 33.6,
+          "slash": 14.4,
+          "puncture": 192
+        }
+      },
+      {
+        "name": "Concentrated Arrow Headshot Explosion",
+        "radius": 700,
+        "speed": 1,
+        "crit_chance": 75,
+        "crit_mult": 2,
+        "status_chance": 0,
+        "charge_time": 1,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 7,
+          "reduction": 0
+        },
+        "damage": {
+          "blast": 500
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0.25,
     "criticalMultiplier": 2,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "Summon a mighty bow and unleash a volley of devastating arrows.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -2320,11 +2317,75 @@
   },
   {
     "accuracy": 100,
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Uncharged Shot",
+        "speed": 0.833,
+        "crit_chance": 5,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "shot_type": "Projectile",
+        "shot_speed": 20,
+        "flight": 20,
+        "damage": {
+          "electricity": 500
+        }
+      },
+      {
+        "name": "Uncharged AoE",
+        "radius": 300,
+        "speed": 0.833,
+        "crit_chance": 5,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 3,
+          "reduction": 0
+        },
+        "damage": {
+          "electricity": 500
+        }
+      },
+      {
+        "name": "Charged Shot",
+        "speed": 0.833,
+        "crit_chance": 5,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "charge_time": 2,
+        "shot_type": "Projectile",
+        "shot_speed": 20,
+        "flight": 20,
+        "damage": {
+          "electricity": 1000
+        }
+      },
+      {
+        "name": "Charged Shot AoE",
+        "radius": 300,
+        "speed": 0.833,
+        "crit_chance": 5,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "charge_time": 2,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 3,
+          "reduction": 0
+        },
+        "damage": {
+          "electricity": 1000
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0.050000001,
     "criticalMultiplier": 1.5,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "Charges up and releases bolts of Balefire.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -2368,11 +2429,26 @@
     "wikiaUrl": "http://warframe.fandom.com/wiki/Balefire_Charger"
   },
   {
+    "attacks": [
+      {
+        "name": "Balla Strike (Gilded)",
+        "speed": 1,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 11.2,
+          "slash": 78.4,
+          "puncture": 134.4
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "drops": [
       {
         "chance": 0.0357,
@@ -2384,6 +2460,13 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "balla.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Balla",
     "omegaAttenuation": 0.89999998,
@@ -2405,14 +2488,33 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipOne"
+    "type": "Dagger / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipOne",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/8/8e/ZawStrikeBalla.png/revision/latest?cb=20171221181921",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Balla"
   },
   {
+    "attacks": [
+      {
+        "name": "Balla Strike (Gilded)",
+        "speed": 1,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 11.2,
+          "slash": 78.4,
+          "puncture": 134.4
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -2556,8 +2658,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "fireRate": 0,
     "imageName": "balla.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Balla",
     "omegaAttenuation": 0.89999998,
@@ -2579,13 +2689,18 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipOne"
+    "type": "Dagger / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipOne",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/8/8e/ZawStrikeBalla.png/revision/latest?cb=20171221181921",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Balla"
   },
   {
     "buildPrice": 5000,
@@ -2931,7 +3046,7 @@
     "skipBuildTimePrice": 25,
     "totalDamage": 0,
     "tradable": false,
-    "type": "Misc",
+    "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Primary/SUModularPrimarySet1/Handles/SUModularPrimaryHandleAPart"
   },
   {
@@ -3184,6 +3299,20 @@
     "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedMaggotCommon"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 4.88,
+        "crit_chance": 17,
+        "crit_mult": 1.5,
+        "status_chance": 5,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "void": 1460
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -3239,7 +3368,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -3262,12 +3390,29 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/7/77/CanticPrism.png/revision/latest?cb=20210321020618",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Cantic_Prism"
   },
   {
+    "ammo": 70,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Projectile",
+        "falloff": {
+          "start": 8,
+          "end": 16,
+          "reduction": 0.9375
+        },
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -3324,12 +3469,36 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "catchmoon.png",
+    "introduced": {
+      "name": "Update 24.0",
+      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
+      "aliases": [ "24", "24.0", "Fortuna" ],
+      "parent": "24.0",
+      "date": "2018-11-08"
+    },
     "masteryReq": 0,
     "name": "Catchmoon",
     "omegaAttenuation": 0.5,
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Galvanized Mods not properly functioning with the Catchmoon’s guaranteed Impact proc."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "One outlier to be fixed is the interaction with the Catchmoon’s guaranteed Impact proc."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -3403,14 +3572,19 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 1.05,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun Component",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart"
+    "type": "Kitgun",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/7/7d/KitgunChamberCatchmoon.png/revision/latest?cb=20181110154407",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Catchmoon"
   },
   {
     "category": "Misc",
@@ -3420,76 +3594,6 @@
     "tradable": false,
     "type": "Conservation Tag",
     "uniqueName": "/Lotus/Types/Items/Deimos/AnimalTagInfestedMaggotRare"
-  },
-  {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsABlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
-        "name": "Brickie Muon Battery",
-        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
-        "itemCount": 15,
-        "imageName": "brickie-muon-battery.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/IraditeItem",
-        "name": "Iradite",
-        "description": "A valuable mineral found on the Plains.",
-        "itemCount": 25,
-        "imageName": "iradite.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidWraithItem",
-        "name": "Sola Toroid",
-        "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.Earn Sola Toroids from enemies located at the Temple of Profit in the Orb Vallis and from Kyta Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis.",
-        "itemCount": 5,
-        "imageName": "sola-toroid.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
-        "name": "Travocyte Alloy",
-        "description": "A compound formed from Travoride.",
-        "itemCount": 35,
-        "imageName": "travocyte-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "cela-bracket.png",
-    "masteryReq": 0,
-    "name": "Cela Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsA"
   },
   {
     "category": "Misc",
@@ -4565,35 +4669,6 @@
   },
   {
     "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "crescent-vulpaphyla.png",
-    "masteryReq": 0,
-    "name": "Crescent Vulpaphyla",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when a Crescent Vulpaphyla used Crescent Charge on a target that died."
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedCritterUncommonRewardItem"
-  },
-  {
-    "category": "Misc",
     "description": "For saving a specimen of this species.",
     "imageName": "crescent-vulpaphyla-tag.png",
     "name": "Crescent Vulpaphyla Tag",
@@ -4991,11 +5066,26 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishBPartItem"
   },
   {
+    "attacks": [
+      {
+        "name": "Cyath Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 46,
+          "slash": 172.5,
+          "puncture": 11.5
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "drops": [
       {
         "chance": 0.0357,
@@ -5007,6 +5097,13 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "cyath.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Cyath",
     "omegaAttenuation": 0.89999998,
@@ -5020,14 +5117,33 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipFour"
+    "type": "Machete / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipFour",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/5/5a/ZawStrikeCyath.png/revision/latest?cb=20171221181820",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Cyath"
   },
   {
+    "attacks": [
+      {
+        "name": "Cyath Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 46,
+          "slash": 172.5,
+          "puncture": 11.5
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -5279,8 +5395,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "fireRate": 0,
     "imageName": "cyath.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Cyath",
     "omegaAttenuation": 0.89999998,
@@ -5294,13 +5418,18 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFour"
+    "type": "Machete / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFour",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/5/5a/ZawStrikeCyath.png/revision/latest?cb=20171221181820",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Cyath"
   },
   {
     "category": "Misc",
@@ -5309,7 +5438,7 @@
     "imageName": "dangerroomtile.png",
     "name": "Dangerroomtile",
     "tradable": false,
-    "type": "Misc",
+    "type": "Simulacrum",
     "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTile"
   },
   {
@@ -5459,11 +5588,26 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/SteelMeridianUncommonDogTag"
   },
   {
+    "attacks": [
+      {
+        "name": "Dehtat Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 22.4,
+          "slash": 89.6,
+          "puncture": 112
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "drops": [
       {
         "chance": 0.0357,
@@ -5475,17 +5619,43 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "dehtat.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Dehtat",
     "omegaAttenuation": 1.2,
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipFive"
+    "type": "Rapier / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipFive",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/a/af/ZawStrikeDehtat.png/revision/latest?cb=20171221181948",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Dehtat"
   },
   {
+    "attacks": [
+      {
+        "name": "Dehtat Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 22.4,
+          "slash": 89.6,
+          "puncture": 112
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -5623,18 +5793,31 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "fireRate": 0,
     "imageName": "dehtat.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Dehtat",
     "omegaAttenuation": 1.2,
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFive"
+    "type": "Rapier / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipFive",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/a/af/ZawStrikeDehtat.png/revision/latest?cb=20171221181948",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Dehtat"
   },
   {
     "category": "Misc",
@@ -5835,14 +6018,33 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Deimos/FishParts/DeimosInfestedFishBPartItem"
   },
   {
+    "attacks": [
+      {
+        "speed": 1,
+        "crit_chance": 50,
+        "crit_mult": 2,
+        "status_chance": 15,
+        "damage": {
+          "impact": 250
+        },
+        "slide": "750",
+        "slam": {
+          "damage": "750.00",
+          "radial": {
+            "damage": "250.00",
+            "element": "Blast",
+            "proc": "undefined",
+            "radius": 8
+          }
+        }
+      }
+    ],
     "blockingAngle": 60,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.5,
     "criticalMultiplier": 2,
     "damagePerShot": [ 83.324997, 83.333244, 83.341751, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "Baruuk channels the desert wind to turn his fists and feet into an exalted weapon.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -5935,11 +6137,26 @@
   },
   {
     "accuracy": 22.988506,
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 5.83,
+        "crit_chance": 10,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "impact": 16,
+          "slash": 128,
+          "puncture": 16
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0.1,
     "criticalMultiplier": 2,
     "damagePerShot": [ 5, 5, 40, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -6215,6 +6432,47 @@
     "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusB/HoverboardCorpusBFront"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 1,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 20,
+        "shot_type": "Projectile",
+        "damage": {
+          "impact": 15
+        }
+      },
+      {
+        "name": "Explosion",
+        "radius": 1200,
+        "speed": 1,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 20,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 12,
+          "reduction": 0.6
+        },
+        "damage": {
+          "void": 6600
+        }
+      },
+      {
+        "name": "Explosive Fragments",
+        "speed": 1,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 20,
+        "damage": {
+          "void": 300
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -6270,7 +6528,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -6311,7 +6568,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Chassis/CorpAmpSet1ChassisPartB",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/e/e1/DissicScaffold.png/revision/latest?cb=20210321020927",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Dissic_Scaffold"
@@ -6360,6 +6617,14 @@
     "imageName": "distilling-extractor.png",
     "name": "Distilling Extractor",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Distilling Extractor Prime + Blueprint\nDistilling Extractor Prime + Blueprint\nDistilling Extractor Prime + Blueprint",
+        "fixes": ""
+      },
       {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
         "date": "2018-07-24T17:56:42Z",
@@ -6429,6 +6694,14 @@
     "name": "Distilling Extractor Prime",
     "patchlogs": [
       {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "Distilling Extractor Prime + Blueprint\nDistilling Extractor Prime + Blueprint\nDistilling Extractor Prime + Blueprint",
+        "fixes": ""
+      },
+      {
         "name": "The Sacrifice: Prime Vault Hotfix 23.1.2!",
         "date": "2018-07-24T17:56:42Z",
         "url": "https://forums.warframe.com/topic/987805-the-sacrifice-prime-vault-hotfix-2312/",
@@ -6445,14 +6718,35 @@
     "uniqueName": "/Lotus/Types/Ship/AdvancedUcResourceDrone"
   },
   {
+    "attacks": [
+      {
+        "speed": 1.08,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "damage": {
+          "impact": 30,
+          "slash": 20,
+          "puncture": 150
+        },
+        "slide": "429",
+        "slam": {
+          "damage": "200.00",
+          "radial": {
+            "damage": "200.00",
+            "element": "undefined",
+            "proc": "undefined",
+            "radius": 8
+          }
+        }
+      }
+    ],
     "blockingAngle": 90,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.2,
     "criticalMultiplier": 2,
     "damagePerShot": [ 7.5000005, 37.5, 5.000001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -6699,6 +6993,20 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/DogTag"
   },
   {
+    "attacks": [
+      {
+        "name": "Dokrahm Strike (Gilded)",
+        "speed": 1,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 46.4,
+          "slash": 154.5,
+          "puncture": 108.1
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -6755,8 +7063,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "dokrahm.png",
+    "introduced": {
+      "name": "Update 22.18",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.18",
+      "aliases": [ "22.18.0", "22.18", "Beasts of the Sanctuary", "BotS" ],
+      "parent": "22.18",
+      "date": "2018-04-20"
+    },
     "masteryReq": 0,
     "name": "Dokrahm",
     "omegaAttenuation": 0.75,
@@ -6778,13 +7094,18 @@
         "fixes": "Fixed being unable to Chat link Dokrahm, Rabvee or Sephfan Zaws."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-04-20",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipEleven"
+    "type": "Scythe / Heavy Blade",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipEleven",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/6/68/ZawStrikeDokrahm.png/revision/latest?cb=20180421215346",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Dokrahm"
   },
   {
     "category": "Misc",
@@ -8020,14 +8341,37 @@
     "uniqueName": "/Lotus/Upgrades/Mods/FusionBundles/EvergreenLoginRewardFusionBundle"
   },
   {
+    "attacks": [
+      {
+        "speed": 0.833,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 15,
+        "shot_speed": 15,
+        "flight": 15,
+        "damage": {
+          "impact": 37.5,
+          "slash": 175,
+          "puncture": 37.5
+        },
+        "slide": "536",
+        "slam": {
+          "damage": "750.00",
+          "radial": {
+            "damage": "250.00",
+            "element": "Impact",
+            "proc": "undefined",
+            "radius": 7
+          }
+        }
+      }
+    ],
     "blockingAngle": 60,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.15000001,
     "criticalMultiplier": 2,
     "damagePerShot": [ 5.25, 5.25, 24.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "Summon a sword of pure light and immense power.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -8836,14 +9180,37 @@
     "windUp": 0.60000002
   },
   {
+    "attacks": [
+      {
+        "speed": 0.833,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 15,
+        "shot_speed": 15,
+        "flight": 15,
+        "damage": {
+          "impact": 37.5,
+          "slash": 175,
+          "puncture": 37.5
+        },
+        "slide": "536",
+        "slam": {
+          "damage": "750.00",
+          "radial": {
+            "damage": "250.00",
+            "element": "Impact",
+            "proc": "undefined",
+            "radius": 7
+          }
+        }
+      }
+    ],
     "blockingAngle": 60,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.15000001,
     "criticalMultiplier": 2,
     "damagePerShot": [ 5.25, 5.25, 24.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "Summon a sword of pure light and immense power.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -8884,6 +9251,37 @@
     "windUp": 0.60000002
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 8.26,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 28,
+        "shot_type": "Projectile",
+        "damage": {
+          "impact": 200
+        }
+      },
+      {
+        "name": "Explosion",
+        "radius": 100,
+        "speed": 8.26,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 28,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 1,
+          "reduction": 0.3
+        },
+        "damage": {
+          "void": 2600
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -8939,7 +9337,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -9004,7 +9401,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Chassis/CorpAmpSet1ChassisPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/37/ExardScaffold.png/revision/latest?cb=20210321020842",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Exard_Scaffold"
@@ -9320,7 +9717,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Fish Bait",
     "uniqueName": "/Lotus/Types/Items/Deimos/InfestedWyrmBlood"
   },
   {
@@ -18620,76 +19017,6 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/FoundryFeatureItem"
   },
   {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailCBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
-        "name": "Circuits",
-        "description": "Various electronic components.Locations: Venus, Ceres, and the Kuva Fortress.",
-        "itemCount": 600,
-        "imageName": "circuits.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Ferrite",
-        "name": "Ferrite",
-        "description": "Alloy pellets used in Grineer manufacturing.Locations: Mercury, Earth, Lua, Neptune, and the Void.",
-        "itemCount": 2500,
-        "imageName": "ferrite.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisRareOreAAlloyItem",
-        "name": "Hespazym Alloy",
-        "description": "A compound formed from Hesperon.",
-        "itemCount": 20,
-        "imageName": "hespazym-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
-        "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.This resource can be acquired from Nightwave offerings.",
-        "itemCount": 3,
-        "imageName": "nitain-extract.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "frak-stabilizer.png",
-    "masteryReq": 0,
-    "name": "Frak Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailC"
-  },
-  {
     "category": "Misc",
     "description": "For saving a specimen of this subspecies.",
     "excludeFromCodex": true,
@@ -18946,77 +19273,6 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/VayHekCoordinateFragmentB"
   },
   {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
-        "name": "Axidrol Alloy",
-        "description": "A compound formed from Axidite.",
-        "itemCount": 40,
-        "imageName": "axidrol-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyBBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosUncommonOreAAlloyItem",
-        "name": "Devolved Namalon",
-        "description": "Retrieved from its Infested state, restored to worth and utility.",
-        "itemCount": 25,
-        "imageName": "devolved-namalon.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
-        "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.Locations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
-        "itemCount": 1500,
-        "imageName": "rubedo.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
-        "name": "Spectral Debris",
-        "description": "Discharged specter particles form an inert dust that can be collected and re-energized for various robotic projects.",
-        "excludeFromCodex": true,
-        "itemCount": 5,
-        "imageName": "spectral-debris.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "garmr-core.png",
-    "masteryReq": 0,
-    "name": "Garmr Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyB"
-  },
-  {
     "blockingAngle": 60,
     "category": "Misc",
     "comboDuration": 5,
@@ -19167,6 +19423,18 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileGasCityConStraightEOpen"
   },
   {
+    "ammo": 400,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Discharge",
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -19462,8 +19730,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "fireRate": 0,
     "imageName": "gaze.png",
+    "introduced": {
+      "name": "Update 24.0",
+      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
+      "aliases": [ "24", "24.0", "Fortuna" ],
+      "parent": "24.0",
+      "date": "2018-11-08"
+    },
     "masteryReq": 0,
     "name": "Gaze",
     "omegaAttenuation": 0.89999998,
@@ -19582,14 +19858,19 @@
         "fixes": "Fixed Clients having no recoil on their secondary weapon after they transferred to their Operator and used Madurai’s Phoenix Gaze."
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 1,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun Component",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart"
+    "type": "Kitgun",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/d/d1/KitgunChamberGaze.png/revision/latest?cb=20181110154438",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Gaze"
   },
   {
     "category": "Misc",
@@ -19815,6 +20096,37 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/BothCommonFishBPartItem"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 2.07,
+        "crit_chance": 16,
+        "crit_mult": 1.5,
+        "status_chance": 2,
+        "shot_type": "Projectile",
+        "damage": {
+          "void": 1000
+        }
+      },
+      {
+        "name": "Explosion",
+        "radius": 350,
+        "speed": 2.07,
+        "crit_chance": 16,
+        "crit_mult": 1.5,
+        "status_chance": 2,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 3.5,
+          "reduction": 0.3
+        },
+        "damage": {
+          "void": 1400
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -19870,7 +20182,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -19951,7 +20262,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartC",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/2d/SentAmpSet1BarrelC.png/revision/latest?cb=20210322130744",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Granmu_Prism"
@@ -21171,76 +21482,6 @@
     "uniqueName": "/Lotus/Types/Vehicles/Hoverboard/HoverboardParts/PartComponents/HoverboardCorpusC/HoverboardCorpusCEngine"
   },
   {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/AlloyPlate",
-        "name": "Alloy Plate",
-        "description": "Carbon steel plates used to reinforce Grineer armor.Locations: Venus, Phobos, Ceres, Jupiter, Pluto, and Sedna.",
-        "itemCount": 2500,
-        "imageName": "alloy-plate.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/RareOreAAlloyAItem",
-        "name": "Auroxium Alloy",
-        "description": "Auron that has been forged into a stronger metal.",
-        "itemCount": 20,
-        "imageName": "auroxium-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailBBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
-        "name": "Circuits",
-        "description": "Various electronic components.Locations: Venus, Ceres, and the Kuva Fortress.",
-        "itemCount": 600,
-        "imageName": "circuits.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
-        "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.This resource can be acquired from Nightwave offerings.",
-        "itemCount": 3,
-        "imageName": "nitain-extract.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "hinta-stabilizer.png",
-    "masteryReq": 0,
-    "name": "Hinta Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailB"
-  },
-  {
     "category": "Misc",
     "description": "Medallion of Red Veil syndicate. Can be traded in on relay syndicate hubs for additional standing.",
     "imageName": "honored-mark.png",
@@ -21599,16 +21840,6 @@
   },
   {
     "category": "Misc",
-    "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
-    "excludeFromCodex": true,
-    "imageName": "intermission-iv-cred.png",
-    "name": "Intermission Iv Cred",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionFourCreds"
-  },
-  {
-    "category": "Misc",
     "description": "Medallion of the Cephalon Suda syndicate. Can be traded in on relay syndicate hubs for additional standing.",
     "imageName": "intriguing-datum.png",
     "name": "Intriguing Datum",
@@ -21617,14 +21848,34 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/CephalonUncommonDogTag"
   },
   {
+    "attacks": [
+      {
+        "speed": 1,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 30,
+        "damage": {
+          "impact": 170,
+          "slash": 80
+        },
+        "slide": "250",
+        "slam": {
+          "damage": "750.00",
+          "radial": {
+            "damage": "250.00",
+            "element": "Impact",
+            "proc": "undefined",
+            "radius": 7
+          }
+        }
+      }
+    ],
     "blockingAngle": 65,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.25,
     "criticalMultiplier": 2,
     "damagePerShot": [ 204, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "A unique staff wielded by the Wukong Warframe.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -21912,13 +22163,35 @@
     "windUp": 0.5
   },
   {
+    "attacks": [
+      {
+        "speed": 0.833,
+        "crit_chance": 45,
+        "crit_mult": 3,
+        "status_chance": 15,
+        "damage": {
+          "impact": 45,
+          "slash": 210,
+          "puncture": 45
+        },
+        "slide": "600",
+        "slam": {
+          "damage": "600.00",
+          "radial": {
+            "damage": "300.00",
+            "element": "undefined",
+            "proc": "undefined",
+            "radius": 10
+          }
+        }
+      }
+    ],
     "blockingAngle": 90,
     "category": "Misc",
     "comboDuration": 5,
     "criticalChance": 0.44999999,
     "criticalMultiplier": 3,
     "damagePerShot": [ 70.5, 70.5, 329, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "[PH] Description",
     "disposition": 1,
     "excludeFromCodex": true,
@@ -22840,6 +23113,20 @@
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularCritIIReloadIClipPart"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 12,
+        "crit_chance": 23,
+        "crit_mult": 1.9,
+        "status_chance": 5,
+        "shot_type": "Discharge",
+        "damage": {
+          "void": 600
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -22895,7 +23182,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -22944,12 +23230,26 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartC",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/2c/KlamoraPrism.png/revision/latest?cb=20210321020721",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Klamora_Prism"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 12,
+        "crit_chance": 6,
+        "crit_mult": 1.1,
+        "status_chance": 4,
+        "shot_type": "Discharge",
+        "damage": {
+          "void": 320
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -23005,7 +23305,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -23046,7 +23345,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartC",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/32/SentAmpSet1ChassisC.png/revision/latest?cb=20210322130813",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Klebrik_Scaffold"
@@ -23151,11 +23450,25 @@
     "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishThermalLaserItem"
   },
   {
+    "attacks": [
+      {
+        "name": "Kronsh Strike (Gilded)",
+        "speed": 0.85,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 163.8,
+          "puncture": 70.2
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "drops": [
       {
         "chance": 0.0357,
@@ -23167,6 +23480,13 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "kronsh.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Kronsh",
     "omegaAttenuation": 1.3,
@@ -23188,14 +23508,32 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipSix"
+    "type": "Machete / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipSix",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/b/bf/ZawStrikeKronsh.png/revision/latest?cb=20171221181854",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Kronsh"
   },
   {
+    "attacks": [
+      {
+        "name": "Kronsh Strike (Gilded)",
+        "speed": 0.85,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 163.8,
+          "puncture": 70.2
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -23363,8 +23701,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "fireRate": 0,
     "imageName": "kronsh.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Kronsh",
     "omegaAttenuation": 1.3,
@@ -23386,13 +23732,18 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipSix"
+    "type": "Machete / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipSix",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/b/bf/ZawStrikeKronsh.png/revision/latest?cb=20171221181854",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Kronsh"
   },
   {
     "buildPrice": 5000,
@@ -24073,6 +24424,22 @@
     "itemCount": 6000,
     "name": "Kuva",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when setting a Kuva Lich as On-Call while having no other Crew members."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed case of Sister/Kuva Lich not spawning when using a Requiem Ultimatum, which also consumed the item.\nFixed the \"JOIN ANY CREW\" button in the Railjack Star Chart allowing you to join a Kuva Lich or Sister showdown mission, which resulted in an error message if you do not have a proper Kuva Lich or Sister."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -25741,6 +26108,22 @@
     "parents": [ "Bishamo Cuirass", "Bleeding Body Ephemera", "Naberus Ephemera", "Umbra Forma" ],
     "patchlogs": [
       {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error when setting a Kuva Lich as On-Call while having no other Crew members."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed case of Sister/Kuva Lich not spawning when using a Requiem Ultimatum, which also consumed the item.\nFixed the \"JOIN ANY CREW\" button in the Railjack Star Chart allowing you to join a Kuva Lich or Sister showdown mission, which resulted in an error message if you do not have a proper Kuva Lich or Sister."
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
         "url": "https://forums.warframe.com/topic/1272505-sisters-of-parvos-hotfix-3054/",
@@ -27202,6 +27585,20 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/ArbitersUncommonDogTag"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 7.5,
+        "crit_chance": 4,
+        "crit_mult": 1.1,
+        "status_chance": 17,
+        "shot_type": "Discharge",
+        "damage": {
+          "void": 600
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -27257,7 +27654,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -27299,7 +27695,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Barrel/CorpAmpSet1BarrelPartB",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/e/ea/LegaPrism.png/revision/latest?cb=20210321020745",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Lega_Prism"
@@ -27394,16 +27790,6 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MiscItems/LibraryScannerUpgrade"
-  },
-  {
-    "category": "Misc",
-    "description": "A token symbolizing a converted Kuva Lich. Can be traded to other players for control of said Lich.",
-    "excludeFromCodex": true,
-    "imageName": "lich-token.png",
-    "name": "Lich Token",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedGrineerLichToken"
   },
   {
     "buildPrice": 6500,
@@ -28686,7 +29072,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Melee",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusModularMeleeRandomModRare"
   },
   {
@@ -28698,7 +29084,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusModularPistolRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Secondary",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusModularPistolRandomModRare"
   },
   {
@@ -28710,7 +29096,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusPistolRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Secondary",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusPistolRandomModRare"
   },
   {
@@ -28722,7 +29108,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusRifleRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Rifle",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusRifleRandomModRare"
   },
   {
@@ -28734,7 +29120,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusShotgunRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Shotgun",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/LotusShotgunRandomModRare"
   },
   {
@@ -29972,29 +30358,17 @@
   {
     "category": "Misc",
     "description": "Medallion of Red Veil syndicate. Can be traded in on relay syndicate hubs for additional standing.",
-    "drops": [
-      {
-        "location": "Gyre Butcher",
-        "type": "Marked Target",
-        "chance": 0.0009,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Gyre Elite Lancer",
-        "type": "Marked Target",
-        "chance": 0.0009,
-        "rarity": "Rare"
-      },
-      {
-        "location": "Venus/Orb Vallis (Subsequent Completions), Rotation C",
-        "type": "Marked Target",
-        "chance": 0.15,
-        "rarity": "Uncommon"
-      }
-    ],
     "imageName": "mark.png",
     "name": "Mark",
     "patchlogs": [
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Right clicking on a Glyph you own allows you to gift it to a Friend from the Market (if Giftable).\nLeft clicking on a Glyph you don't own takes you to the Market (if purchasable).",
+        "fixes": ""
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.3",
         "date": "2021-07-09T15:07:34Z",
@@ -32702,35 +33076,6 @@
   },
   {
     "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "medjay-predasite.png",
-    "masteryReq": 0,
-    "name": "Medjay Predasite",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error that could occur if a wild Medjay Predasite was charging towards you while using Paralytic Spores and died, which could cause other enemies to not be vulnerable to finishers."
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedPredatorRareRewardItem"
-  },
-  {
-    "category": "Misc",
     "description": "For saving a specimen of this species.",
     "imageName": "medjay-predasite-tag.png",
     "name": "Medjay Predasite Tag",
@@ -32767,11 +33112,26 @@
     "uniqueName": "/Lotus/Types/Game/Projections/T2VoidProjection"
   },
   {
+    "attacks": [
+      {
+        "name": "Mewan Strike (Gilded)",
+        "speed": 0.85,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 56,
+          "slash": 89.6,
+          "puncture": 78.4
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "drops": [
       {
         "chance": 0.0357,
@@ -32783,6 +33143,13 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "mewan.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Mewan",
     "omegaAttenuation": 1.1,
@@ -32796,14 +33163,33 @@
         "fixes": "Mewan's base Status Chance change from 22% to 18% as intended."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipThree"
+    "type": "Sword / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipThree",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/33/ZawStrikeMewan.png/revision/latest?cb=20171221182016",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Mewan"
   },
   {
+    "attacks": [
+      {
+        "name": "Mewan Strike (Gilded)",
+        "speed": 0.85,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 56,
+          "slash": 89.6,
+          "puncture": 78.4
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -33127,8 +33513,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "fireRate": 0,
     "imageName": "mewan.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Mewan",
     "omegaAttenuation": 1.1,
@@ -33142,13 +33536,18 @@
         "fixes": "Mewan's base Status Chance change from 22% to 18% as intended."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipThree"
+    "type": "Sword / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipThree",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/33/ZawStrikeMewan.png/revision/latest?cb=20171221182016",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Mewan"
   },
   {
     "category": "Misc",
@@ -34208,7 +34607,7 @@
     "imageName": "neural-sensors.png",
     "itemCount": 1,
     "name": "Neural Sensors",
-    "parents": [ "Asa Syandana", "Forma", "Inaros Canopic Helmet", "Limbo Aristeas Helmet", "Mirage Harlequin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "The Jordas Precept", "The Limbo Theorem", "Uru Syandana", "Vauban Armistice Helmet" ],
+    "parents": [ "Asa Syandana", "Forma", "Inaros Canopic Helmet", "Limbo Aristeas Helmet", "Mirage Harlequin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Sevagoth Lucifuge Helmet", "The Jordas Precept", "The Limbo Theorem", "Uru Syandana", "Vauban Armistice Helmet" ],
     "patchlogs": [
       {
         "name": "Update 19.13.0",
@@ -34312,7 +34711,7 @@
     "imageName": "neurodes.png",
     "itemCount": 1,
     "name": "Neurodes",
-    "parents": [ "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Tartarus Helmet", "Baruuk Meroe Helmet", "Bishamo Helmet", "Bishamo Pauldrons", "Chroma Drac Helmet", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Forma", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Lavos Cordatus Helmet", "Limbo Magrite Helmet", "Loki Enigma Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Patient Zero", "Pazza Sugatra", "Penta Shock-Camo Skin", "Prova Shock-Camo Skin", "Scindo Forest-Camo Skin", "Soma Forest-Camo Skin", "Synthula", "Tantu Sugatra", "Umbra Forma", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Wisp Gaoth Helmet", "Yomo Syandana", "Zephyr Tengu Helmet" ],
+    "parents": [ "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Tartarus Helmet", "Baruuk Meroe Helmet", "Bishamo Helmet", "Bishamo Pauldrons", "Chroma Drac Helmet", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Forma", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Crucis Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Lavos Cordatus Helmet", "Limbo Magrite Helmet", "Loki Enigma Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Patient Zero", "Pazza Sugatra", "Penta Shock-Camo Skin", "Prova Shock-Camo Skin", "Scindo Forest-Camo Skin", "Soma Forest-Camo Skin", "Synthula", "Tantu Sugatra", "Umbra Forma", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Wisp Gaoth Helmet", "Yareli Physalia Helmet", "Yomo Syandana", "Zephyr Tengu Helmet" ],
     "patchlogs": [
       {
         "name": "Plains of Eidolon Remaster: Hotfix 24.7.2",
@@ -34393,6 +34792,22 @@
     "imageName": "nightwave.png",
     "name": "Nightwave",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "Added the Sevagoth Lucifuge Helmet to the Nightwave Cred Offerings rotation.",
+        "changes": "Nightwave: Prime Vault: Hotfix 30.6.1:",
+        "fixes": ""
+      },
+      {
+        "name": "Nightwave: Nora’s Choice: Update 30.6.0",
+        "date": "2021-08-04T17:32:47Z",
+        "url": "https://forums.warframe.com/topic/1275793-nightwave-nora%E2%80%99s-choice-update-3060/",
+        "additions": "",
+        "changes": "Nightwave: Nora’S Choice: Update 30.6.0:\nIt’s time to tune into Nora’s latest program, Nightwave: Nora’s Choice, is coming to all platforms today at 2pm ET!\nNora’s Choice brings back a slew of classic Nightwave Rewards while adding exclusive new items into the mix, like the Ride The Wave Glyph and the mesmerizing Waveform Ephemera.\nAdded Harrow Crucis and Yareli Physalia Helmet Blueprints to the Nightwave Store rotation.\nCorrected the ‘Feed The Beast’ Nightwave Weekly Act to award the proper 4500 Standing.",
+        "fixes": ""
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -35148,7 +35563,7 @@
     "imageName": "nitain-extract.png",
     "itemCount": 1,
     "name": "Nitain Extract",
-    "parents": [ "Atlas Shikoro Helmet", "Bishamo Cuirass", "Inaros Anubis Helmet", "Inaros Canopic Helmet", "Ivara Loxley Helmet", "Ivara Zirastra Helmet", "Khora Delphi Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Sands Of Inaros", "The Silver Grove", "Titania Aurai Helmet", "Titania Mab Helmet", "Wukong Dasheng Helmet" ],
+    "parents": [ "Atlas Shikoro Helmet", "Bishamo Cuirass", "Inaros Anubis Helmet", "Inaros Canopic Helmet", "Ivara Loxley Helmet", "Ivara Zirastra Helmet", "Khora Delphi Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Sands Of Inaros", "Sevagoth Lucifuge Helmet", "The Silver Grove", "Titania Aurai Helmet", "Titania Mab Helmet", "Wukong Dasheng Helmet" ],
     "patchlogs": [
       {
         "name": "Wukong Prime: Update 25.3.0",
@@ -35263,6 +35678,16 @@
   },
   {
     "category": "Misc",
+    "description": "Used to purchase Nightwave's Cred Offerings. Nightwave Creds from past Series can be kept as souvenirs or sold for <CREDITS>Credits.",
+    "excludeFromCodex": true,
+    "imageName": "nora's-choice-cred.png",
+    "name": "Nora'S Choice Cred",
+    "tradable": false,
+    "type": "Misc",
+    "uniqueName": "/Lotus/Types/Items/MiscItems/NoraIntermissionFourCreds"
+  },
+  {
+    "category": "Misc",
     "description": "",
     "excludeFromCodex": true,
     "imageName": "noradogtag.png",
@@ -35311,66 +35736,6 @@
     "tradable": false,
     "type": "Fish Part",
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightRareFishAPartItem"
-  },
-  {
-    "category": "Misc",
-    "description": "A beacon capable of displaying custom messages.",
-    "excludeFromCodex": true,
-    "imageName": "note-beacon.png",
-    "name": "Note Beacon",
-    "patchlogs": [
-      {
-        "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
-        "date": "2021-03-19T15:18:34Z",
-        "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
-        "additions": "",
-        "changes": "Fixed seeing Note Beacon and Tributa Statue \"text\" through walls when placed in the Dojo.",
-        "fixes": ""
-      },
-      {
-        "name": "Atlas Prime: Update 25.8.0 + 25.8.0.1",
-        "date": "2019-10-01T18:00:28Z",
-        "url": "https://forums.warframe.com/topic/1131643-atlas-prime-update-2580-25801/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Note Beacon text not appearing for Orbiter guests."
-      },
-      {
-        "name": "Prime Vault: Hotfix 25.3.3 + 25.3.3.1",
-        "date": "2019-07-16T18:00:37Z",
-        "url": "https://forums.warframe.com/topic/1111888-prime-vault-hotfix-2533-25331/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed crashes caused by typing in forbidden characters in the Tribute statue and Note Beacon."
-      },
-      {
-        "name": "Fortuna: Update 24.3.0 - Nightwave",
-        "date": "2019-02-27T18:58:21Z",
-        "url": "https://forums.warframe.com/topic/1064591-fortuna-update-2430-nightwave/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed the Note Beacon text appearing in Navigation dioramas if placed behind the Navigation console."
-      },
-      {
-        "name": "Fortuna: Update 24.0",
-        "date": "2018-11-08T20:46:20Z",
-        "url": "https://forums.warframe.com/topic/1025679-fortuna-update-240/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed incorrect color combinations when choosing ‘white’ as one of the colors for the Note Beacon Decoration."
-      },
-      {
-        "name": "Chimera: Hotfix 23.10.5",
-        "date": "2018-10-18T14:52:11Z",
-        "url": "https://forums.warframe.com/topic/1019687-chimera-hotfix-23105/",
-        "additions": "Added a Decoration called the ‘Note Beacon’! A beacon capable of displaying custom messages that can be placed in both Orbiter and Dojo!",
-        "changes": "",
-        "fixes": ""
-      }
-    ],
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Objects/Tenno/Props/TnoLisetTextProjector"
   },
   {
     "buildPrice": 100000,
@@ -35501,11 +35866,26 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileOnkosCave"
   },
   {
+    "attacks": [
+      {
+        "name": "Ooltha Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 22.4,
+          "slash": 112,
+          "puncture": 89.6
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "drops": [
       {
         "chance": 0.0357,
@@ -35517,6 +35897,13 @@
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "ooltha.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Ooltha",
     "omegaAttenuation": 1.25,
@@ -35538,14 +35925,33 @@
         "fixes": "Ooltha's base Critical Chance changed from 22% to 18% as intended."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipTwo"
+    "type": "Sword / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/PvPVariantTipTwo",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/1/1f/ZawStrikeOoltha.png/revision/latest?cb=20171221181742",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Ooltha"
   },
   {
+    "attacks": [
+      {
+        "name": "Ooltha Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 22.4,
+          "slash": 112,
+          "puncture": 89.6
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -35695,8 +36101,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "fireRate": 0,
     "imageName": "ooltha.png",
+    "introduced": {
+      "name": "Update 22.0",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.0",
+      "aliases": [ "Update 22", "22.0", "22", "Plains of Eidolon", "PoE" ],
+      "parent": "22.0",
+      "date": "2017-10-12"
+    },
     "masteryReq": 0,
     "name": "Ooltha",
     "omegaAttenuation": 1.25,
@@ -35718,13 +36132,18 @@
         "fixes": "Ooltha's base Critical Chance changed from 22% to 18% as intended."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-10-12",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipTwo"
+    "type": "Sword / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Tip/TipTwo",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/1/1f/ZawStrikeOoltha.png/revision/latest?cb=20171221181742",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Ooltha"
   },
   {
     "category": "Misc",
@@ -36007,7 +36426,7 @@
     "imageName": "orokin-cell.png",
     "itemCount": 1,
     "name": "Orokin Cell",
-    "parents": [ "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Shikoro Helmet", "Atlas Tartarus Helmet", "Baruuk Meroe Helmet", "Bishamo Cuirass", "Bishamo Greaves", "Bishamo Helmet", "Bishamo Pauldrons", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Equinox Clisthert Helm", "Equinox Solstice Helmet", "Excalibur Mordred Helmet", "Forma", "Gara Virago Helmet", "Garuda Bathory Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Inaros Anubis Helmet", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Limbo Aristeas Helmet", "Limbo Magrite Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Mirage Harlequin Helmet", "Mirage Trivelin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Orokin Catalyst", "Pazza Sugatra", "Penta Shock-Camo Skin", "Protea Mavv Helmet", "Protea Telema Helmet", "Prova Shock-Camo Skin", "Revenant Vania Helmet", "Scindo Forest-Camo Skin", "Smoking Body Ephemera", "Soma Forest-Camo Skin", "Tantu Sugatra", "The Jordas Precept", "The Limbo Theorem", "Titania Aurai Helmet", "Titania Mab Helmet", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vauban Armistice Helmet", "Wisp Gaoth Helmet", "Wolf Hood", "Wukong Dasheng Helmet", "Yomo Syandana", "Zephyr Cierzo Helmet", "Zephyr Tengu Helmet" ],
+    "parents": [ "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Shikoro Helmet", "Atlas Tartarus Helmet", "Baruuk Meroe Helmet", "Bishamo Cuirass", "Bishamo Greaves", "Bishamo Helmet", "Bishamo Pauldrons", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Equinox Clisthert Helm", "Equinox Solstice Helmet", "Excalibur Mordred Helmet", "Forma", "Gara Virago Helmet", "Garuda Bathory Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Crucis Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Inaros Anubis Helmet", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Limbo Aristeas Helmet", "Limbo Magrite Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Mirage Harlequin Helmet", "Mirage Trivelin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Orokin Catalyst", "Pazza Sugatra", "Penta Shock-Camo Skin", "Protea Mavv Helmet", "Protea Telema Helmet", "Prova Shock-Camo Skin", "Revenant Vania Helmet", "Scindo Forest-Camo Skin", "Sevagoth Lucifuge Helmet", "Smoking Body Ephemera", "Soma Forest-Camo Skin", "Tantu Sugatra", "The Jordas Precept", "The Limbo Theorem", "Titania Aurai Helmet", "Titania Mab Helmet", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vauban Armistice Helmet", "Wisp Gaoth Helmet", "Wolf Hood", "Wukong Dasheng Helmet", "Yareli Physalia Helmet", "Yomo Syandana", "Zephyr Cierzo Helmet", "Zephyr Tengu Helmet" ],
     "patchlogs": [
       {
         "name": "Atlas Prime: Hotfix 25.8.2",
@@ -36819,43 +37238,6 @@
   },
   {
     "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "panzer-vulpaphyla.png",
-    "masteryReq": 0,
-    "name": "Panzer Vulpaphyla",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error where Panzer Vulpaphyla died before the Viral Quills projectiles landed."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.3",
-        "date": "2020-08-26T22:57:57Z",
-        "url": "https://forums.warframe.com/topic/1217375-heart-of-deimos-hotfix-2903/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when a Panzer Vulpaphyla attempted to attack but ran out of targets."
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedCritterRareRewardItem"
-  },
-  {
-    "category": "Misc",
     "description": "For saving a specimen of this species.",
     "imageName": "panzer-vulpaphyla-tag.png",
     "name": "Panzer Vulpaphyla Tag",
@@ -36882,6 +37264,38 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinRareDogTag"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 2,
+        "crit_chance": 4,
+        "crit_mult": 1.1,
+        "status_chance": 8,
+        "charge_time": 0.8,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "void": 4500
+        }
+      },
+      {
+        "name": "Area of Effect",
+        "radius": 100,
+        "speed": 2,
+        "crit_chance": 4,
+        "crit_mult": 1.1,
+        "status_chance": 8,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 1,
+          "reduction": 0
+        },
+        "damage": {
+          "void": 4500
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -36937,7 +37351,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -36970,7 +37383,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/21/SentAmpSet1ChassisA.png/revision/latest?cb=20210322130750",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Pencha_Scaffold"
@@ -37135,6 +37548,37 @@
     "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee01/Handle/HandleOne"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 1.67,
+        "crit_chance": 24,
+        "crit_mult": 2.1,
+        "status_chance": 2,
+        "shot_type": "Projectile",
+        "damage": {
+          "void": 3000
+        }
+      },
+      {
+        "name": "Explosion",
+        "radius": 500,
+        "speed": 1.67,
+        "crit_chance": 24,
+        "crit_mult": 2.1,
+        "status_chance": 2,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 5,
+          "reduction": 0.3
+        },
+        "damage": {
+          "void": 1100
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -37190,7 +37634,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -37239,29 +37682,10 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Chassis/SentAmpSet2ChassisPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/0/05/SentAmpSet2ChassisA.png/revision/latest?cb=20210322130928",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Phahd_Scaffold"
-  },
-  {
-    "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "pharaoh-predasite.png",
-    "masteryReq": 0,
-    "name": "Pharaoh Predasite",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedPredatorUncommonRewardItem"
   },
   {
     "category": "Misc",
@@ -37530,6 +37954,21 @@
     "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Handles/InfestedHandleTwo"
   },
   {
+    "attacks": [
+      {
+        "name": "Plague Keewar Strike (Gilded)",
+        "speed": 0.88,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 22,
+        "damage": {
+          "impact": 88,
+          "slash": 91,
+          "puncture": 57,
+          "viral": 70
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -37586,8 +38025,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "plague-keewar.png",
+    "introduced": {
+      "name": "Update 22.3",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.3",
+      "aliases": [ "22.3.0", "22.3" ],
+      "parent": "22.3",
+      "date": "2017-11-15"
+    },
     "masteryReq": 0,
     "name": "Plague Keewar",
     "omegaAttenuation": 0.75,
@@ -37609,23 +38056,51 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-11-15",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipTwo"
+    "type": "Scythe / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipTwo",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/30/PlagueKeewar.png/revision/latest?cb=20171117032510",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Plague_Keewar"
   },
   {
+    "attacks": [
+      {
+        "name": "Plague Keewar Strike (Gilded)",
+        "speed": 0.88,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 22,
+        "damage": {
+          "impact": 88,
+          "slash": 91,
+          "puncture": 57,
+          "viral": 70
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "plague-keewar.png",
+    "introduced": {
+      "name": "Update 22.3",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.3",
+      "aliases": [ "22.3.0", "22.3" ],
+      "parent": "22.3",
+      "date": "2017-11-15"
+    },
     "masteryReq": 0,
     "name": "Plague Keewar",
     "omegaAttenuation": 0.75,
@@ -37647,14 +38122,34 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-11-15",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/PvPVariantInfestedTipTwo"
+    "type": "Scythe / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/PvPVariantInfestedTipTwo",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/30/PlagueKeewar.png/revision/latest?cb=20171117032510",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Plague_Keewar"
   },
   {
+    "attacks": [
+      {
+        "name": "Plague Kripath Strike (Gilded)",
+        "speed": 0.95,
+        "crit_chance": 22,
+        "crit_mult": 2.2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 30,
+          "slash": 49,
+          "puncture": 70,
+          "viral": 64
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -37711,8 +38206,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "plague-kripath.png",
+    "introduced": {
+      "name": "Update 22.3",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.3",
+      "aliases": [ "22.3.0", "22.3" ],
+      "parent": "22.3",
+      "date": "2017-11-15"
+    },
     "masteryReq": 0,
     "name": "Plague Kripath",
     "omegaAttenuation": 0.60000002,
@@ -37734,23 +38237,51 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-11-15",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipOne"
+    "type": "Rapier / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/InfestedTipOne",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/b/b2/PlagueKripath.png/revision/latest?cb=20171117032435",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Plague_Kripath"
   },
   {
+    "attacks": [
+      {
+        "name": "Plague Kripath Strike (Gilded)",
+        "speed": 0.95,
+        "crit_chance": 22,
+        "crit_mult": 2.2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 30,
+          "slash": 49,
+          "puncture": 70,
+          "viral": 64
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "excludeFromCodex": true,
     "fireRate": 0,
     "imageName": "plague-kripath.png",
+    "introduced": {
+      "name": "Update 22.3",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.3",
+      "aliases": [ "22.3.0", "22.3" ],
+      "parent": "22.3",
+      "date": "2017-11-15"
+    },
     "masteryReq": 0,
     "name": "Plague Kripath",
     "omegaAttenuation": 0.60000002,
@@ -37772,12 +38303,17 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2017-11-15",
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/PvPVariantInfestedTipOne"
+    "type": "Rapier / Polearm",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMeleeInfested/Tips/PvPVariantInfestedTipOne",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/b/b2/PlagueKripath.png/revision/latest?cb=20171117032435",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Plague_Kripath"
   },
   {
     "category": "Misc",
@@ -38108,7 +38644,7 @@
     "rewardName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare",
     "tier": 0,
     "tradable": false,
-    "type": "Melee",
+    "type": "Riven Mod",
     "uniqueName": "/Lotus/StoreItems/Upgrades/Mods/Randomized/PlayerMeleeWeaponRandomModRare"
   },
   {
@@ -38658,6 +39194,26 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/Beacon"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Explosion",
+        "radius": 1400,
+        "speed": 2,
+        "crit_chance": 15,
+        "crit_mult": 1.5,
+        "status_chance": 0,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 14,
+          "reduction": 0.7
+        },
+        "damage": {
+          "void": 9000
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -38713,7 +39269,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -38763,7 +39318,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Corpus/OperatorAmplifiers/Set1/Chassis/CorpAmpSet1ChassisPartC",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/7/77/PropaScaffold.png/revision/latest?cb=20210321021003",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Propa_Scaffold"
@@ -38913,6 +39468,20 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/PerrinDogTag"
   },
   {
+    "attacks": [
+      {
+        "name": "Rabvee Strike (Gilded)",
+        "speed": 0.85,
+        "crit_chance": 18,
+        "crit_mult": 2,
+        "status_chance": 18,
+        "damage": {
+          "impact": 140.4,
+          "slash": 81.9,
+          "puncture": 11.7
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -38969,8 +39538,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 4,
     "fireRate": 0,
     "imageName": "rabvee.png",
+    "introduced": {
+      "name": "Update 22.18",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.18",
+      "aliases": [ "22.18.0", "22.18", "Beasts of the Sanctuary", "BotS" ],
+      "parent": "22.18",
+      "date": "2018-04-20"
+    },
     "masteryReq": 0,
     "name": "Rabvee",
     "omegaAttenuation": 1.3,
@@ -39024,13 +39601,18 @@
         "fixes": "Fixed Rabvee playing the wrong hit effect sounds."
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-04-20",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipTen"
+    "type": "Machete / Hammer",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipTen",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/6/60/ZawStrikeRabvee.png/revision/latest?cb=20180421215334",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Rabvee"
   },
   {
     "category": "Misc",
@@ -39042,6 +39624,20 @@
     "uniqueName": "/Lotus/Types/Gameplay/Eidolon/Resources/SentientShards/SentientShardBrilliantTierTwoItem"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 5.67,
+        "crit_chance": 20,
+        "crit_mult": 1.5,
+        "status_chance": 0,
+        "shot_type": "Projectile",
+        "damage": {
+          "void": 1000
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -39097,7 +39693,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -39138,81 +39733,10 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set2/Barrel/SentAmpSet2BarrelPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/29/SentAmpSet2BarrelA.png/revision/latest?cb=20210322130747",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Rahn_Prism"
-  },
-  {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosCommonOreAAlloyItem",
-        "name": "Adramal Alloy",
-        "description": "Purged of spores and contaminants, this alloy is highly versatile.",
-        "itemCount": 40,
-        "imageName": "adramal-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartBodyCBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/UncommonOreAAlloyAItem",
-        "name": "Fersteel Alloy",
-        "description": "Ferros that has been forged into a stronger metal.Location: Old Man Suumbaat in Cetus",
-        "itemCount": 25,
-        "imageName": "fersteel-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Rubedo",
-        "name": "Rubedo",
-        "description": "A jagged crystalline ore. Gives off radiant energy.Locations: Earth, Lua, Phobos, Europa, Pluto, Sedna, and the Void.",
-        "itemCount": 1500,
-        "imageName": "rubedo.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/SpecterParticleResidue",
-        "name": "Spectral Debris",
-        "description": "Discharged specter particles form an inert dust that can be collected and re-energized for various robotic projects.",
-        "excludeFromCodex": true,
-        "itemCount": 5,
-        "imageName": "spectral-debris.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "raiju-core.png",
-    "masteryReq": 0,
-    "name": "Raiju Core",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartBodyC"
   },
   {
     "category": "Misc",
@@ -39221,6 +39745,22 @@
     "imageName": "railjack.png",
     "name": "Railjack",
     "patchlogs": [
+      {
+        "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
+        "date": "2021-08-10T18:03:49Z",
+        "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a script error that could occur if the Railjack Forward Artillery fired during a Host migration."
+      },
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu.\nFixed a crash occurring when interacting with a dead Specter ‘Follow’ Context Action after a Host migration occured during a Sister Railjack showdown.\nFixed the \"JOIN ANY CREW\" button in the Railjack Star Chart allowing you to join a Kuva Lich or Sister showdown mission, which resulted in an error message if you do not have a proper Kuva Lich or Sister."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -40306,6 +40846,20 @@
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularStatIICapIClipPart"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 2,
+        "crit_chance": 28,
+        "crit_mult": 2.1,
+        "status_chance": 0,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "void": 3000
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -40361,7 +40915,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -40394,7 +40947,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartA",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/2c/SentAmpSet1BarrelA.png/revision/latest?cb=20210322130736",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Raplak_Prism"
@@ -40432,6 +40985,18 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/KelaEventDogTag"
   },
   {
+    "ammo": 700,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Hit-Scan",
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -40488,8 +41053,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "rattleguts.png",
+    "introduced": {
+      "name": "Update 24.0",
+      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
+      "aliases": [ "24", "24.0", "Fortuna" ],
+      "parent": "24.0",
+      "date": "2018-11-08"
+    },
     "masteryReq": 0,
     "name": "Rattleguts",
     "omegaAttenuation": 0.75,
@@ -40519,14 +41092,19 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 1,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun Component",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart"
+    "type": "Kitgun",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/35/KitgunChamberRattleguts.png/revision/latest?cb=20181110154514",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Rattleguts"
   },
   {
     "category": "Misc",
@@ -40548,11 +41126,26 @@
   },
   {
     "accuracy": 100,
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 14.8,
+        "crit_chance": 25,
+        "crit_mult": 3,
+        "status_chance": 10,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "impact": 25,
+          "slash": 12.5,
+          "puncture": 12.5
+        }
+      }
+    ],
     "category": "Misc",
     "criticalChance": 0.25,
     "criticalMultiplier": 3,
     "damagePerShot": [ 25, 12.5, 12.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -40976,43 +41569,43 @@
       },
       {
         "chance": 0.012,
-        "location": "Neptune/Nu-Gua Mines (Exterminate)",
+        "location": "Neptune/Nu-Gua Mines (Skirmish)",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.012,
-        "location": "Neptune/Sovereign Grasp (Volatile)",
+        "location": "Neptune/Sovereign Grasp (Skirmish)",
         "rarity": "Rare",
         "type": "Riven Sliver"
       },
       {
         "chance": 0.012,
-        "location": "Pluto/Profit Margin (Volatile)",
+        "location": "Pluto/Profit Margin (Skirmish)",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.012,
-        "location": "Pluto/Seven Sirens (Exterminate)",
+        "location": "Pluto/Seven Sirens (Skirmish)",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.012,
-        "location": "Veil/Calabash (Exterminate)",
+        "location": "Veil/Calabash (Skirmish)",
         "rarity": "Rare",
         "type": "3X Riven Sliver"
       },
       {
         "chance": 0.012,
-        "location": "Veil/Numina (Volatile)",
+        "location": "Veil/Numina (Skirmish)",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.0208,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation C",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
@@ -41024,49 +41617,49 @@
       },
       {
         "chance": 0.0208,
-        "location": "Veil/Lu-Yan (Volatile), Rotation C",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "3X Riven Sliver"
       },
       {
         "chance": 0.0213,
-        "location": "Neptune/Arva Vector (Defense), Rotation C",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.0233,
-        "location": "Neptune/Arva Vector (Defense), Rotation B",
+        "location": "Neptune/Arva Vector (Skirmish), Rotation B",
         "rarity": "Rare",
         "type": "Riven Sliver"
       },
       {
         "chance": 0.0256,
-        "location": "Pluto/Obol Crossing (Defense), Rotation C",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
       {
         "chance": 0.0286,
-        "location": "Neptune/Enkidu Ice Drifts (Volatile), Rotation B",
+        "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation B",
         "rarity": "Rare",
         "type": "Riven Sliver"
       },
       {
         "chance": 0.0286,
-        "location": "Veil/Arc Silver (Defense), Rotation B",
+        "location": "Veil/Arc Silver (Skirmish), Rotation B",
         "rarity": "Rare",
         "type": "3X Riven Sliver"
       },
       {
         "chance": 0.0286,
-        "location": "Veil/Arc Silver (Defense), Rotation C",
+        "location": "Veil/Arc Silver (Skirmish), Rotation C",
         "rarity": "Rare",
         "type": "3X Riven Sliver"
       },
       {
         "chance": 0.0286,
-        "location": "Veil/Lu-Yan (Volatile), Rotation B",
+        "location": "Veil/Lu-Yan (Skirmish), Rotation B",
         "rarity": "Rare",
         "type": "3X Riven Sliver"
       },
@@ -41078,7 +41671,7 @@
       },
       {
         "chance": 0.0303,
-        "location": "Pluto/Obol Crossing (Defense), Rotation B",
+        "location": "Pluto/Obol Crossing (Skirmish), Rotation B",
         "rarity": "Rare",
         "type": "Riven Sliver"
       },
@@ -41090,7 +41683,7 @@
       },
       {
         "chance": 0.0333,
-        "location": "Pluto/Peregrine Axis (Orphix), Rotation A",
+        "location": "Pluto/Peregrine Axis (Skirmish), Rotation A",
         "rarity": "Rare",
         "type": "2X Riven Sliver"
       },
@@ -41102,7 +41695,7 @@
       },
       {
         "chance": 0.0333,
-        "location": "Venus/Orvin-Haarc (Exterminate), Rotation A",
+        "location": "Venus/Orvin-Haarc (Skirmish), Rotation A",
         "rarity": "Rare",
         "type": "Riven Sliver"
       },
@@ -41970,8 +42563,16 @@
     "imageName": "salvage.png",
     "itemCount": 25000,
     "name": "Salvage",
-    "parents": [ "Air Support Charges", "Akvasto Forest-Camo Skin", "Ancient Healer Specter", "Antiserum Injector", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Shikoro Helmet", "Atlas Tartarus Helmet", "Atterax Desert-Camo Skin", "Baruuk Meroe Helmet", "Bishamo Greaves", "Burston Solstice Skin", "Charger Specter", "Cipher", "Clem Clone", "Control Module", "Corinth Solstice Skin", "Corrupted Bombard Specter", "Corrupted Lancer Specter", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Diriga Desert-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Exergis Shock-Camo Skin", "Falcor Shock-Camo Skin", "Fragor Brokk Skin", "Galatine Solstice Skin", "Gallium", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Grinlok Desert-Camo Skin", "Guandao Solstice Skin", "Guandao Synoid Skin", "Harrow Suffragan Helmet", "Hek Desert-Camo Skin", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Ignis Solstice Skin", "Karak Desert-Camo Skin", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Lenz Solstice Skin", "Marelok Desert-Camo Skin", "Mirage Trivelin Helmet", "Moa Specter", "Morphics", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Neural Sensors", "Neurodes", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Orokin Cell", "Pazza Sugatra", "Penta Shock-Camo Skin", "Phase Specter", "Plinx Shock-Camo Skin", "Protea Mavv Helmet", "Prova Shock-Camo Skin", "Pyrana Synoid Skin", "Roller Specter", "Rubico Synoid Skin", "Scindo Forest-Camo Skin", "Scindo Manticore Skin", "Scindo Solstice Skin", "Shield Osprey Specter", "Soma Forest-Camo Skin", "Squad Ammo Restore (Medium)", "Tantu Sugatra", "Tatsu Solstice Skin", "Titania Aurai Helmet", "Titania Mab Helmet", "Tonkor Desert-Camo Skin", "Travocyte Alloy", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vapor Specter", "Wisp Gaoth Helmet", "Yomo Syandana" ],
+    "parents": [ "Air Support Charges", "Akvasto Forest-Camo Skin", "Ancient Healer Specter", "Antiserum Injector", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Shikoro Helmet", "Atlas Tartarus Helmet", "Atterax Desert-Camo Skin", "Baruuk Meroe Helmet", "Bishamo Greaves", "Burston Solstice Skin", "Charger Specter", "Cipher", "Clem Clone", "Control Module", "Corinth Solstice Skin", "Corrupted Bombard Specter", "Corrupted Lancer Specter", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Diriga Desert-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Exergis Shock-Camo Skin", "Falcor Shock-Camo Skin", "Fragor Brokk Skin", "Galatine Solstice Skin", "Gallium", "Gara Virago Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Grinlok Desert-Camo Skin", "Guandao Solstice Skin", "Guandao Synoid Skin", "Harrow Crucis Helmet", "Harrow Suffragan Helmet", "Hek Desert-Camo Skin", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Ignis Solstice Skin", "Karak Desert-Camo Skin", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Lenz Solstice Skin", "Marelok Desert-Camo Skin", "Mirage Trivelin Helmet", "Moa Specter", "Morphics", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Neural Sensors", "Neurodes", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Orokin Cell", "Pazza Sugatra", "Penta Shock-Camo Skin", "Phase Specter", "Plinx Shock-Camo Skin", "Protea Mavv Helmet", "Prova Shock-Camo Skin", "Pyrana Synoid Skin", "Roller Specter", "Rubico Synoid Skin", "Scindo Forest-Camo Skin", "Scindo Manticore Skin", "Scindo Solstice Skin", "Shield Osprey Specter", "Soma Forest-Camo Skin", "Squad Ammo Restore (Medium)", "Tantu Sugatra", "Tatsu Solstice Skin", "Titania Aurai Helmet", "Titania Mab Helmet", "Tonkor Desert-Camo Skin", "Travocyte Alloy", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vapor Specter", "Wisp Gaoth Helmet", "Yareli Physalia Helmet", "Yomo Syandana" ],
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -42260,6 +42861,14 @@
     "name": "Salvage",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu."
+      },
+      {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
@@ -42546,6 +43155,14 @@
     "imageName": "salvage.png",
     "name": "Salvage",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -42834,6 +43451,14 @@
     "name": "Salvage",
     "patchlogs": [
       {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu."
+      },
+      {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
         "url": "https://forums.warframe.com/topic/1236257-update-295-deimos-arcana/",
@@ -43120,6 +43745,14 @@
     "imageName": "salvage.png",
     "name": "Salvage",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed a game hang/crash that could occur on the Railjack Salvage menu."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -43430,7 +44063,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Currency",
     "uniqueName": "/Lotus/Types/Items/Events/OperationsCredits"
   },
   {
@@ -43789,14 +44422,6 @@
   {
     "category": "Misc",
     "description": "Medallion of the New Loka syndicate. Can be traded in on relay syndicate hubs for additional standing.",
-    "drops": [
-      {
-        "location": "Arbitrations, Rotation C",
-        "type": "Seeding Step Ephemera Blueprint",
-        "chance": 0.05,
-        "rarity": "Rare"
-      }
-    ],
     "imageName": "seed.png",
     "name": "Seed",
     "patchlogs": [
@@ -43914,7 +44539,7 @@
     "imageName": "sentient-altar-scene.png",
     "name": "Sentient Altar Scene",
     "tradable": false,
-    "type": "Misc",
+    "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientIntReverence"
   },
   {
@@ -43924,7 +44549,7 @@
     "imageName": "sentient-balcony-scene.png",
     "name": "Sentient Balcony Scene",
     "tradable": false,
-    "type": "Misc",
+    "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientConTallJunctionOne"
   },
   {
@@ -43934,7 +44559,7 @@
     "imageName": "sentient-basin-scene.png",
     "name": "Sentient Basin Scene",
     "tradable": false,
-    "type": "Misc",
+    "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientIntCaveDescent"
   },
   {
@@ -43944,7 +44569,7 @@
     "imageName": "sentient-concourse-scene.png",
     "name": "Sentient Concourse Scene",
     "tradable": false,
-    "type": "Misc",
+    "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientIntDescent"
   },
   {
@@ -43954,7 +44579,7 @@
     "imageName": "sentient-fountain-scene.png",
     "name": "Sentient Fountain Scene",
     "tradable": false,
-    "type": "Misc",
+    "type": "Captura",
     "uniqueName": "/Lotus/Types/Items/PhotoBooth/PhotoboothTileSentientConTransitionPlusOne"
   },
   {
@@ -43968,6 +44593,20 @@
     "uniqueName": "/Lotus/Types/Items/Solaris/AnimalTagStoverCommon"
   },
   {
+    "attacks": [
+      {
+        "name": "Sepfahn Strike (Gilded)",
+        "speed": 0.92,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 20,
+        "damage": {
+          "impact": 22.6,
+          "slash": 146.9,
+          "puncture": 56.5
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -44024,8 +44663,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "sepfahn.png",
+    "introduced": {
+      "name": "Update 22.18",
+      "url": "http://warframe.fandom.com/wiki/Update_22%23Update_22.18",
+      "aliases": [ "22.18.0", "22.18", "Beasts of the Sanctuary", "BotS" ],
+      "parent": "22.18",
+      "date": "2018-04-20"
+    },
     "masteryReq": 0,
     "name": "Sepfahn",
     "omegaAttenuation": 0.69999999,
@@ -44071,13 +44718,18 @@
         "fixes": "Fixed an issue with Sepfahn Zaw part creating it's Nikana holster when used for a 2 handed grip.\nFixed an issue with the Sepfahn Zaw part making extra cloth dangles when made into a Nikana. "
       }
     ],
+    "polarities": [  ],
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-04-20",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Melee",
-    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipNine"
+    "type": "Nikana / Staff",
+    "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Tip/TipNine",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/c/c2/ZawStrikeSepfahn.png/revision/latest?cb=20180421215305",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Sepfahn"
   },
   {
     "category": "Misc",
@@ -44122,16 +44774,6 @@
     "tradable": false,
     "type": "Fish Part",
     "uniqueName": "/Lotus/Types/Items/Fish/Eidolon/FishParts/NightLegendaryFishAPartItem"
-  },
-  {
-    "category": "Misc",
-    "description": "Once part of an intricate Entrati apparatus, now shattered and bearing a sharp edge.",
-    "excludeFromCodex": true,
-    "imageName": "seriglass-shard.png",
-    "name": "Seriglass Shard",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/SeriglassShard"
   },
   {
     "category": "Misc",
@@ -44183,14 +44825,35 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/JuggernautPartD"
   },
   {
+    "attacks": [
+      {
+        "speed": 1,
+        "crit_chance": 38,
+        "crit_mult": 2.6,
+        "status_chance": 24,
+        "damage": {
+          "impact": 72,
+          "slash": 120,
+          "puncture": 48
+        },
+        "slide": "480",
+        "slam": {
+          "damage": "720.00",
+          "radial": {
+            "damage": "96.00",
+            "element": "undefined",
+            "proc": "undefined",
+            "radius": 8
+          }
+        }
+      }
+    ],
     "blockingAngle": 60,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.38,
     "criticalMultiplier": 2.5999999,
     "damagePerShot": [ 72, 48, 120, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "[PH] Description",
     "disposition": 1,
     "excludeFromCodex": true,
@@ -44301,6 +44964,37 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/ShipFeatureItem"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Direct Hit",
+        "speed": 1.33,
+        "crit_chance": 10,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "shot_type": "Projectile",
+        "damage": {
+          "void": 3000
+        }
+      },
+      {
+        "name": "Explosion",
+        "radius": 700,
+        "speed": 1.33,
+        "crit_chance": 10,
+        "crit_mult": 1.5,
+        "status_chance": 10,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 7,
+          "reduction": 0.4
+        },
+        "damage": {
+          "void": 4500
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -44356,7 +45050,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -44405,7 +45098,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Chassis/SentAmpSet1ChassisPartB",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/a/a0/SentAmpSet1ChassisB.png/revision/latest?cb=20210322130753",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Shraksun_Scaffold"
@@ -44487,7 +45180,7 @@
     "skipBuildTimePrice": 25,
     "totalDamage": 0,
     "tradable": false,
-    "type": "Misc",
+    "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Primary/SUModularPrimarySet1/Handles/SUModularPrimaryHandleBPart"
   },
   {
@@ -44571,6 +45264,25 @@
     "uniqueName": "/Lotus/Weapons/Ostron/Melee/ModularMelee02/Handle/HandleTen"
   },
   {
+    "ammo": null,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 1.33,
+        "crit_chance": 0,
+        "crit_mult": 1.1,
+        "status_chance": 10,
+        "shot_type": "Projectile",
+        "falloff": {
+          "start": 16,
+          "end": 25,
+          "reduction": 0.54
+        },
+        "damage": {
+          "void": 3500
+        }
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -44626,7 +45338,6 @@
     "criticalChance": 0,
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "",
     "disposition": 3,
     "fireRate": 0,
@@ -44667,7 +45378,7 @@
     "tags": [ "Sentient" ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "",
+    "type": "Amp",
     "uniqueName": "/Lotus/Weapons/Sentients/OperatorAmplifiers/Set1/Barrel/SentAmpSet1BarrelPartB",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/4/4f/SentAmpSet1BarrelB.png/revision/latest?cb=20210322130741",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Shwaak_Prism"
@@ -44709,16 +45420,6 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MiscItems/DangerRoomKey"
-  },
-  {
-    "category": "Misc",
-    "description": "A token symbolizing a converted Sister of Parvos. Can be traded to other players for control of said Sister of Parvos.",
-    "excludeFromCodex": true,
-    "imageName": "sister-of-parvos-token.png",
-    "name": "Sister Of Parvos Token",
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Game/Nemesis/KuvaLich/CapturedCorpusLichToken"
   },
   {
     "buildPrice": 5000,
@@ -44859,67 +45560,6 @@
     "tradable": false,
     "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularCritIReloadIClipPart"
-  },
-  {
-    "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "sly-vulpaphyla.png",
-    "masteryReq": 0,
-    "name": "Sly Vulpaphyla",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "Gara Prime: Update 30.3.0",
-        "date": "2021-05-25T17:56:49Z",
-        "url": "https://forums.warframe.com/topic/1265162-gara-prime-update-3030/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Sly Vulpaphyla not being affected by Ivara’s Prowl invisibility while downed and after being revived. \nFixed the Tek Enhance mod not increasing the Duration of the Sly Vulpaphyla’s Survival Instinct Precept. "
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.8 + 29.0.8.1",
-        "date": "2020-09-10T18:28:19Z",
-        "url": "https://forums.warframe.com/topic/1224002-heart-of-deimos-hotfix-2908-29081/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed many cases where the Sly Vulpaphyla wouldn't respect cooldowns, would fail to trigger, or would result in Client FX not getting cleaned up. \nPotential fix towards a script error caused by Sly Vulpaphyla Survival Instinct triggering."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.7",
-        "date": "2020-09-03T19:29:45Z",
-        "url": "https://forums.warframe.com/topic/1221646-heart-of-deimos-hotfix-2907/",
-        "additions": "",
-        "changes": "Fixed the Sly Vulpaphyla’s Survival Instinct FX causing a performance dip due to its visual distortion. As reported here!",
-        "fixes": ""
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.6",
-        "date": "2020-09-01T22:43:56Z",
-        "url": "https://forums.warframe.com/topic/1220813-heart-of-deimos-hotfix-2906/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed Sly Vulpaphyla's Survival Instinct not showing FX for Clients."
-      },
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.3",
-        "date": "2020-08-26T22:57:57Z",
-        "url": "https://forums.warframe.com/topic/1217375-heart-of-deimos-hotfix-2903/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed a script error when a Sly Vulpaphyla deactivates a Precept."
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedCritterCommonRewardItem"
   },
   {
     "category": "Misc",
@@ -45194,6 +45834,53 @@
     "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagMergooRare"
   },
   {
+    "ammo": 130,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
+        "falloff": {
+          "start": 13,
+          "end": 26,
+          "reduction": 0
+        },
+        "damage": {}
+      },
+      {
+        "name": "Explosion",
+        "radius": 470,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 4.7,
+          "reduction": 0.5
+        },
+        "damage": {}
+      },
+      {
+        "name": "Bomblet Explosion",
+        "radius": 210,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 2.1,
+          "reduction": 0.8
+        },
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -45250,8 +45937,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "sporelacer.png",
+    "introduced": {
+      "name": "Update 29.5",
+      "url": "http://warframe.fandom.com/wiki/Update_29%23Update_29.5",
+      "aliases": [ "29.5", "29.5.0" ],
+      "parent": "29.5",
+      "date": "2020-11-19"
+    },
     "masteryReq": 0,
     "name": "Sporelacer",
     "omegaAttenuation": 0.55000001,
@@ -45265,14 +45960,19 @@
         "fixes": "Fixed inability to Chat Link Kitgun weapons made with the new Infested chambers Vermisplicer and Sporelacer."
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 1,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2020-11-19",
     "skipBuildTimePrice": 25,
+    "tags": [ "Infested" ],
     "totalDamage": 0,
     "tradable": false,
     "type": "Pistol",
-    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart"
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/c/cf/KitgunChamberSporelacer.png/revision/latest?cb=20201120224837",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Sporelacer"
   },
   {
     "category": "Misc",
@@ -45565,7 +46265,7 @@
     "skipBuildTimePrice": 25,
     "totalDamage": 0,
     "tradable": false,
-    "type": "Misc",
+    "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Primary/SUModularPrimarySet1/Handles/SUModularPrimaryHandleCPart"
   },
   {
@@ -45699,6 +46399,14 @@
     "imageName": "steel-essence.png",
     "name": "Steel Essence",
     "patchlogs": [
+      {
+        "name": "Sisters of Parvos: Hotfix 30.5.5",
+        "date": "2021-07-29T17:08:32Z",
+        "url": "https://forums.warframe.com/topic/1274960-sisters-of-parvos-hotfix-3055/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Steel Essence 5 minute despawn timer not functioning after you’ve moved a certain distance away."
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -46708,7 +47416,7 @@
       }
     ],
     "tradable": false,
-    "type": "Misc",
+    "type": "Simulacrum",
     "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileArena"
   },
   {
@@ -46718,7 +47426,7 @@
     "imageName": "the-citadel-simulacrum.png",
     "name": "The Citadel Simulacrum",
     "tradable": false,
-    "type": "Misc",
+    "type": "Simulacrum",
     "uniqueName": "/Lotus/Types/Items/DangerRoom/DangerRoomTileDefault"
   },
   {
@@ -47171,6 +47879,31 @@
     "uniqueName": "/Lotus/Types/Ship/AdvancedResourceDrone"
   },
   {
+    "ammo": 540,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Projectile",
+        "damage": {}
+      },
+      {
+        "name": "Explosion",
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 1.9,
+          "reduction": 0.3
+        },
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -47227,8 +47960,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 1,
     "fireRate": 0,
     "imageName": "tombfinger.png",
+    "introduced": {
+      "name": "Update 24.0",
+      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
+      "aliases": [ "24", "24.0", "Fortuna" ],
+      "parent": "24.0",
+      "date": "2018-11-08"
+    },
     "masteryReq": 0,
     "name": "Tombfinger",
     "omegaAttenuation": 0.64999998,
@@ -47307,14 +48048,19 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 0.85000002,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun Component",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart"
+    "type": "Kitgun",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/6/6b/KitgunChamberTombfinger.png/revision/latest?cb=20181110154549",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Tombfinger"
   },
   {
     "category": "Misc",
@@ -47454,7 +48200,7 @@
     "skipBuildTimePrice": 25,
     "totalDamage": 0,
     "tradable": false,
-    "type": "Misc",
+    "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Primary/SUModularPrimarySet1/Handles/SUModularPrimaryHandleDPart"
   },
   {
@@ -48190,76 +48936,6 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/UranusNavigationFeatureItem"
   },
   {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsBBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
-        "name": "Brickie Muon Battery",
-        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
-        "itemCount": 15,
-        "imageName": "brickie-muon-battery.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidHungerItem",
-        "name": "Calda Toroid",
-        "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.Earn Calda Toroids from enemies located at the Enrichment Labs in the Orb Vallis and from Scyto Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis.",
-        "itemCount": 5,
-        "imageName": "calda-toroid.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Eidolon/CommonOreAAlloyAItem",
-        "name": "Pyrotic Alloy",
-        "description": "Pyrol that has been forged into a stronger metal.Location: Old Man Suumbaat in Cetus",
-        "itemCount": 25,
-        "imageName": "pyrotic-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/CoolantItem",
-        "name": "Thermal Sludge",
-        "description": "A by-product from the Weeping Towers terraforming processes.",
-        "itemCount": 25,
-        "imageName": "thermal-sludge.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "urga-bracket.png",
-    "masteryReq": 0,
-    "name": "Urga Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsB"
-  },
-  {
     "category": "Misc",
     "itemCount": 1,
     "name": "Utilityunlocker",
@@ -48315,14 +48991,35 @@
     "windUp": 0.5
   },
   {
+    "attacks": [
+      {
+        "speed": 1.5,
+        "crit_chance": 50,
+        "crit_mult": 2,
+        "status_chance": 10,
+        "damage": {
+          "impact": 83.3,
+          "slash": 83.3,
+          "puncture": 83.3
+        },
+        "slide": "750",
+        "slam": {
+          "damage": "750.00",
+          "radial": {
+            "damage": "250.00",
+            "element": "undefined",
+            "proc": "undefined",
+            "radius": 6
+          }
+        }
+      }
+    ],
     "blockingAngle": 60,
     "category": "Misc",
-    "channeling": 1.5,
     "comboDuration": 5,
     "criticalChance": 0.5,
     "criticalMultiplier": 2,
     "damagePerShot": [ 99.989998, 99.999893, 100.01009, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "damageTypes": {},
     "description": "These talons emerge when Valkyr unleashes her Hysteria.",
     "disposition": 3,
     "excludeFromCodex": true,
@@ -49013,6 +49710,18 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/VenusNavigationFeatureItem"
   },
   {
+    "ammo": 226,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 0,
+        "crit_chance": 0,
+        "crit_mult": 0,
+        "status_chance": 0,
+        "shot_type": "Discharge",
+        "damage": {}
+      }
+    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -49069,8 +49778,16 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
+    "disposition": 3,
     "fireRate": 0,
     "imageName": "vermisplicer.png",
+    "introduced": {
+      "name": "Update 29.5",
+      "url": "http://warframe.fandom.com/wiki/Update_29%23Update_29.5",
+      "aliases": [ "29.5", "29.5.0" ],
+      "parent": "29.5",
+      "date": "2020-11-19"
+    },
     "masteryReq": 0,
     "name": "Vermisplicer",
     "omegaAttenuation": 1,
@@ -49108,14 +49825,19 @@
         "fixes": ""
       }
     ],
+    "polarities": [  ],
     "primeOmegaAttenuation": 0.85000002,
     "procChance": 0,
     "productCategory": "Pistols",
+    "releaseDate": "2020-11-19",
     "skipBuildTimePrice": 25,
+    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Pistol",
-    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart"
+    "type": "Kitgun",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/f/fa/KitgunChamberVermisplicer.png/revision/latest?cb=20201120224842",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Vermisplicer"
   },
   {
     "category": "Misc",
@@ -49222,35 +49944,6 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MiscItems/Elitium"
-  },
-  {
-    "category": "Misc",
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "excludeFromCodex": true,
-    "fireRate": 0,
-    "imageName": "vizier-predasite.png",
-    "masteryReq": 0,
-    "name": "Vizier Predasite",
-    "omegaAttenuation": 1,
-    "patchlogs": [
-      {
-        "name": "Heart of Deimos: Hotfix 29.0.4",
-        "date": "2020-08-27T23:04:50Z",
-        "url": "https://forums.warframe.com/topic/1218017-heart-of-deimos-hotfix-2904/",
-        "additions": "",
-        "changes": "",
-        "fixes": "Fixed script error when Vizier Predasite dies when attempting to heal."
-      }
-    ],
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Items/Deimos/WoundedInfestedPredatorCommonRewardItem"
   },
   {
     "category": "Misc",
@@ -49402,76 +50095,6 @@
     "tradable": false,
     "type": "Misc",
     "uniqueName": "/Lotus/Types/Items/MiscItems/VoidTearDrop"
-  },
-  {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartTailABlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Circuits",
-        "name": "Circuits",
-        "description": "Various electronic components.Locations: Venus, Ceres, and the Kuva Fortress.",
-        "itemCount": 600,
-        "imageName": "circuits.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Alertium",
-        "name": "Nitain Extract",
-        "description": "Each vial is produced by the painstaking expression of billions of rare, ocean-vent dwelling microorganisms.This resource can be acquired from Nightwave offerings.",
-        "itemCount": 3,
-        "imageName": "nitain-extract.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/MiscItems/Salvage",
-        "name": "Salvage",
-        "description": "High value metals collected from war salvage.Locations: Mars, Jupiter, and Sedna.",
-        "itemCount": 2500,
-        "imageName": "salvage.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Deimos/DeimosRareOreAAlloyItem",
-        "name": "Thaumic Distillate",
-        "description": "Thaumica reduced to its most durable, workable elements.",
-        "itemCount": 20,
-        "imageName": "thaumic-distillate.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "wanz-stabilizer.png",
-    "masteryReq": 0,
-    "name": "Wanz Stabilizer",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartTailA"
   },
   {
     "category": "Misc",
@@ -50333,75 +50956,5 @@
     "tradable": false,
     "type": "Kitgun Component",
     "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Clip/SUModularCritIReloadIIClipPart"
-  },
-  {
-    "buildPrice": 50000,
-    "buildQuantity": 1,
-    "buildTime": 86400,
-    "category": "Misc",
-    "components": [
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreBAlloyItem",
-        "name": "Axidrol Alloy",
-        "description": "A compound formed from Axidite.",
-        "itemCount": 25,
-        "imageName": "axidrol-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Recipes/ZanukaPetParts/ZanukaPetPartLegsCBlueprint",
-        "name": "Blueprint",
-        "description": "",
-        "itemCount": 1,
-        "imageName": "blueprint.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Fish/Solaris/FishParts/CorpusFishMuonBatteryItem",
-        "name": "Brickie Muon Battery",
-        "description": "A small, atomic power source.Acquired by disassembling Brickie Servofish.",
-        "itemCount": 15,
-        "imageName": "brickie-muon-battery.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Items/Gems/Solaris/SolarisCommonOreAAlloyItem",
-        "name": "Travocyte Alloy",
-        "description": "A compound formed from Travoride.",
-        "itemCount": 25,
-        "imageName": "travocyte-alloy.png",
-        "tradable": false,
-        "drops": [  ]
-      },
-      {
-        "uniqueName": "/Lotus/Types/Gameplay/Venus/Resources/ArachnoidMicroidItem",
-        "name": "Vega Toroid",
-        "description": "A device of undetermined function and origin. Prized by Vox Solaris and the Quills.Earn Vega Toroids from enemies located at the Spaceport in the Orb Vallis and from Mite Raknoids. They can also be found as pick-ups in caves located around the Orb Vallis.",
-        "itemCount": 5,
-        "imageName": "vega-toroid.png",
-        "tradable": false,
-        "drops": [  ]
-      }
-    ],
-    "consumeOnBuild": true,
-    "criticalChance": 0,
-    "criticalMultiplier": 0,
-    "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
-    "description": "",
-    "fireRate": 0,
-    "imageName": "zubb-bracket.png",
-    "masteryReq": 0,
-    "name": "Zubb Bracket",
-    "omegaAttenuation": 1,
-    "procChance": 0,
-    "productCategory": "Pistols",
-    "skipBuildTimePrice": 25,
-    "totalDamage": 0,
-    "tradable": false,
-    "type": "Misc",
-    "uniqueName": "/Lotus/Types/Friendly/Pets/ZanukaPets/ZanukaPetParts/ZanukaPetPartLegsC"
   }
 ]
