@@ -15,7 +15,7 @@
           <div class="name">Size : {{ Math.round(JSON.stringify(mastered).length * 16 / 1000) }}kb</div>
         </div>
       </div>
-      <div class="column" :class="{hidden: howManyMastered(category.items) == category.items.length}" v-for="category of categories" :key="category.name">
+      <div class="column" :class="{hidden: howManyMastered(category.items) == category.items.length && hideMastered}" v-for="category of categories" :key="category.name">
         <div class="title">{{ category.name }} ({{ howManyMastered(category.items) }}/{{ category.items.length }})</div>
         <div class="element" :class="{active: isMastered(item), hidden: hideMastered && isMastered(item)}" v-for="item of category.items" :key="item.name">
           <div class="name link" @click="openWiki(item)">{{ item.name }}</div>
@@ -39,6 +39,7 @@
   import Sentinels from "./assets/Sentinels.json";
   import SentinelWeapons from "./assets/SentinelWeapons.json";
   import Pets from "./assets/Pets.json";
+  import Archguns from "./assets/Arch-Gun.json";
   import Archmelees from "./assets/Arch-Melee.json";
   import Archwings from "./assets/Archwing.json";
   import Misc from "./assets/Misc.json";
@@ -67,9 +68,7 @@
           items: Melees.filter(m => this.founders.indexOf(m.name) == -1)
         }, {
           name: "Kitguns",
-          items: Misc.filter(m => (m.type == "Melee" && m.productCategory == "Pistols" && m.uniqueName.indexOf("PvP") == -1
-              && m.uniqueName.indexOf("Balance") == -1 && m.uniqueName.indexOf("Handle") == -1
-              && m.uniqueName.indexOf("MoaPets") == -1) || m.primeOmegaAttenuation > 0)
+          items: [...Misc.filter(m => m.type == "Kitgun")]
         }, {
           name: "Robotics",
           items: [...Sentinels, ...SentinelWeapons, ...Pets.filter(m => m.name.indexOf("Hound") > -1), ...Pets.filter(p => p.name.indexOf("Moa") > -1 && p.productCategory == "Pistols")].sort((a, b) => a.name.localeCompare(b.name))
@@ -84,7 +83,7 @@
             {name: "Plexus"}].sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Archguns",
-          items: [...Primaries.filter(p => p.productCategory == "SpaceGuns"), {name: "Prisma Dual Decurions"}].sort((a, b) => a.name.localeCompare(b.name))
+          items: [...Archguns, ...Primaries.filter(p => p.productCategory == "SpaceGuns")].sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Archmelees",
           items: Archmelees
