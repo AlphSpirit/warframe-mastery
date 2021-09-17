@@ -65,10 +65,11 @@
           items: Secondaries.filter(s => this.founders.indexOf(s.name) == -1)
         }, {
           name: "Melee",
-          items: Melees.filter(m => this.founders.indexOf(m.name) == -1)
+          items: [...Melees.filter(m => this.founders.indexOf(m.name) == -1), ...Misc.filter(m => m.name.startsWith("Plague ") && m.type != "Melee" && !m.components)]
+            .sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Kitguns",
-          items: [...Misc.filter(m => m.type == "Kitgun")]
+          items: [...Misc.filter(m => m.primeOmegaAttenuation)]
         }, {
           name: "Robotics",
           items: [...Sentinels, ...SentinelWeapons, ...Pets.filter(m => m.name.indexOf("Hound") > -1), ...Pets.filter(p => p.name.indexOf("Moa") > -1 && p.productCategory == "Pistols")].sort((a, b) => a.name.localeCompare(b.name))
