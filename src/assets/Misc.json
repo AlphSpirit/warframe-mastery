@@ -1049,7 +1049,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 600,
         "speed": 3.33,
         "crit_chance": 50,
         "crit_mult": 3,
@@ -1247,7 +1246,6 @@
       },
       {
         "name": "Concentrated Arrow Headshot Explosion",
-        "radius": 700,
         "speed": 1,
         "crit_chance": 75,
         "crit_mult": 2,
@@ -2334,7 +2332,6 @@
       },
       {
         "name": "Uncharged AoE",
-        "radius": 300,
         "speed": 0.833,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -2365,7 +2362,6 @@
       },
       {
         "name": "Charged Shot AoE",
-        "radius": 300,
         "speed": 0.833,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -3396,23 +3392,6 @@
     "wikiaUrl": "http://warframe.fandom.com/wiki/Cantic_Prism"
   },
   {
-    "ammo": 70,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Projectile",
-        "falloff": {
-          "start": 8,
-          "end": 16,
-          "reduction": 0.9375
-        },
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -3469,16 +3448,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 1,
     "fireRate": 0,
     "imageName": "catchmoon.png",
-    "introduced": {
-      "name": "Update 24.0",
-      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
-      "aliases": [ "24", "24.0", "Fortuna" ],
-      "parent": "24.0",
-      "date": "2018-11-08"
-    },
     "masteryReq": 0,
     "name": "Catchmoon",
     "omegaAttenuation": 0.5,
@@ -3572,19 +3543,14 @@
         "fixes": ""
       }
     ],
-    "polarities": [  ],
     "primeOmegaAttenuation": 1.05,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
-    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/7/7d/KitgunChamberCatchmoon.png/revision/latest?cb=20181110154407",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Catchmoon"
+    "type": "Kitgun Component",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelAPart"
   },
   {
     "category": "Misc",
@@ -4596,14 +4562,20 @@
     "description": "A corrupted decryption key dating back to the founding of the city of Corposium. Millions of these Holokeys were lost to the Void when Parvos Granum's flagship was bombed. Strongly desired by Ergo Glast.",
     "drops": [
       {
-        "chance": 0.375,
-        "location": "Void Storm (Earth)",
+        "chance": 0.3659,
+        "location": "Void Storm (Neptune)",
         "rarity": "Common",
-        "type": "2X Corrupted Holokey"
+        "type": "4X Corrupted Holokey"
+      },
+      {
+        "chance": 0.3659,
+        "location": "Void Storm (Saturn)",
+        "rarity": "Common",
+        "type": "5X Corrupted Holokey"
       },
       {
         "chance": 0.375,
-        "location": "Void Storm (Neptune)",
+        "location": "Void Storm (Earth)",
         "rarity": "Common",
         "type": "3X Corrupted Holokey"
       },
@@ -4611,30 +4583,32 @@
         "chance": 0.375,
         "location": "Void Storm (Pluto)",
         "rarity": "Common",
-        "type": "5X Corrupted Holokey"
-      },
-      {
-        "chance": 0.375,
-        "location": "Void Storm (Saturn)",
-        "rarity": "Common",
-        "type": "4X Corrupted Holokey"
+        "type": "6X Corrupted Holokey"
       },
       {
         "chance": 0.375,
         "location": "Void Storm (Veil Proxima)",
         "rarity": "Common",
-        "type": "6X Corrupted Holokey"
+        "type": "10X Corrupted Holokey"
       },
       {
         "chance": 0.375,
         "location": "Void Storm (Venus)",
         "rarity": "Common",
-        "type": "2X Corrupted Holokey"
+        "type": "3X Corrupted Holokey"
       }
     ],
     "imageName": "corrupted-holokey.png",
     "name": "Corrupted Holokey",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "In the final Railjack Showdown node for a Sister of Parvos, each Sister will give each squad member 1 Corrupted Holokey at End-of-Mission whether you Vanquish or Convert them! This means a Squad of 4 can leave with 4 Corrupted Holokeys each on Showdown mission complete! \nCorrupted Holokey drop amounts have been increased in Void Storms! Void Storms in the Veil Proxima will now drop 10 (vs 6) to make the hardest content the most rewarding. The rest have all had their amounts increased by 1.\nChanged the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": ""
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
         "date": "2021-07-17T12:58:58Z",
@@ -6020,6 +5994,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 50,
         "crit_mult": 2,
@@ -6447,7 +6422,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 1200,
         "speed": 1,
         "crit_chance": 0,
         "crit_mult": 0,
@@ -6720,6 +6694,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -8343,6 +8318,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -9182,6 +9158,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -9266,7 +9243,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 100,
         "speed": 8.26,
         "crit_chance": 0,
         "crit_mult": 0,
@@ -10609,6 +10585,12 @@
       },
       {
         "chance": 0.11,
+        "location": "Lith K7 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.11,
         "location": "Lith M2 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -10700,6 +10682,12 @@
       {
         "chance": 0.11,
         "location": "Meso A1 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.11,
+        "location": "Meso B6 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -10892,6 +10880,12 @@
       {
         "chance": 0.11,
         "location": "Neo N13 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.11,
+        "location": "Neo N17 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -11227,6 +11221,12 @@
       },
       {
         "chance": 0.13,
+        "location": "Lith K7 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.13,
         "location": "Lith M2 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -11318,6 +11318,12 @@
       {
         "chance": 0.13,
         "location": "Meso A1 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.13,
+        "location": "Meso B6 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -11515,6 +11521,12 @@
       },
       {
         "chance": 0.13,
+        "location": "Neo N17 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.13,
         "location": "Neo N2 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -11702,6 +11714,12 @@
       {
         "chance": 0.1667,
         "location": "Axi H1 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.1667,
+        "location": "Axi I2 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -12073,6 +12091,12 @@
       },
       {
         "chance": 0.1667,
+        "location": "Lith T7 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.1667,
         "location": "Lith V8 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -12230,6 +12254,12 @@
       {
         "chance": 0.1667,
         "location": "Meso R2 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.1667,
+        "location": "Meso S10 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -12410,6 +12440,12 @@
       {
         "chance": 0.1667,
         "location": "Neo N15 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.1667,
+        "location": "Neo N16 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -12715,6 +12751,12 @@
       },
       {
         "chance": 0.17,
+        "location": "Lith K7 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.17,
         "location": "Lith M2 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -12806,6 +12848,12 @@
       {
         "chance": 0.17,
         "location": "Meso A1 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.17,
+        "location": "Meso B6 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -12998,6 +13046,12 @@
       {
         "chance": 0.17,
         "location": "Neo N13 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.17,
+        "location": "Neo N17 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -13274,6 +13328,12 @@
       {
         "chance": 0.2,
         "location": "Axi I1 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
+        "location": "Axi I2 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -13663,6 +13723,12 @@
       },
       {
         "chance": 0.2,
+        "location": "Lith K7 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
         "location": "Lith L1 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -13825,6 +13891,12 @@
       },
       {
         "chance": 0.2,
+        "location": "Lith T7 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
         "location": "Lith V1 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -13892,6 +13964,12 @@
       {
         "chance": 0.2,
         "location": "Meso B3 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
+        "location": "Meso B6 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -14108,6 +14186,12 @@
       {
         "chance": 0.2,
         "location": "Meso R4 Relic (Radiant)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
+        "location": "Meso S10 Relic (Flawless)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -14384,6 +14468,18 @@
       {
         "chance": 0.2,
         "location": "Neo N15 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
+        "location": "Neo N16 Relic (Flawless)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2,
+        "location": "Neo N17 Relic (Radiant)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -14684,6 +14780,12 @@
       {
         "chance": 0.2333,
         "location": "Axi H1 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2333,
+        "location": "Axi I2 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -15055,6 +15157,12 @@
       },
       {
         "chance": 0.2333,
+        "location": "Lith T7 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2333,
         "location": "Lith V8 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -15212,6 +15320,12 @@
       {
         "chance": 0.2333,
         "location": "Meso R2 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2333,
+        "location": "Meso S10 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -15397,6 +15511,12 @@
       },
       {
         "chance": 0.2333,
+        "location": "Neo N16 Relic (Exceptional)",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2333,
         "location": "Neo N5 Relic (Exceptional)",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -15572,6 +15692,12 @@
       {
         "chance": 0.2533,
         "location": "Axi H1 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2533,
+        "location": "Axi I2 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -15943,6 +16069,12 @@
       },
       {
         "chance": 0.2533,
+        "location": "Lith T7 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2533,
         "location": "Lith V8 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -16100,6 +16232,12 @@
       {
         "chance": 0.2533,
         "location": "Meso R2 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2533,
+        "location": "Meso S10 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
       },
@@ -16285,6 +16423,12 @@
       },
       {
         "chance": 0.2533,
+        "location": "Neo N16 Relic",
+        "rarity": "Uncommon",
+        "type": "Forma Blueprint"
+      },
+      {
+        "chance": 0.2533,
         "location": "Neo N5 Relic",
         "rarity": "Uncommon",
         "type": "Forma Blueprint"
@@ -16401,6 +16545,14 @@
     "itemCount": 1,
     "name": "Forma",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Changed the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": "Fixed inability to use Stance Forma or Umbra Forma on the Dark Split-Sword.\nFixed being able to equip Umbra Forma to Sisters of Parvos Hound weapons. (They can’t equip Umbra mods so this was just a trap for the unwary)"
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -18400,6 +18552,14 @@
     "name": "Forma",
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Changed the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": "Fixed inability to use Stance Forma or Umbra Forma on the Dark Split-Sword.\nFixed being able to equip Umbra Forma to Sisters of Parvos Hound weapons. (They can’t equip Umbra mods so this was just a trap for the unwary)"
+      },
+      {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
         "url": "https://forums.warframe.com/topic/1269749-update-305-sisters-of-parvos/",
@@ -19423,18 +19583,6 @@
     "uniqueName": "/Lotus/Types/Items/MiscItems/PhotoboothTileGasCityConStraightEOpen"
   },
   {
-    "ammo": 400,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Discharge",
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -19730,16 +19878,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 3,
     "fireRate": 0,
     "imageName": "gaze.png",
-    "introduced": {
-      "name": "Update 24.0",
-      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
-      "aliases": [ "24", "24.0", "Fortuna" ],
-      "parent": "24.0",
-      "date": "2018-11-08"
-    },
     "masteryReq": 0,
     "name": "Gaze",
     "omegaAttenuation": 0.89999998,
@@ -19858,19 +19998,14 @@
         "fixes": "Fixed Clients having no recoil on their secondary weapon after they transferred to their Operator and used Madurai’s Phoenix Gaze."
       }
     ],
-    "polarities": [  ],
-    "primeOmegaAttenuation": 1,
+    "primeOmegaAttenuation": 1.05,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
-    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/d/d1/KitgunChamberGaze.png/revision/latest?cb=20181110154438",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Gaze"
+    "type": "Kitgun Component",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelDPart"
   },
   {
     "category": "Misc",
@@ -20111,7 +20246,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 350,
         "speed": 2.07,
         "crit_chance": 16,
         "crit_mult": 1.5,
@@ -21190,6 +21324,14 @@
     "name": "Helminth Segment",
     "patchlogs": [
       {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.3",
+        "date": "2021-09-10T20:32:16Z",
+        "url": "https://forums.warframe.com/topic/1280358-nidus-prime-plague-star-hotfix-3073/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Helminth Infirmary doors not opening for Nidus Prime for players who do not own the Helminth Segment."
+      },
+      {
         "name": "Heart of Deimos: Hotfix 29.0.7",
         "date": "2020-09-03T19:29:45Z",
         "url": "https://forums.warframe.com/topic/1221646-heart-of-deimos-hotfix-2907/",
@@ -21850,6 +21992,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 25,
         "crit_mult": 2,
@@ -22165,6 +22308,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 45,
         "crit_mult": 3,
@@ -24157,6 +24301,12 @@
         "type": "500X Kuva"
       },
       {
+        "chance": 0.0882,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Rare",
+        "type": "100X Kuva"
+      },
+      {
         "chance": 0.0909,
         "location": "Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A",
         "rarity": "Rare",
@@ -24173,6 +24323,12 @@
         "location": "Sorties",
         "rarity": "Uncommon",
         "type": "6000X Kuva"
+      },
+      {
+        "chance": 0.1221,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Uncommon",
+        "type": "100X Kuva"
       },
       {
         "chance": 0.1265,
@@ -24343,6 +24499,12 @@
         "type": "1200X Kuva"
       },
       {
+        "chance": 0.236,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Uncommon",
+        "type": "100X Kuva"
+      },
+      {
         "chance": 0.2533,
         "location": "Requiem I Relic",
         "rarity": "Uncommon",
@@ -24424,6 +24586,38 @@
     "itemCount": 6000,
     "name": "Kuva",
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.5",
+        "date": "2021-09-16T20:15:52Z",
+        "url": "https://forums.warframe.com/topic/1281196-nidus-prime-plague-star-hotfix-3075/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Kuva Ayanga firing projectiles back on the player with maximum Fire Rate."
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.2",
+        "date": "2021-09-09T22:09:43Z",
+        "url": "https://forums.warframe.com/topic/1280179-nidus-prime-plague-star-hotfix-3072%C2%A0%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "If you’ve engaged in the Adversary hunts with Kuva Liches and Sisters of Parvos, your Foundry might be suffering from some unavoidable clutter. The amount of Hounds and weapons sitting in your Foundry have grown to not only take up room in your list but also within the database itself!"
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.1 + 30.7.1.1",
+        "date": "2021-09-08T22:07:48Z",
+        "url": "https://forums.warframe.com/topic/1279944-nidus-prime-plague-star-hotfix-3071-30711/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Transmission that plays when an Ally Kuva Lich/Sister spawns not actually showing the correct Adversary for Clients. This also could result in a big spot-load."
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Reduced the time between Grineer Kuva Thrall spawns, so that the time to get all 10 to spawn is more in line with the time it takes to get all 3 Corpus Hounds to spawn.\nMade improvements to the Kuva Lich/Sister showdown cinematic:",
+        "fixes": "Fixed UI issue with Railjack Crew Command where players could be prompted to “Assign Role” to Converted Kuva Liches and Sisters of Parvos, despite them being limited to the Defender role.  "
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -25838,6 +26032,12 @@
         "type": "500X Kuva"
       },
       {
+        "chance": 0.0882,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Rare",
+        "type": "100X Kuva"
+      },
+      {
         "chance": 0.0909,
         "location": "Deimos/Cambion Drift (Level 100 - 100 Cambion Drift Bounty), Rotation A",
         "rarity": "Rare",
@@ -25854,6 +26054,12 @@
         "location": "Sorties",
         "rarity": "Uncommon",
         "type": "6000X Kuva"
+      },
+      {
+        "chance": 0.1221,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Uncommon",
+        "type": "100X Kuva"
       },
       {
         "chance": 0.1265,
@@ -26024,6 +26230,12 @@
         "type": "1200X Kuva"
       },
       {
+        "chance": 0.236,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Uncommon",
+        "type": "100X Kuva"
+      },
+      {
         "chance": 0.2533,
         "location": "Requiem I Relic",
         "rarity": "Uncommon",
@@ -26107,6 +26319,38 @@
     "name": "Kuva",
     "parents": [ "Bishamo Cuirass", "Bleeding Body Ephemera", "Naberus Ephemera", "Umbra Forma" ],
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.5",
+        "date": "2021-09-16T20:15:52Z",
+        "url": "https://forums.warframe.com/topic/1281196-nidus-prime-plague-star-hotfix-3075/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Kuva Ayanga firing projectiles back on the player with maximum Fire Rate."
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.2",
+        "date": "2021-09-09T22:09:43Z",
+        "url": "https://forums.warframe.com/topic/1280179-nidus-prime-plague-star-hotfix-3072%C2%A0%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "If you’ve engaged in the Adversary hunts with Kuva Liches and Sisters of Parvos, your Foundry might be suffering from some unavoidable clutter. The amount of Hounds and weapons sitting in your Foundry have grown to not only take up room in your list but also within the database itself!"
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.1 + 30.7.1.1",
+        "date": "2021-09-08T22:07:48Z",
+        "url": "https://forums.warframe.com/topic/1279944-nidus-prime-plague-star-hotfix-3071-30711/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Transmission that plays when an Ally Kuva Lich/Sister spawns not actually showing the correct Adversary for Clients. This also could result in a big spot-load."
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Reduced the time between Grineer Kuva Thrall spawns, so that the time to get all 10 to spawn is more in line with the time it takes to get all 3 Corpus Hounds to spawn.\nMade improvements to the Kuva Lich/Sister showdown cinematic:",
+        "fixes": "Fixed UI issue with Railjack Crew Command where players could be prompted to “Assign Role” to Converted Kuva Liches and Sisters of Parvos, despite them being limited to the Defender role.  "
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -27902,6 +28146,14 @@
     "imageName": "liset.png",
     "name": "Liset",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Transmission Color Pallette and Liset Athari Skin not rewarding Nora’s Choice Creds from Duplicate Protection."
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -29862,6 +30114,14 @@
     "name": "Mandachord",
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Octavia’s Mandachord option has been moved into the top Arsenal menu, under the Parazon option.\nThe Mandachord is a very important piece of equipment for Octavia’s abilities ",
+        "fixes": ""
+      },
+      {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
         "date": "2021-03-19T15:18:34Z",
         "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
@@ -30361,6 +30621,22 @@
     "imageName": "mark.png",
     "name": "Mark",
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.5",
+        "date": "2021-09-16T20:15:52Z",
+        "url": "https://forums.warframe.com/topic/1281196-nidus-prime-plague-star-hotfix-3075/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Revenant Mephisto Collection diorama in the Market missing the rear-cape detail. 👀\nFixed Xaku, Titania and Gara not having a Blueprint hint button in the Market. "
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "*Obtain the Ghoulsaw from Nakak’s offerings in Plague Star or in the Market for Platinum.\n**Please note this is in the Market as a separate Collection as not to spoil things for those who want Mephisto who do not yet have The Second Dream or War Within complete. This follows the precedent from other Deluxe bundles (Zephyr Harrier, etc).\nUpdated Foundry preview images for Scorched Beacon and Chroma Mark Blueprints (for The New Strange Quest), which were appearing as low resolution images. ",
+        "fixes": "Fixed Necramech Slot pricing in Foundry appearing differently than it does in the in-game Market. "
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -32661,6 +32937,14 @@
     "name": "Medallion",
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Syndicate Medallion trade in screens have been given the UI theme treatment.",
+        "fixes": ""
+      },
+      {
         "name": "Sisters of Parvos: Hotfix 30.5.1",
         "date": "2021-07-06T21:24:17Z",
         "url": "https://forums.warframe.com/topic/1269937-sisters-of-parvos-hotfix-3051/",
@@ -33284,6 +33568,12 @@
             "type": "Cetus Wisp"
           },
           {
+            "chance": 0.1008,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
             "chance": 0.119,
             "location": "Earth/Cetus (Level 15 - 25 Ghoul Bounty), Rotation A",
             "rarity": "Uncommon",
@@ -33330,6 +33620,18 @@
             "location": "Earth/Cetus (Level 40 - 60 Cetus Bounty), Rotation C",
             "rarity": "Uncommon",
             "type": "2X Cetus Wisp"
+          },
+          {
+            "chance": 0.1395,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
+          },
+          {
+            "chance": 0.1611,
+            "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+            "rarity": "Uncommon",
+            "type": "Cetus Wisp"
           },
           {
             "chance": 0.1739,
@@ -34116,8 +34418,20 @@
     "description": "Converts 1.25% of excess Affinity into Focus for the Naramon Way.",
     "drops": [
       {
+        "chance": 0.0546,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
+        "rarity": "Rare",
+        "type": "Naramon Lens"
+      },
+      {
         "chance": 0.0714,
         "location": "Deimos/Cambion Drift (Level 15 - 25 Cambion Drift Bounty), Rotation C",
+        "rarity": "Rare",
+        "type": "Naramon Lens"
+      },
+      {
+        "chance": 0.0756,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
         "rarity": "Rare",
         "type": "Naramon Lens"
       },
@@ -34166,6 +34480,12 @@
       {
         "chance": 0.1379,
         "location": "Earth/Cetus (Level 30 - 50 Cetus Bounty), Rotation C",
+        "rarity": "Uncommon",
+        "type": "Naramon Lens"
+      },
+      {
+        "chance": 0.1461,
+        "location": "Earth/Cetus (Level 15 - 25 Plague Star), Rotation A",
         "rarity": "Uncommon",
         "type": "Naramon Lens"
       },
@@ -34792,6 +35112,14 @@
     "imageName": "nightwave.png",
     "name": "Nightwave",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Reworded the ‘Vault Looter’ Nightwave Act to clarify that it’s for the Dragon Key Vaults, not the Isolation Vaults.",
+        "fixes": "Fixed Nightwave Acts being stuck on the screen forever if you change settings."
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -35836,6 +36164,14 @@
     "parents": [ "Fomorian Disruptor" ],
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Added Orokin Ciphers and Omega Isotopes as a feeding option to the Helminth, which will grant Bile.",
+        "fixes": ""
+      },
+      {
         "name": "Update 18.5: Sands of Inaros",
         "date": "2016-03-04T18:20:53Z",
         "url": "https://forums.warframe.com/topic/618642-update-185-sands-of-inaros-%C2%A0/",
@@ -36429,6 +36765,14 @@
     "parents": [ "Akvasto Forest-Camo Skin", "Arcane Aura Helmet", "Arcane Aurora Helmet", "Arcane Avalon Helmet", "Arcane Backdraft Helmet", "Arcane Chlora Helmet", "Arcane Chorus Helmet", "Arcane Coil Helmet", "Arcane Esprit Helmet", "Arcane Essence Helmet", "Arcane Flux Helmet", "Arcane Gambit Helmet", "Arcane Hemlock Helmet", "Arcane Locust Helmet", "Arcane Mag Gauss Helmet", "Arcane Menticide Helmet", "Arcane Meridian Helmet", "Arcane Pendragon Helmet", "Arcane Phoenix Helmet", "Arcane Pulse Helmet", "Arcane Reverb Helmet", "Arcane Scorpion Helmet", "Arcane Squall Helmet", "Arcane Storm Helmet", "Arcane Swindle Helmet", "Arcane Thrak Helmet", "Arcane Vanguard Helmet", "Arcane Vespa Helmet", "Atlas Shikoro Helmet", "Atlas Tartarus Helmet", "Baruuk Meroe Helmet", "Bishamo Cuirass", "Bishamo Greaves", "Bishamo Helmet", "Bishamo Pauldrons", "Daedalus Chest Plate", "Daedalus Shoulder Plates", "Daedalus Spurs", "Daman Sugatra", "Detron Shock-Camo Skin", "Edo Chest Plate", "Edo Shin Plates", "Edo Shoulder Plates", "Eos Chest Plate", "Eos Shoulder Plates", "Eos Spurs", "Equinox Clisthert Helm", "Equinox Solstice Helmet", "Excalibur Mordred Helmet", "Forma", "Gara Virago Helmet", "Garuda Bathory Helmet", "Gauss Mag Helmet", "Grendel Glutt Helmet", "Harrow Crucis Helmet", "Harrow Suffragan Helmet", "Hildryn Asuron Helmet", "Hydroid Triton Helmet", "Inaros Anubis Helmet", "Khora Delphi Helmet", "Lavos Cordatus Helmet", "Limbo Aristeas Helmet", "Limbo Magrite Helmet", "Mesa Longhorn Helmet", "Mesa Ovis Helmet", "Mirage Harlequin Helmet", "Mirage Trivelin Helmet", "Nekros Raknis Helmet", "Nekros Shroud Helmet", "Nezha Circa Helmet", "Nezha Jinza Helmet", "Nidus Myxini Helmet", "Nidus Prion Helmet", "Nova Quantum Helmet", "Oberon Markhor Helmet", "Oberon Oryx Helmet", "Octavia Cadenza Helmet", "Orokin Catalyst", "Pazza Sugatra", "Penta Shock-Camo Skin", "Protea Mavv Helmet", "Protea Telema Helmet", "Prova Shock-Camo Skin", "Revenant Vania Helmet", "Scindo Forest-Camo Skin", "Sevagoth Lucifuge Helmet", "Smoking Body Ephemera", "Soma Forest-Camo Skin", "Tantu Sugatra", "The Jordas Precept", "The Limbo Theorem", "Titania Aurai Helmet", "Titania Mab Helmet", "Valkyr Bastet Helmet", "Valkyr Kara Helmet", "Vauban Armistice Helmet", "Wisp Gaoth Helmet", "Wolf Hood", "Wukong Dasheng Helmet", "Yareli Physalia Helmet", "Yomo Syandana", "Zephyr Cierzo Helmet", "Zephyr Tengu Helmet" ],
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Changed the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": ""
+      },
+      {
         "name": "Atlas Prime: Hotfix 25.8.2",
         "date": "2019-10-18T15:43:56Z",
         "url": "https://forums.warframe.com/topic/1134461-atlas-prime-hotfix-2582/",
@@ -36562,6 +36906,14 @@
     "name": "Orokin Cipher",
     "parents": [ "Hidden Messages" ],
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Added Orokin Ciphers and Omega Isotopes as a feeding option to the Helminth, which will grant Bile.",
+        "fixes": ""
+      },
       {
         "name": "The Sacrifice: Hotfix 23.0.4",
         "date": "2018-06-20T20:44:05Z",
@@ -37280,7 +37632,6 @@
       },
       {
         "name": "Area of Effect",
-        "radius": 100,
         "speed": 2,
         "crit_chance": 4,
         "crit_mult": 1.1,
@@ -37563,7 +37914,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 500,
         "speed": 1.67,
         "crit_chance": 24,
         "crit_mult": 2.1,
@@ -39198,7 +39548,6 @@
     "attacks": [
       {
         "name": "Explosion",
-        "radius": 1400,
         "speed": 2,
         "crit_chance": 15,
         "crit_mult": 1.5,
@@ -39745,6 +40094,22 @@
     "imageName": "railjack.png",
     "name": "Railjack",
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.1 + 30.7.1.1",
+        "date": "2021-09-08T22:07:48Z",
+        "url": "https://forums.warframe.com/topic/1279944-nidus-prime-plague-star-hotfix-3071-30711/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Nidus Prime missing half his body when he is in Railjack Turrets."
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "In the final Railjack Showdown node for a Sister of Parvos, each Sister will give each squad member 1 Corrupted Holokey at End-of-Mission whether you Vanquish or Convert them! This means a Squad of 4 can leave with 4 Corrupted Holokeys each on Showdown mission complete! \nFixed an issue in Crew Command where Liches would appear as Grineer Heavy Gunners in the Railjack UI. It now shows the Kuva Lich or Sisters of Parvos badge icons where it previously showed Grineer Heavy Gunners to represent this Crew member. \nAmbassador Component Blueprints have a chance to drop from Aurax Atloc Raknoids. The main Blueprint can now be attained as a Rotation C reward from any Corpus Railjack Survival mission.\nChanged the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": "Fixed the end-of-mission screen in Railjack not displaying the correct mission time.\nFixed Railjack Crew Pilots searching for objectives multiple times per second, causing some pretty dizzy passengers. \nFixed an issue with bonus Affinity not being granted after a successful Railjack Defense mission.\nFixed AI Fighters in Railjack losing focus on the player in certain situations, and flying outside the detection range of the player. \nFixed a bug that would cause the Railjack to become stuck in an ice mine while in the Neptune Proxima.\nFixed an issue where the Mods section would not load sometimes when configuring the Railjack Plexus from the Dry Dock console.\nFixed an issue where some colour customization code intended for the Railjack’s emplacements would cause a player’s Warframe to appear in its default skin and colour scheme.\nFixed a script error related to loading Railjack Crew members when a Client tries to join a session. \nFixed an issue with an infinite loading screen for Hosts leaving Railjack Defense missions. \nFixed ‘Previous Power’ binding option in Railjack controls appearing as ‘Switch Secondary’.\nFixed an issue where the Railjack’s left gun is partially or completely invisible when at the Dry Dock.\nFixed issue where Parazon marker would appear above converted Corpus Liches or SIsters of Parvos’ head when selecting crew the Railjack Crew page. \nFixed UI issue with Railjack Crew Command where players could be prompted to “Assign Role” to Converted Kuva Liches and Sisters of Parvos, despite them being limited to the Defender role.  \nFixed an issue where the Railjack Skills Bar from the Crew Page in the Dry Dock was not updating after Crew is swapped."
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -40985,18 +41350,6 @@
     "uniqueName": "/Lotus/Types/Items/SyndicateDogTags/KelaEventDogTag"
   },
   {
-    "ammo": 700,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Hit-Scan",
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -41053,16 +41406,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 1,
     "fireRate": 0,
     "imageName": "rattleguts.png",
-    "introduced": {
-      "name": "Update 24.0",
-      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
-      "aliases": [ "24", "24.0", "Fortuna" ],
-      "parent": "24.0",
-      "date": "2018-11-08"
-    },
     "masteryReq": 0,
     "name": "Rattleguts",
     "omegaAttenuation": 0.75,
@@ -41092,19 +41437,14 @@
         "fixes": ""
       }
     ],
-    "polarities": [  ],
     "primeOmegaAttenuation": 1,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
-    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/35/KitgunChamberRattleguts.png/revision/latest?cb=20181110154514",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Rattleguts"
+    "type": "Kitgun Component",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelCPart"
   },
   {
     "category": "Misc",
@@ -41859,6 +42199,14 @@
     "imageName": "riven-sliver.png",
     "name": "Riven Sliver",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Changed the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": ""
+      },
       {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
         "date": "2021-03-19T15:18:34Z",
@@ -44239,6 +44587,14 @@
     "parents": [ "Bonewidow Weapon Pod" ],
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the unrepaired \"Scrap\" version of an Armament also shown as Equipped in the list for the same slot. "
+      },
+      {
         "name": "Call of the Tempestarii: TennoGen: Update 30.2.0",
         "date": "2021-05-12T19:38:18Z",
         "url": "https://forums.warframe.com/topic/1263575-call-of-the-tempestarii-tennogen-update-3020/",
@@ -44827,20 +45183,21 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 38,
         "crit_mult": 2.6,
         "status_chance": 24,
         "damage": {
-          "impact": 72,
-          "slash": 120,
-          "puncture": 48
+          "impact": 75,
+          "slash": 125,
+          "puncture": 50
         },
-        "slide": "480",
+        "slide": "500",
         "slam": {
-          "damage": "720.00",
+          "damage": "750.00",
           "radial": {
-            "damage": "96.00",
+            "damage": "250.00",
             "element": "undefined",
             "proc": "undefined",
             "radius": 8
@@ -44979,7 +45336,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 700,
         "speed": 1.33,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -45834,53 +46190,6 @@
     "uniqueName": "/Lotus/Types/Items/Eidolon/AnimalTagMergooRare"
   },
   {
-    "ammo": 130,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Projectile",
-        "shot_speed": null,
-        "flight": "???",
-        "falloff": {
-          "start": 13,
-          "end": 26,
-          "reduction": 0
-        },
-        "damage": {}
-      },
-      {
-        "name": "Explosion",
-        "radius": 470,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 4.7,
-          "reduction": 0.5
-        },
-        "damage": {}
-      },
-      {
-        "name": "Bomblet Explosion",
-        "radius": 210,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 2.1,
-          "reduction": 0.8
-        },
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -45937,16 +46246,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 1,
     "fireRate": 0,
     "imageName": "sporelacer.png",
-    "introduced": {
-      "name": "Update 29.5",
-      "url": "http://warframe.fandom.com/wiki/Update_29%23Update_29.5",
-      "aliases": [ "29.5", "29.5.0" ],
-      "parent": "29.5",
-      "date": "2020-11-19"
-    },
     "masteryReq": 0,
     "name": "Sporelacer",
     "omegaAttenuation": 0.55000001,
@@ -45960,19 +46261,14 @@
         "fixes": "Fixed inability to Chat Link Kitgun weapons made with the new Infested chambers Vermisplicer and Sporelacer."
       }
     ],
-    "polarities": [  ],
     "primeOmegaAttenuation": 1,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2020-11-19",
     "skipBuildTimePrice": 25,
-    "tags": [ "Infested" ],
     "totalDamage": 0,
     "tradable": false,
     "type": "Pistol",
-    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/c/cf/KitgunChamberSporelacer.png/revision/latest?cb=20201120224837",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Sporelacer"
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelEgg/InfModularBarrelEggPart"
   },
   {
     "category": "Misc",
@@ -46068,6 +46364,14 @@
     "imageName": "stance-forma.png",
     "name": "Stance Forma",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed inability to use Stance Forma or Umbra Forma on the Dark Split-Sword."
+      },
       {
         "name": "Update 29.6.0: Orphix Venom!",
         "date": "2020-12-18T19:25:12Z",
@@ -46399,6 +46703,14 @@
     "imageName": "steel-essence.png",
     "name": "Steel Essence",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Changed the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": ""
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.5",
         "date": "2021-07-29T17:08:32Z",
@@ -47879,31 +48191,6 @@
     "uniqueName": "/Lotus/Types/Ship/AdvancedResourceDrone"
   },
   {
-    "ammo": 540,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Projectile",
-        "damage": {}
-      },
-      {
-        "name": "Explosion",
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "AoE",
-        "falloff": {
-          "start": 0,
-          "end": 1.9,
-          "reduction": 0.3
-        },
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -47960,16 +48247,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 1,
     "fireRate": 0,
     "imageName": "tombfinger.png",
-    "introduced": {
-      "name": "Update 24.0",
-      "url": "http://warframe.fandom.com/wiki/Update_24%23Update_24.0",
-      "aliases": [ "24", "24.0", "Fortuna" ],
-      "parent": "24.0",
-      "date": "2018-11-08"
-    },
     "masteryReq": 0,
     "name": "Tombfinger",
     "omegaAttenuation": 0.64999998,
@@ -48048,19 +48327,14 @@
         "fixes": ""
       }
     ],
-    "polarities": [  ],
-    "primeOmegaAttenuation": 0.85000002,
+    "primeOmegaAttenuation": 0.89999998,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2018-11-08",
     "skipBuildTimePrice": 25,
-    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun",
-    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/6/6b/KitgunChamberTombfinger.png/revision/latest?cb=20181110154549",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Tombfinger"
+    "type": "Kitgun Component",
+    "uniqueName": "/Lotus/Weapons/SolarisUnited/Secondary/SUModularSecondarySet1/Barrel/SUModularSecondaryBarrelBPart"
   },
   {
     "category": "Misc",
@@ -48600,6 +48874,14 @@
     "name": "Umbra Forma",
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed inability to use Stance Forma or Umbra Forma on the Dark Split-Sword.\nFixed being able to equip Umbra Forma to Sisters of Parvos Hound weapons. (They can’t equip Umbra mods so this was just a trap for the unwary)"
+      },
+      {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
         "date": "2021-03-19T15:18:34Z",
         "url": "https://forums.warframe.com/topic/1253565-update-29100-corpus-proxima-the-new-railjack/",
@@ -48993,6 +49275,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.5,
         "crit_chance": 50,
         "crit_mult": 2,
@@ -49710,18 +49993,6 @@
     "uniqueName": "/Lotus/Types/Items/ShipFeatureItems/VenusNavigationFeatureItem"
   },
   {
-    "ammo": 226,
-    "attacks": [
-      {
-        "name": "Normal",
-        "speed": 0,
-        "crit_chance": 0,
-        "crit_mult": 0,
-        "status_chance": 0,
-        "shot_type": "Discharge",
-        "damage": {}
-      }
-    ],
     "buildPrice": 5000,
     "buildQuantity": 1,
     "buildTime": 3600,
@@ -49778,16 +50049,8 @@
     "criticalMultiplier": 0,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "",
-    "disposition": 3,
     "fireRate": 0,
     "imageName": "vermisplicer.png",
-    "introduced": {
-      "name": "Update 29.5",
-      "url": "http://warframe.fandom.com/wiki/Update_29%23Update_29.5",
-      "aliases": [ "29.5", "29.5.0" ],
-      "parent": "29.5",
-      "date": "2020-11-19"
-    },
     "masteryReq": 0,
     "name": "Vermisplicer",
     "omegaAttenuation": 1,
@@ -49825,19 +50088,14 @@
         "fixes": ""
       }
     ],
-    "polarities": [  ],
     "primeOmegaAttenuation": 0.85000002,
     "procChance": 0,
     "productCategory": "Pistols",
-    "releaseDate": "2020-11-19",
     "skipBuildTimePrice": 25,
-    "tags": [  ],
     "totalDamage": 0,
     "tradable": false,
-    "type": "Kitgun",
-    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/f/fa/KitgunChamberVermisplicer.png/revision/latest?cb=20201120224842",
-    "wikiaUrl": "http://warframe.fandom.com/wiki/Vermisplicer"
+    "type": "Pistol",
+    "uniqueName": "/Lotus/Weapons/Infested/Pistols/InfKitGun/Barrels/InfBarrelBeam/InfModularBarrelBeamPart"
   },
   {
     "category": "Misc",
@@ -50003,6 +50261,14 @@
     "name": "Void Traces",
     "parents": [ "Bleeding Dragon Key", "Decaying Dragon Key", "Extinguished Dragon Key", "Hobbled Dragon Key" ],
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an issue with Void Storm Survival missions sometimes not rewarding Void Traces when unlocking 2 or more Relics.\nFixed an issue where while completing Void Storm missions, collecting 10 Void Traces while in the Necramech without entering your Warframe does not open the Relic."
+      },
       {
         "name": "Call of the Tempestarii: Hotfix 30.0.4",
         "date": "2021-04-16T15:29:15Z",

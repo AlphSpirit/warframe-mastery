@@ -2,6 +2,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -190,6 +191,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 13,
         "crit_mult": 1.7,
@@ -346,6 +348,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -510,6 +513,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -607,7 +611,7 @@
     "marketCost": 125,
     "masteryReq": 2,
     "name": "Ankyros",
-    "omegaAttenuation": 1.45,
+    "omegaAttenuation": 1.5,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -690,6 +694,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 28,
         "crit_mult": 2.4,
@@ -931,7 +936,7 @@
     },
     "masteryReq": 8,
     "name": "Ankyros Prime",
-    "omegaAttenuation": 1.45,
+    "omegaAttenuation": 1.5,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -1000,6 +1005,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.733,
         "crit_chance": 24,
         "crit_mult": 2,
@@ -1155,6 +1161,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 9,
         "crit_mult": 1.9,
@@ -1176,11 +1183,11 @@
         }
       },
       {
-        "name": "1st Heavy Attack Toxic Spines",
+        "name": "First Heavy Attack - Toxic Spines",
         "speed": 2,
         "crit_chance": 9,
         "crit_mult": 1.9,
-        "status_chance": 20,
+        "status_chance": 12,
         "charge_time": 0.5,
         "shot_type": "Projectile",
         "shot_speed": null,
@@ -1193,11 +1200,11 @@
         }
       },
       {
-        "name": "2nd Heavy Attack Toxic Spines",
+        "name": "Second Heavy Attack - Toxic Spines",
         "speed": 2,
         "crit_chance": 9,
         "crit_mult": 1.9,
-        "status_chance": 20,
+        "status_chance": 12,
         "charge_time": 0.5,
         "shot_type": "Projectile",
         "shot_speed": null,
@@ -1486,7 +1493,7 @@
     },
     "masteryReq": 11,
     "name": "Arum Spinosa",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Orphix Venom: Hotfix 29.6.2",
@@ -1545,6 +1552,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -1642,7 +1650,7 @@
     "marketCost": 175,
     "masteryReq": 5,
     "name": "Atterax",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
@@ -1733,6 +1741,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 12.5,
         "crit_mult": 2,
@@ -1831,6 +1840,38 @@
     "name": "Bo",
     "omegaAttenuation": 1.35,
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.4",
+        "date": "2021-09-14T18:40:50Z",
+        "url": "https://forums.warframe.com/topic/1280915-nidus-prime-plague-star-hotfix-3074/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Boosters not including hours left when above 1 day remaining. "
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.3",
+        "date": "2021-09-10T20:32:16Z",
+        "url": "https://forums.warframe.com/topic/1280358-nidus-prime-plague-star-hotfix-3073/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Infested enemy spawns in Plague Star fleeing to Cetus when attempting to play the Bounty back to back. "
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.2",
+        "date": "2021-09-09T22:09:43Z",
+        "url": "https://forums.warframe.com/topic/1280179-nidus-prime-plague-star-hotfix-3072%C2%A0%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an extremely precise Loki Switch Teleport on the Plague Star Escort Drone resulting in ability to skip most of the third Bounty stage wherein players were sending the Drone off-navigation into a Sniper Tower as an exploit."
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "90-Day Resource 90-Day and Affinity Boosters\nSpeak to Konzu in Cetus to begin running the Plague Star Bounty.\nComplete the series of Bounty Missions, and you’ll earn Operational Supply Standing to shop for the Event Rewards.\nThe more Bounties you complete, the more standing you’ll earn toward the Operational Supply Syndicate!\nThe Plague Star Bounty starts with enemies in the Medium difficulty range, but you can increase the event difficulty by purchasing and mixing the Eidolon Phylaxis from Nakak into Vay Hek’s Toxin.\nComplete Konzu’s Bounty and earn Operational Supply Standing. Nidus Prime Relics can be found in these Bounties as well as in their normal areas.\nChanged the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.",
+        "fixes": "We fixed an issue where the Plague Star Bounty drone would automatically start without being hacked once the player was in its proximity.\nFixed unhelpful waypoints attaching themselves to consoles that are environment only and not interactable in Orb Vallis Bounty Spy missions. \nFixed a script error when casting Bonewidow’s Shield Maiden ability. "
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -5126,6 +5167,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 24,
         "crit_mult": 2.6,
@@ -5459,6 +5501,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 6,
         "crit_mult": 1.5,
@@ -5510,7 +5553,7 @@
         "productCategory": "LongGuns",
         "slot": 1,
         "accuracy": 25,
-        "omegaAttenuation": 1.25,
+        "omegaAttenuation": 1.3,
         "noise": "Alarming",
         "trigger": "Auto",
         "magazineSize": 60,
@@ -5595,6 +5638,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.08,
             "crit_chance": 10,
             "crit_mult": 1.5,
@@ -5797,6 +5841,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -5944,6 +5989,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 35,
         "crit_mult": 2.2,
@@ -6102,7 +6148,7 @@
     "slideAttack": 187,
     "slot": 5,
     "stancePolarity": "Madurai",
-    "tags": [ "Stalker" ],
+    "tags": [ "Sentient" ],
     "totalDamage": 187,
     "tradable": false,
     "type": "Sword",
@@ -6114,6 +6160,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -6182,6 +6229,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1,
             "crit_chance": 12.5,
             "crit_mult": 2,
@@ -6314,6 +6362,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 6,
         "crit_mult": 1.4,
@@ -6454,6 +6503,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 9,
         "crit_mult": 2,
@@ -6650,6 +6700,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -6812,6 +6863,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -6851,7 +6903,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 480,
         "speed": 1,
         "crit_chance": 19,
         "crit_mult": 2.1,
@@ -6885,7 +6936,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 480,
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.3,
@@ -7045,6 +7095,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -7177,6 +7228,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 15,
         "crit_mult": 1.5,
@@ -7350,6 +7402,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 6,
         "crit_mult": 1.5,
@@ -7519,6 +7572,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 36,
         "crit_mult": 2.4,
@@ -7965,6 +8019,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 8,
         "crit_mult": 1.5,
@@ -8214,6 +8269,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 5,
             "crit_mult": 1.5,
@@ -8292,6 +8348,14 @@
     "name": "Dark Split-Sword",
     "omegaAttenuation": 1.21,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed inability to use Stance Forma or Umbra Forma on the Dark Split-Sword."
+      },
       {
         "name": "The Steel Path: Inaros Prime 28.2.0 + 28.2.0.1",
         "date": "2020-07-14T18:01:09Z",
@@ -8394,6 +8458,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -8533,6 +8598,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 28,
         "crit_mult": 2,
@@ -8730,6 +8796,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 32,
         "crit_mult": 3,
@@ -9305,6 +9372,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.883,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -9424,6 +9492,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 22,
         "crit_mult": 2,
@@ -9502,6 +9571,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.917,
             "crit_chance": 16,
             "crit_mult": 2,
@@ -9682,13 +9752,14 @@
     "tradable": false,
     "type": "Nikana",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/KatanaAndWakizashi/LowKatana",
-    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/39/DragonKatana.png/revision/latest?cb=20140415221134",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/3/39/DragonKatana.png/revision/latest?cb=20210912014611",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Dragon_Nikana",
     "windUp": 0.5
   },
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -9861,6 +9932,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -10025,6 +10097,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -10180,6 +10253,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -10328,6 +10402,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -10397,6 +10472,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 12,
             "crit_mult": 1.8,
@@ -10468,6 +10544,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 12,
             "crit_mult": 1.8,
@@ -10626,6 +10703,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -11071,6 +11149,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 28,
         "crit_mult": 2.6,
@@ -11203,6 +11282,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -11290,6 +11370,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 10,
             "crit_mult": 1.5,
@@ -11413,6 +11494,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -11587,6 +11669,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -11759,6 +11842,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -11987,6 +12071,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 10,
         "crit_mult": 1.8,
@@ -12150,6 +12235,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -12290,6 +12376,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -12438,6 +12525,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 12,
         "crit_mult": 1.6,
@@ -12477,7 +12565,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 600,
         "speed": 0.833,
         "crit_chance": 14,
         "crit_mult": 1.8,
@@ -12511,7 +12598,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 600,
         "speed": 0.833,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -12679,6 +12765,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 8,
         "crit_mult": 1.5,
@@ -12899,6 +12986,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 26,
         "crit_mult": 2.6,
@@ -14383,6 +14471,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -14587,6 +14676,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.8,
         "crit_chance": 40,
         "crit_mult": 2.5,
@@ -15129,6 +15219,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 25,
         "crit_mult": 2.3,
@@ -15349,6 +15440,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 30,
         "crit_mult": 2.7,
@@ -15537,6 +15629,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -15757,6 +15850,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 26,
         "crit_mult": 2,
@@ -16358,7 +16452,7 @@
     },
     "masteryReq": 13,
     "name": "Galatine Prime",
-    "omegaAttenuation": 0.80000001,
+    "omegaAttenuation": 0.85000002,
     "patchlogs": [
       {
         "name": "The Silver Grove: Hotfix 3 (Nekros Prime!)",
@@ -16395,6 +16489,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.75,
         "crit_chance": 12,
         "crit_mult": 1.8,
@@ -16475,7 +16570,7 @@
     "criticalMultiplier": 1.8,
     "damagePerShot": [ 12, 38, 64, 0, 0, 96, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Shock and maim with this heavyweight retractable whip.",
-    "disposition": 4,
+    "disposition": 5,
     "fireRate": 0.75000006,
     "followThrough": 0.5,
     "heavyAttackDamage": 945,
@@ -16493,7 +16588,7 @@
     "marketCost": 175,
     "masteryReq": 6,
     "name": "Galvacord",
-    "omegaAttenuation": 1.3,
+    "omegaAttenuation": 1.35,
     "polarities": [  ],
     "procChance": 0.30000001,
     "productCategory": "Melee",
@@ -16518,6 +16613,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -16640,6 +16736,155 @@
   {
     "attacks": [
       {
+        "name": "Normal",
+        "speed": 1,
+        "crit_chance": 15,
+        "crit_mult": 1.9,
+        "status_chance": 27,
+        "damage": {
+          "impact": 37.43,
+          "slash": 114.26,
+          "puncture": 45.31
+        },
+        "slide": "394",
+        "slam": {
+          "damage": "591.00",
+          "radial": {
+            "damage": "197.00",
+            "element": "undefined",
+            "proc": "undefined",
+            "radius": 7
+          }
+        }
+      }
+    ],
+    "blockingAngle": 90,
+    "buildPrice": 30000,
+    "buildQuantity": 1,
+    "buildTime": 86400,
+    "category": "Melee",
+    "comboDuration": 5,
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawBlade",
+        "name": "Blade",
+        "description": "A weapon-crafting component.",
+        "itemCount": 1,
+        "imageName": "blade.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/GrnGhoulSawBlueprint",
+        "name": "Blueprint",
+        "description": "The cruelest of weapons built for the crudest of Grineer soldiers. Rips through metal like flesh, and through flesh like day-old pudding.",
+        "itemCount": 1,
+        "imageName": "blueprint.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawChassis",
+        "name": "Chassis",
+        "description": "A weapon-crafting component.",
+        "itemCount": 1,
+        "imageName": "chassis.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawEngine",
+        "name": "Engine",
+        "description": "A weapon-crafting component.",
+        "itemCount": 1,
+        "imageName": "engine.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/GrnGhoulSawHandle",
+        "name": "Grip",
+        "description": "A weapon-crafting component.",
+        "itemCount": 1,
+        "imageName": "grip.png",
+        "tradable": false,
+        "drops": [  ]
+      }
+    ],
+    "consumeOnBuild": true,
+    "criticalChance": 0.15000001,
+    "criticalMultiplier": 1.9,
+    "damagePerShot": [ 37.43, 45.310001, 114.25999, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "description": "The cruelest of weapons built for the crudest of Grineer soldiers. Rips through metal like flesh, and through flesh like day-old pudding.",
+    "disposition": 1,
+    "fireRate": 1,
+    "followThrough": 1,
+    "heavyAttackDamage": 1182,
+    "heavySlamAttack": 197,
+    "heavySlamRadialDamage": 197,
+    "heavySlamRadius": 9,
+    "imageName": "ghoulsaw.png",
+    "introduced": {
+      "name": "Update 30.7",
+      "url": "http://warframe.fandom.com/wiki/Update_30%23Update_30.7",
+      "aliases": [ "30.7" ],
+      "parent": "30.7",
+      "date": "2021-09-08"
+    },
+    "masteryReq": 7,
+    "name": "Ghoulsaw",
+    "omegaAttenuation": 0.5,
+    "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.5",
+        "date": "2021-09-16T20:15:52Z",
+        "url": "https://forums.warframe.com/topic/1281196-nidus-prime-plague-star-hotfix-3075/",
+        "additions": "",
+        "changes": "This means that as you’re engaging with Combos for all things Ghoulsaw, you’ll be dealing more and more damage. We wanted to increase the lethality of all things Ghoulsaw after reading player feedback, and felt the Combos themselves were the best place to buff a big batch of numbers to encourage use of the full gamut of moves!  This also makes it so well into the future, other weapons in this class that share the Stance would have this baseline power.",
+        "fixes": ""
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.1 + 30.7.1.1",
+        "date": "2021-09-08T22:07:48Z",
+        "url": "https://forums.warframe.com/topic/1279944-nidus-prime-plague-star-hotfix-3071-30711/",
+        "additions": "",
+        "changes": "Removed the Ghoulsaw from Conclave eligibility.",
+        "fixes": ""
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "NEW: Ghoulsaw & Butcher’s Revelry Stance!\nRip, tear, and rend with the nightmarish Ghoulsaw and Butcher’s Revelry Stance.\n*Obtain the Ghoulsaw from Nakak’s offerings in Plague Star or in the Market for Platinum.",
+        "fixes": ""
+      }
+    ],
+    "polarities": [  ],
+    "procChance": 0.26999998,
+    "productCategory": "Melee",
+    "range": 2.1530571,
+    "releaseDate": "2021-09-08",
+    "skipBuildTimePrice": 25,
+    "slamAttack": 591,
+    "slamRadialDamage": 197,
+    "slamRadius": 7,
+    "slideAttack": 394,
+    "slot": 5,
+    "stancePolarity": "Naramon",
+    "tags": [ "Grineer" ],
+    "totalDamage": 197,
+    "tradable": false,
+    "type": "Assault Saw",
+    "uniqueName": "/Lotus/Weapons/Grineer/Melee/GrnGhoulSaw/GrnGhoulSawPlayer",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/c/c0/Ghoulsaw.png/revision/latest?cb=20210908230058",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Ghoulsaw",
+    "windUp": 1
+  },
+  {
+    "attacks": [
+      {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 12,
         "crit_mult": 2,
@@ -16680,7 +16925,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 480,
         "speed": 1,
         "crit_chance": 14,
         "crit_mult": 2.1,
@@ -16713,7 +16957,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 480,
         "speed": 0.833,
         "crit_chance": 16,
         "crit_mult": 2.2,
@@ -16808,6 +17051,14 @@
     "name": "Glaive",
     "omegaAttenuation": 1.3,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an issue with dual wielding a Glaive/Pistol as Titania before activating Razorwing enabling permanent slide attacks when using quick melee."
+      },
       {
         "name": "Update 30.5: Sisters of Parvos",
         "date": "2021-07-06T15:02:09Z",
@@ -17672,6 +17923,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 22,
         "crit_mult": 2,
@@ -17709,7 +17961,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 480,
         "speed": 1.25,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -17742,7 +17993,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 480,
         "speed": 0.833,
         "crit_chance": 26,
         "crit_mult": 2.4,
@@ -17961,7 +18211,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 24.6, 24.6, 114.8, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The Glaive Prime is a deadly and beautiful weapon from the Orokin era. The blades are as effective in close quarters as they are when thrown at distant enemies.",
-    "disposition": 3,
+    "disposition": 2,
     "estimatedVaultDate": "2015 10 06",
     "fireRate": 1.2500001,
     "followThrough": 0.69999999,
@@ -17979,7 +18229,7 @@
     },
     "masteryReq": 10,
     "name": "Glaive Prime",
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.80000001,
     "patchlogs": [
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -18145,6 +18395,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.95,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -18429,6 +18680,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.8,
         "crit_chance": 32,
         "crit_mult": 2.6,
@@ -19067,6 +19319,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 28,
         "crit_mult": 2.2,
@@ -19247,6 +19500,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 32,
         "crit_mult": 2.4,
@@ -19286,6 +19540,12 @@
         "drops": [
           {
             "chance": 0.1667,
+            "location": "Lith K7 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blade"
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo P2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blade"
@@ -19299,6 +19559,12 @@
           {
             "chance": 0.1667,
             "location": "Neo Z6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blade"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith K7 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blade"
           },
@@ -19322,6 +19588,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith K7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blade"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo P2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blade"
@@ -19335,6 +19607,12 @@
           {
             "chance": 0.2333,
             "location": "Neo Z6 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blade"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith K7 Relic",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blade"
           },
@@ -19377,6 +19655,12 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso B5 Relic",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blueprint"
+          },
+          {
+            "chance": 0.11,
             "location": "Neo T4 Relic",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blueprint"
@@ -19384,6 +19668,12 @@
           {
             "chance": 0.13,
             "location": "Lith P5 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blueprint"
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso B5 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blueprint"
           },
@@ -19401,6 +19691,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso B5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blueprint"
+          },
+          {
+            "chance": 0.17,
             "location": "Neo T4 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blueprint"
@@ -19408,6 +19704,12 @@
           {
             "chance": 0.2,
             "location": "Lith P5 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Guandao Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso B5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Guandao Prime Blueprint"
           },
@@ -19519,7 +19821,7 @@
     "damagePerShot": [ 60, 12, 168, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "That a god might reap a harvest of lives.",
     "disposition": 1,
-    "estimatedVaultDate": "2022 08 19",
+    "estimatedVaultDate": "2022 11 02",
     "fireRate": 1,
     "followThrough": 0.60000002,
     "heavyAttackDamage": 1440,
@@ -19588,6 +19890,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -19777,6 +20080,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 17,
         "crit_mult": 2,
@@ -19814,7 +20118,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 490,
         "speed": 1.17,
         "crit_chance": 19,
         "crit_mult": 2.1,
@@ -19847,7 +20150,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 490,
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.3,
@@ -20103,6 +20405,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 19,
         "crit_mult": 2.3,
@@ -20140,7 +20443,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 510,
         "speed": 1.17,
         "crit_chance": 21,
         "crit_mult": 2.3,
@@ -20173,7 +20475,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 510,
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.5,
@@ -20197,7 +20498,7 @@
     "criticalMultiplier": 2.3,
     "damagePerShot": [ 22.5, 180, 22.499992, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "A different take on the throwing mace, the Halikar Wraith features unique styling.",
-    "disposition": 1,
+    "disposition": 2,
     "fireRate": 1.1666667,
     "followThrough": 0.69999999,
     "heavyAttackDamage": 225,
@@ -20214,7 +20515,7 @@
     },
     "masteryReq": 13,
     "name": "Halikar Wraith",
-    "omegaAttenuation": 0.75,
+    "omegaAttenuation": 0.85000002,
     "patchlogs": [
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -20256,6 +20557,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 30,
         "crit_mult": 2.5,
@@ -20446,6 +20748,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.75,
         "crit_chance": 14,
         "crit_mult": 1.6,
@@ -20595,6 +20898,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -20798,6 +21102,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 38,
         "crit_mult": 2,
@@ -21049,6 +21354,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 30,
         "crit_mult": 3,
@@ -21118,6 +21424,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.917,
             "crit_chance": 20,
             "crit_mult": 2,
@@ -21267,6 +21574,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -21568,6 +21876,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 35,
         "crit_mult": 2.5,
@@ -21726,6 +22035,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 8,
         "crit_mult": 1.5,
@@ -21866,6 +22176,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 12,
         "crit_mult": 1.8,
@@ -22079,6 +22390,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.75,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -22228,6 +22540,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.667,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -22274,6 +22587,12 @@
           },
           {
             "chance": 0.02,
+            "location": "Lith K7 Relic",
+            "rarity": "Rare",
+            "type": "Karyst Prime Blade"
+          },
+          {
+            "chance": 0.02,
             "location": "Meso K3 Relic",
             "rarity": "Rare",
             "type": "Karyst Prime Blade"
@@ -22281,6 +22600,12 @@
           {
             "chance": 0.04,
             "location": "Lith K6 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Karyst Prime Blade"
+          },
+          {
+            "chance": 0.04,
+            "location": "Lith K7 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Karyst Prime Blade"
           },
@@ -22298,6 +22623,12 @@
           },
           {
             "chance": 0.06,
+            "location": "Lith K7 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Karyst Prime Blade"
+          },
+          {
+            "chance": 0.06,
             "location": "Meso K3 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Karyst Prime Blade"
@@ -22305,6 +22636,12 @@
           {
             "chance": 0.1,
             "location": "Lith K6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Blade"
+          },
+          {
+            "chance": 0.1,
+            "location": "Lith K7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Blade"
           },
@@ -22341,6 +22678,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso B5 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso P3 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Blueprint"
@@ -22360,6 +22703,12 @@
           {
             "chance": 0.2,
             "location": "Axi G6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso B5 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Blueprint"
           },
@@ -22389,6 +22738,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso B5 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso P3 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Blueprint"
@@ -22408,6 +22763,12 @@
           {
             "chance": 0.2533,
             "location": "Axi G6 Relic",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso B5 Relic",
             "rarity": "Uncommon",
             "type": "Karyst Prime Blueprint"
           },
@@ -22436,6 +22797,12 @@
         "drops": [
           {
             "chance": 0.11,
+            "location": "Axi A14 Relic",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Handle"
+          },
+          {
+            "chance": 0.11,
             "location": "Axi B4 Relic",
             "rarity": "Uncommon",
             "type": "Karyst Prime Handle"
@@ -22455,6 +22822,12 @@
           {
             "chance": 0.11,
             "location": "Neo A5 Relic",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Handle"
+          },
+          {
+            "chance": 0.13,
+            "location": "Axi A14 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Handle"
           },
@@ -22484,6 +22857,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Axi A14 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Handle"
+          },
+          {
+            "chance": 0.17,
             "location": "Axi B4 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Handle"
@@ -22503,6 +22882,12 @@
           {
             "chance": 0.17,
             "location": "Neo A5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Karyst Prime Handle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi A14 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Karyst Prime Handle"
           },
@@ -22549,7 +22934,7 @@
     "damagePerShot": [ 50, 96.000008, 102, 0, 0, 0, 96.000008, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "This master blade is the heavier, oversized and far more lethal version of the signature weapon of an extinct order of Tenno assassins.",
     "disposition": 3,
-    "estimatedVaultDate": "2022 05 21",
+    "estimatedVaultDate": "2021 09 08",
     "fireRate": 0.66666669,
     "followThrough": 0.89999998,
     "heavyAttackDamage": 688,
@@ -22602,7 +22987,8 @@
     "tradable": true,
     "type": "Dagger",
     "uniqueName": "/Lotus/Weapons/Tenno/Melee/Swords/PrimeKaryst/PrimeKrisDagger",
-    "vaultDate": "n/a",
+    "vaultDate": "2021 09 08",
+    "vaulted": true,
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/4/4a/KarystPrime.png/revision/latest?cb=20200714215941",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Karyst_Prime",
     "windUp": 0.40000001
@@ -22610,6 +22996,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 13,
         "crit_mult": 2.1,
@@ -22773,6 +23160,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 19,
         "crit_mult": 2.5,
@@ -22913,6 +23301,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -22950,7 +23339,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 360,
         "speed": 1.08,
         "crit_chance": 12,
         "crit_mult": 2.1,
@@ -22983,7 +23371,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 400,
         "speed": 0.833,
         "crit_chance": 14,
         "crit_mult": 2.2,
@@ -23215,6 +23602,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -23419,6 +23807,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 16,
         "crit_mult": 1.8,
@@ -23985,6 +24374,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 31,
         "crit_mult": 2.5,
@@ -24148,6 +24538,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -24228,7 +24619,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 29.999998, 14.999999, 45, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "This unsophisticated Corpus survival tool does what it was designed for: hacking and splitting whatever it strikes.",
-    "disposition": 4,
+    "disposition": 5,
     "fireRate": 0.91666669,
     "followThrough": 0.69999999,
     "heavyAttackDamage": 1140,
@@ -24246,7 +24637,7 @@
     "marketCost": 175,
     "masteryReq": 6,
     "name": "Kreska",
-    "omegaAttenuation": 1.3,
+    "omegaAttenuation": 1.35,
     "patchlogs": [
       {
         "name": "The Old Blood: Hotfix 26.0.3",
@@ -24305,6 +24696,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 29,
         "crit_mult": 2.3,
@@ -24453,6 +24845,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -24666,6 +25059,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 22,
         "crit_mult": 2,
@@ -25315,7 +25709,7 @@
     },
     "masteryReq": 13,
     "name": "Kronen Prime",
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.60000002,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: Prime Vault: Hotfix 30.0.8 + 30.0.8.1",
@@ -25385,6 +25779,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 31,
         "crit_mult": 2.7,
@@ -25407,7 +25802,7 @@
       }
     ],
     "blockingAngle": 50,
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Melee",
@@ -25497,6 +25892,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 5,
         "crit_mult": 2,
@@ -25695,6 +26091,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -25884,6 +26281,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -25980,6 +26378,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.33,
             "crit_chance": 20,
             "crit_mult": 2,
@@ -26068,6 +26467,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -26376,6 +26776,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 19,
         "crit_mult": 2.1,
@@ -26479,6 +26880,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -26651,6 +27053,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 24,
         "crit_mult": 2,
@@ -26782,6 +27185,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 19,
         "crit_mult": 2,
@@ -26879,7 +27283,7 @@
     "marketCost": 175,
     "masteryReq": 8,
     "name": "Mios",
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.3,
     "patchlogs": [
       {
         "name": "The Sacrifice: Update 23.2.0",
@@ -26938,6 +27342,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 9,
         "crit_mult": 1.5,
@@ -27167,6 +27572,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -27235,6 +27641,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -27304,6 +27711,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 10,
         "crit_mult": 1.5,
@@ -27460,6 +27868,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.33,
         "crit_chance": 22,
         "crit_mult": 2,
@@ -27845,7 +28254,7 @@
     },
     "masteryReq": 11,
     "name": "Nami Skyla Prime",
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 0.94999999,
     "patchlogs": [
       {
         "name": "Hydroid Prime: Update 21.6.1",
@@ -27882,6 +28291,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -28022,6 +28432,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -28123,6 +28534,14 @@
     "omegaAttenuation": 0.94999999,
     "parents": [ "Dragon Nikana" ],
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Includes Revenant Mephisto Skin, Revenant Mephisto Helmet, and Orison Two-Handed Nikana Skin.",
+        "fixes": ""
+      },
       {
         "name": "Gara Prime: Update 30.3.0",
         "date": "2021-05-25T17:56:49Z",
@@ -28532,6 +28951,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 28,
         "crit_mult": 2.4,
@@ -29107,6 +29527,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -29313,6 +29734,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 22,
         "crit_mult": 2.4,
@@ -29913,6 +30335,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 25,
         "crit_mult": 2,
@@ -30141,6 +30564,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -30238,7 +30662,7 @@
     "marketCost": 200,
     "masteryReq": 8,
     "name": "Ohma",
-    "omegaAttenuation": 1.15,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "The Glast Gambit: Update 19.8.0",
@@ -30289,6 +30713,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -30445,6 +30870,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 6,
         "crit_mult": 1.5,
@@ -30658,6 +31084,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -30732,6 +31159,12 @@
             "type": "Orthos Prime Blade"
           },
           {
+            "chance": 0.11,
+            "location": "Neo N16 Relic",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Blade"
+          },
+          {
             "chance": 0.13,
             "location": "Lith B2 Relic (Exceptional)",
             "rarity": "Uncommon",
@@ -30764,6 +31197,12 @@
           {
             "chance": 0.13,
             "location": "Meso I1 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Blade"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo N16 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Orthos Prime Blade"
           },
@@ -30804,6 +31243,12 @@
             "type": "Orthos Prime Blade"
           },
           {
+            "chance": 0.17,
+            "location": "Neo N16 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Blade"
+          },
+          {
             "chance": 0.2,
             "location": "Lith B2 Relic (Radiant)",
             "rarity": "Uncommon",
@@ -30836,6 +31281,12 @@
           {
             "chance": 0.2,
             "location": "Meso I1 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Blade"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo N16 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Orthos Prime Blade"
           }
@@ -31225,6 +31676,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo P3 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Handle"
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo Z1 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Orthos Prime Handle"
@@ -31322,6 +31779,12 @@
           {
             "chance": 0.2,
             "location": "Neo H1 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Handle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo P3 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Orthos Prime Handle"
           },
@@ -31429,6 +31892,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo P3 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Handle"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo Z1 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Orthos Prime Handle"
@@ -31531,6 +32000,12 @@
           },
           {
             "chance": 0.2533,
+            "location": "Neo P3 Relic",
+            "rarity": "Uncommon",
+            "type": "Orthos Prime Handle"
+          },
+          {
+            "chance": 0.2533,
             "location": "Neo Z1 Relic",
             "rarity": "Uncommon",
             "type": "Orthos Prime Handle"
@@ -31571,7 +32046,7 @@
     },
     "masteryReq": 12,
     "name": "Orthos Prime",
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.69999999,
     "patchlogs": [
       {
         "name": "Update 18.4.0",
@@ -31640,6 +32115,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.75,
         "crit_chance": 18,
         "crit_mult": 2,
@@ -31677,7 +32153,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 400,
         "speed": 0.75,
         "crit_chance": 20,
         "crit_mult": 2.2,
@@ -31710,7 +32185,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 400,
         "speed": 0.833,
         "crit_chance": 22,
         "crit_mult": 2.4,
@@ -31949,6 +32423,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 26,
         "crit_mult": 2.2,
@@ -32012,6 +32487,12 @@
           },
           {
             "chance": 0.11,
+            "location": "Lith N7 Relic",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Blade"
+          },
+          {
+            "chance": 0.11,
             "location": "Neo S14 Relic",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Blade"
@@ -32037,6 +32518,12 @@
           {
             "chance": 0.13,
             "location": "Axi T7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Blade"
+          },
+          {
+            "chance": 0.13,
+            "location": "Lith N7 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Blade"
           },
@@ -32072,6 +32559,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Lith N7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Blade"
+          },
+          {
+            "chance": 0.17,
             "location": "Neo S14 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Blade"
@@ -32097,6 +32590,12 @@
           {
             "chance": 0.2,
             "location": "Axi T7 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Blade"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith N7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Blade"
           },
@@ -32138,6 +32637,12 @@
             "type": "Pangolin Prime Blueprint"
           },
           {
+            "chance": 0.02,
+            "location": "Neo P3 Relic",
+            "rarity": "Rare",
+            "type": "Pangolin Prime Blueprint"
+          },
+          {
             "chance": 0.04,
             "location": "Lith P5 Relic (Exceptional)",
             "rarity": "Rare",
@@ -32152,6 +32657,12 @@
           {
             "chance": 0.04,
             "location": "Neo P1 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Pangolin Prime Blueprint"
+          },
+          {
+            "chance": 0.04,
+            "location": "Neo P3 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Pangolin Prime Blueprint"
           },
@@ -32174,6 +32685,12 @@
             "type": "Pangolin Prime Blueprint"
           },
           {
+            "chance": 0.06,
+            "location": "Neo P3 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Pangolin Prime Blueprint"
+          },
+          {
             "chance": 0.1,
             "location": "Lith P5 Relic (Radiant)",
             "rarity": "Uncommon",
@@ -32188,6 +32705,12 @@
           {
             "chance": 0.1,
             "location": "Neo P1 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Blueprint"
+          },
+          {
+            "chance": 0.1,
+            "location": "Neo P3 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Blueprint"
           }
@@ -32233,6 +32756,12 @@
             "type": "Pangolin Prime Handle"
           },
           {
+            "chance": 0.1667,
+            "location": "Neo N17 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Handle"
+          },
+          {
             "chance": 0.2,
             "location": "Axi C6 Relic (Flawless)",
             "rarity": "Uncommon",
@@ -32259,6 +32788,12 @@
           {
             "chance": 0.2,
             "location": "Neo N13 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Handle"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo N17 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Handle"
           },
@@ -32293,6 +32828,12 @@
             "type": "Pangolin Prime Handle"
           },
           {
+            "chance": 0.2333,
+            "location": "Neo N17 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Handle"
+          },
+          {
             "chance": 0.2533,
             "location": "Axi C6 Relic",
             "rarity": "Uncommon",
@@ -32319,6 +32860,12 @@
           {
             "chance": 0.2533,
             "location": "Neo N13 Relic",
+            "rarity": "Uncommon",
+            "type": "Pangolin Prime Handle"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo N17 Relic",
             "rarity": "Uncommon",
             "type": "Pangolin Prime Handle"
           }
@@ -32412,6 +32959,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 8,
         "crit_mult": 1.5,
@@ -32533,6 +33081,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 31,
         "crit_mult": 2.6,
@@ -32611,6 +33160,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1,
             "crit_chance": 10,
             "crit_mult": 2,
@@ -32695,6 +33245,14 @@
     "omegaAttenuation": 0.60000002,
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "Added Paracesis Sheath Orbiter decoration! ",
+        "changes": "",
+        "fixes": ""
+      },
+      {
         "name": "Rising Tide: Hotfix 26.1.3",
         "date": "2019-11-26T19:33:56Z",
         "url": "https://forums.warframe.com/topic/1146782-rising-tide-hotfix-2613/",
@@ -32743,6 +33301,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.667,
         "crit_chance": 15,
         "crit_mult": 2.1,
@@ -32782,7 +33341,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 490,
         "speed": 0.667,
         "crit_chance": 17,
         "crit_mult": 2.3,
@@ -32816,7 +33374,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 490,
         "speed": 0.833,
         "crit_chance": 21,
         "crit_mult": 2.5,
@@ -32987,6 +33544,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 32,
         "crit_mult": 2.4,
@@ -33159,6 +33717,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.667,
         "crit_chance": 18,
         "crit_mult": 2,
@@ -33315,6 +33874,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 25,
         "crit_mult": 3,
@@ -33402,6 +33962,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 15,
         "crit_mult": 1.9,
@@ -33471,7 +34032,7 @@
   {
     "attacks": [
       {
-        "radius": 600,
+        "name": "Normal",
         "speed": 1.33,
         "crit_chance": 25,
         "crit_mult": 2,
@@ -33559,6 +34120,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 28,
         "crit_mult": 2.2,
@@ -33654,6 +34216,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -33880,6 +34443,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -33974,6 +34538,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 19,
         "crit_mult": 2.3,
@@ -34070,7 +34635,7 @@
     "marketCost": 180,
     "masteryReq": 11,
     "name": "Pulmonars",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Hotfix 29.5.1",
@@ -34113,6 +34678,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 13,
         "crit_mult": 1.5,
@@ -34244,6 +34810,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 30,
         "crit_mult": 2,
@@ -34265,11 +34832,11 @@
         }
       },
       {
-        "name": "1st Heavy Ethereal Daggers",
+        "name": "First Heavy Attack - Ethereal Daggers",
         "speed": 2,
         "crit_chance": 30,
         "crit_mult": 2,
-        "status_chance": 12,
+        "status_chance": 2,
         "charge_time": 0.5,
         "shot_type": "Projectile",
         "shot_speed": null,
@@ -34280,11 +34847,11 @@
         }
       },
       {
-        "name": "2nd Heavy Ethereal Daggers",
+        "name": "Second Heavy Attack - Ethereal Daggers",
         "speed": 2,
         "crit_chance": 30,
         "crit_mult": 2,
-        "status_chance": 12,
+        "status_chance": 3.5,
         "charge_time": 0.5,
         "shot_type": "Projectile",
         "shot_speed": null,
@@ -34456,6 +35023,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 12,
         "crit_mult": 1.8,
@@ -34577,6 +35145,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 35,
         "crit_mult": 2.5,
@@ -34919,6 +35488,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 10,
         "crit_mult": 1.8,
@@ -34940,7 +35510,7 @@
         }
       },
       {
-        "name": "Charged Shots",
+        "name": "Ranged Attack",
         "speed": 2.5,
         "crit_chance": 10,
         "crit_mult": 1.8,
@@ -35014,6 +35584,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 5,
             "crit_mult": 1.5,
@@ -35388,6 +35959,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -35409,7 +35981,7 @@
         }
       },
       {
-        "name": "Charged Shots",
+        "name": "Ranged Attack",
         "speed": 2.5,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -36022,6 +36594,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.883,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -36063,7 +36636,7 @@
         "masteryReq": 2,
         "productCategory": "Melee",
         "slot": 5,
-        "omegaAttenuation": 1.45,
+        "omegaAttenuation": 1.5,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -36082,6 +36655,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 20,
             "crit_mult": 2,
@@ -36162,6 +36736,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 25,
             "crit_mult": 3,
@@ -36366,6 +36941,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 30,
         "crit_mult": 2,
@@ -36453,6 +37029,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -36474,7 +37051,7 @@
         }
       },
       {
-        "name": "Charged Shots",
+        "name": "Ranged Attack",
         "speed": 3.33,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -36756,6 +37333,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 15,
         "crit_mult": 1.5,
@@ -37024,6 +37602,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.967,
         "crit_chance": 26,
         "crit_mult": 2.4,
@@ -37454,6 +38033,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 13,
         "crit_mult": 1.5,
@@ -37609,6 +38189,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.25,
         "crit_chance": 15,
         "crit_mult": 1.5,
@@ -37637,7 +38218,7 @@
     "criticalMultiplier": 1.5,
     "damagePerShot": [ 0, 30, 66, 0, 0, 80, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Whip the enemy out of their ill-gotten gains; double credit drops on kills.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 1.2500001,
     "followThrough": 0.5,
     "heavyAttackDamage": 792,
@@ -37654,7 +38235,7 @@
     },
     "masteryReq": 8,
     "name": "Secura Lecta",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Chains of Harrow: Hotfix 21.0.4",
@@ -37696,6 +38277,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 8,
         "crit_mult": 1.5,
@@ -37835,6 +38417,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 18,
         "crit_mult": 2,
@@ -37920,6 +38503,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1,
             "crit_chance": 10,
             "crit_mult": 2,
@@ -38034,6 +38618,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.667,
         "crit_chance": 13,
         "crit_mult": 2.1,
@@ -38244,6 +38829,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -38332,6 +38918,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 20,
             "crit_mult": 2,
@@ -38470,6 +39057,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 28,
         "crit_mult": 2.2,
@@ -38691,6 +39279,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -38919,6 +39508,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.75,
         "crit_chance": 25,
         "crit_mult": 2,
@@ -39575,6 +40165,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -39843,6 +40434,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 26,
         "crit_mult": 2.6,
@@ -39946,6 +40538,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 19,
         "crit_mult": 2.1,
@@ -40086,6 +40679,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 30,
         "crit_mult": 2.4,
@@ -40107,7 +40701,7 @@
         }
       },
       {
-        "name": "Charged Shots",
+        "name": "Ranged Attack",
         "speed": 2.5,
         "crit_chance": 30,
         "crit_mult": 2.4,
@@ -40296,6 +40890,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -40355,6 +40950,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.25,
             "crit_chance": 13,
             "crit_mult": 1.7,
@@ -40530,6 +41126,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -40634,6 +41231,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 16,
         "crit_mult": 2,
@@ -40732,7 +41330,7 @@
     "marketCost": 275,
     "masteryReq": 7,
     "name": "Tatsu",
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1,
     "patchlogs": [
       {
         "name": "Update 29.5: Deimos Arcana",
@@ -40843,6 +41441,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 30,
         "crit_mult": 2,
@@ -40884,7 +41483,7 @@
         "masteryReq": 2,
         "productCategory": "Melee",
         "slot": 5,
-        "omegaAttenuation": 1.45,
+        "omegaAttenuation": 1.5,
         "blockingAngle": 50,
         "comboDuration": 5,
         "followThrough": 0.89999998,
@@ -40903,6 +41502,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 20,
             "crit_mult": 2,
@@ -41005,6 +41605,14 @@
     "omegaAttenuation": 1.4,
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Tekko Prime",
+        "fixes": ""
+      },
+      {
         "name": "Update 26: The Old Blood",
         "date": "2019-10-31T20:07:22Z",
         "url": "https://forums.warframe.com/topic/1136784-update-26-the-old-blood/",
@@ -41053,6 +41661,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 30,
         "crit_mult": 2.4,
@@ -41489,6 +42098,14 @@
     "omegaAttenuation": 1.3,
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Tekko Prime",
+        "fixes": ""
+      },
+      {
         "name": "Update 26: The Old Blood",
         "date": "2019-10-31T20:07:22Z",
         "url": "https://forums.warframe.com/topic/1136784-update-26-the-old-blood/",
@@ -41531,6 +42148,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -41702,6 +42320,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 24,
         "crit_mult": 2,
@@ -41742,7 +42361,7 @@
       }
     ],
     "blockingAngle": 90,
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Melee",
@@ -41790,8 +42409,16 @@
     "masteryReq": 14,
     "maxLevelCap": 40,
     "name": "Tenet Agendus",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.55000001,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed an issue where the Tenet Agendus hammer was not being held properly in a Warframe’s hand if it is the only weapon equipped.\nFixed an issue where the FX energy of the Tenet Agendus was not affected by custom color chosen. "
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -41841,6 +42468,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 38,
         "crit_mult": 2.4,
@@ -41862,7 +42490,7 @@
       }
     ],
     "blockingAngle": 55,
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Melee",
@@ -41901,7 +42529,7 @@
     "masteryReq": 16,
     "maxLevelCap": 40,
     "name": "Tenet Exec",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.60000002,
     "polarities": [  ],
     "procChance": 0.22000003,
     "productCategory": "Melee",
@@ -41926,6 +42554,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 24,
         "crit_mult": 1.6,
@@ -41964,7 +42593,7 @@
       }
     ],
     "blockingAngle": 90,
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Melee",
@@ -42003,7 +42632,7 @@
     "masteryReq": 14,
     "maxLevelCap": 40,
     "name": "Tenet Grigori",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.64999998,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -42046,6 +42675,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 28,
         "crit_mult": 2.2,
@@ -42068,7 +42698,7 @@
       }
     ],
     "blockingAngle": 55,
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Melee",
@@ -42107,7 +42737,7 @@
     "masteryReq": 14,
     "maxLevelCap": 40,
     "name": "Tenet Livia",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.60000002,
     "polarities": [  ],
     "procChance": 0.27999997,
     "productCategory": "Melee",
@@ -42132,6 +42762,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.33,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -42201,6 +42832,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1,
             "crit_chance": 12.5,
             "crit_mult": 2,
@@ -42422,6 +43054,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 24,
         "crit_mult": 2.4,
@@ -42924,6 +43557,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 5,
         "crit_mult": 2,
@@ -43072,6 +43706,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 5,
         "crit_mult": 2,
@@ -43115,7 +43750,7 @@
         "productCategory": "Pistols",
         "slot": 0,
         "accuracy": 12.5,
-        "omegaAttenuation": 0.89999998,
+        "omegaAttenuation": 0.94999999,
         "noise": "Alarming",
         "trigger": "Held",
         "magazineSize": 70,
@@ -43205,6 +43840,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1.17,
             "crit_chance": 25,
             "crit_mult": 3,
@@ -43327,6 +43963,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 19,
         "crit_mult": 1.7,
@@ -43414,6 +44051,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 29,
             "crit_mult": 2.3,
@@ -43485,6 +44123,7 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Normal",
             "speed": 0.833,
             "crit_chance": 29,
             "crit_mult": 2.3,
@@ -43573,6 +44212,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 19,
         "crit_mult": 1.7,
@@ -43594,7 +44234,7 @@
         }
       },
       {
-        "name": "Charged Shots",
+        "name": "Ranged Attack",
         "speed": 2.5,
         "crit_chance": 19,
         "crit_mult": 1.7,
@@ -43637,7 +44277,7 @@
     "marketCost": 175,
     "masteryReq": 9,
     "name": "Vastilok",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.69999999,
     "patchlogs": [
       {
         "name": "Sisters of Parvos: Hotfix 30.5.5",
@@ -43659,7 +44299,7 @@
     "slideAttack": 558,
     "slot": 5,
     "stancePolarity": "Madurai",
-    "tags": [ "Tenno" ],
+    "tags": [ "Grineer" ],
     "totalDamage": 279,
     "tradable": false,
     "type": "Gunblade",
@@ -43671,6 +44311,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.08,
         "crit_chance": 21,
         "crit_mult": 2.5,
@@ -43766,6 +44407,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -43863,7 +44505,7 @@
     "marketCost": 175,
     "masteryReq": 4,
     "name": "Venka",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Update 29.10.0: Corpus Proxima & The New Railjack",
@@ -43988,6 +44630,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.05,
         "crit_chance": 32,
         "crit_mult": 2.6,
@@ -44610,6 +45253,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 23,
         "crit_mult": 2.3,
@@ -44632,7 +45276,6 @@
       },
       {
         "name": "Glass Explosion",
-        "radius": 600,
         "speed": 0.833,
         "crit_chance": 23,
         "crit_mult": 2.3,
@@ -44708,7 +45351,7 @@
     "criticalMultiplier": 2.3,
     "damagePerShot": [ 99.900002, 99.900002, 133.2, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The sword the fabled Orokin executioner Nihil used to glass the condemned. Swing while Aim Gliding to glass enemies. A Ground Slam will smash nearby glassed foes, while sending forward a narrow shockwave to shatter distant ones. A Heavy Slam sends forth a wider shockwave with greater force.",
-    "disposition": 2,
+    "disposition": 3,
     "fireRate": 0.83333337,
     "followThrough": 0.60000002,
     "heavyAttackDamage": 1998,
@@ -44725,7 +45368,7 @@
     },
     "masteryReq": 13,
     "name": "Vitrica",
-    "omegaAttenuation": 0.85000002,
+    "omegaAttenuation": 0.89999998,
     "patchlogs": [
       {
         "name": "Star Days: Hotfix 29.8.1",
@@ -44776,6 +45419,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.2,
         "crit_chance": 18,
         "crit_mult": 1.6,
@@ -44949,6 +45593,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.2,
         "crit_chance": 20,
         "crit_mult": 1.8,
@@ -44989,7 +45634,19 @@
         "drops": [
           {
             "chance": 0.1667,
+            "location": "Axi A14 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso Z4 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi A14 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Volnus Prime Blueprint"
           },
@@ -45001,7 +45658,19 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi A14 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso Z4 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi A14 Relic",
             "rarity": "Uncommon",
             "type": "Volnus Prime Blueprint"
           },
@@ -45065,8 +45734,20 @@
             "type": "Volnus Prime Head"
           },
           {
+            "chance": 0.11,
+            "location": "Meso B5 Relic",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Head"
+          },
+          {
             "chance": 0.13,
             "location": "Axi I1 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Head"
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso B5 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Volnus Prime Head"
           },
@@ -45077,8 +45758,20 @@
             "type": "Volnus Prime Head"
           },
           {
+            "chance": 0.17,
+            "location": "Meso B5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Head"
+          },
+          {
             "chance": 0.2,
             "location": "Axi I1 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Volnus Prime Head"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso B5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Volnus Prime Head"
           }
@@ -45100,8 +45793,8 @@
     "criticalMultiplier": 1.8,
     "damagePerShot": [ 55, 80, 115.00001, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The glorious original Orokin casting of Gara’s signature glass hammer. Deceptively light and swift, while remaining lethally effective.",
-    "disposition": 1,
-    "estimatedVaultDate": "2023 02 15",
+    "disposition": 2,
+    "estimatedVaultDate": "2023 05 31",
     "fireRate": 1.2,
     "followThrough": 0.60000002,
     "heavyAttackDamage": 1500,
@@ -45118,7 +45811,7 @@
     },
     "masteryReq": 14,
     "name": "Volnus Prime",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.80000001,
     "polarities": [ "Madurai", "Madurai" ],
     "procChance": 0.34000003,
     "productCategory": "Melee",
@@ -45144,6 +45837,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.917,
         "crit_chance": 26,
         "crit_mult": 2.6,
@@ -45184,13 +45878,13 @@
             "chance": 0.0277,
             "location": "Shadow Stalker",
             "rarity": "Rare",
-            "type": "War Blueprint"
+            "type": "Broken War Blueprint"
           },
           {
             "chance": 0.0277,
             "location": "Shadow Stalker",
             "rarity": "Rare",
-            "type": "Broken War Blueprint"
+            "type": "War Blueprint"
           }
         ]
       },
@@ -45234,6 +45928,7 @@
         ],
         "attacks": [
           {
+            "name": "Normal",
             "speed": 1,
             "crit_chance": 35,
             "crit_mult": 2.2,
@@ -45256,7 +45951,7 @@
           }
         ],
         "polarities": [ "Madurai", "Naramon" ],
-        "tags": [ "Stalker" ],
+        "tags": [ "Sentient" ],
         "stancePolarity": "Madurai",
         "type": "Sword",
         "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/b/b2/StalkerTwoSword.png/revision/latest?cb=20151204013307",
@@ -45321,8 +46016,32 @@
     },
     "masteryReq": 10,
     "name": "War",
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.2",
+        "date": "2021-09-09T22:09:43Z",
+        "url": "https://forums.warframe.com/topic/1280179-nidus-prime-plague-star-hotfix-3072%C2%A0%C2%A0/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Sentients taking Status Effects is now intentional. In preparation for The New War, we’ve been looking into polishing up and tweaking Sentients in general; this includes the new glowing visual effects on some of them that you may have noticed!"
+      },
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.1 + 30.7.1.1",
+        "date": "2021-09-08T22:07:48Z",
+        "url": "https://forums.warframe.com/topic/1279944-nidus-prime-plague-star-hotfix-3071-30711/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed unintended Font changes when playing Warframe in SC/TC/JA/KO languages.\nFixed Warframe players who use controllers managed through Steam being unable to play properly. We are pushing out a fix just for this since it’s quite an impactful bug for any Controller + Steam players "
+      },
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "**Please note this is in the Market as a separate Collection as not to spoil things for those who want Mephisto who do not yet have The Second Dream or War Within complete. This follows the precedent from other Deluxe bundles (Zephyr Harrier, etc).\nThis is a change that’s best experienced in your hands, but it is certainly a huge improvement for navigating all of Warframes tilesets!\nFor a long time now we’ve had a precedent with a handful of Warframe Skins where the “None” option for Attachments (and sometimes Syandanas) was removed if certain Skins, Primes, etc were equipped. This applied to Warframes such as Ember Prime/Pyraxis Skin, Frost, Mag Prime, Oberon, Volt, etc.\nWe now usher in a new “None” era! All Warframes and Warframe Skins that previously did not have the ‘None’ option will have a “None” Attachment or Syandana option, giving you even MORE customization flexibility. This means you can remove details such as any attachments on Ember Pyraxis, Mag Prime, the list goes on and on! In addition, Banshee, Frost and Oberon's default Shoulder Armor can now be equipped on Prime versions of the Warframe.\nThis also fixes a long-standing bug where a Warframe that has no default Shoulders Attachments (let's say, Excalibur) and had nothing equipped there, if you clicked on \"left arm\" then it would auto-select the first shoulder armor in your owned list.\nChanged the sorting of items on the End Of Mission screen to better reflect importance, including Steel Essence, Riven Slivers, Granum Crowns, Built Forma, Orokin Cells, Corrupted Holokeys, built Prime parts, War Hilt, Requiem Ultimatums, Exilus Adapters, Drop Chance Boosters, Scintillant, and built Railjack Components.\nAdjusted Chroma Elemental Ward stat display to be more accurate (uses % display for Health/Shield/Armor/reload/holster buffs).\nPlayers under Mastery Rank 2 will no longer see the ‘Update History’ messages upon login, as this information may be overwhelming as they begin their Warframe journey.",
+        "fixes": "Fixed Inaros’ Scarab Swarm HUD still showing up after switching Warframes in the Simulacrum.\nFixed the Waveform Ephemera incorrectly appearing behind your Warframe in the Arsenal.\nFixed an issue where some colour customization code intended for the Railjack’s emplacements would cause a player’s Warframe to appear in its default skin and colour scheme.\nFixed an issue where Clients would get disconnected when entering the Arsenal in the Simulacrum while having the same Warframe as the Host.\nFixed an issue where the Tenet Agendus hammer was not being held properly in a Warframe’s hand if it is the only weapon equipped.\nFixed an issue where certain Warframe animations would prevent an enemy from being susceptible to Parazon finishers.\nFixed an issue where while completing Void Storm missions, collecting 10 Void Traces while in the Necramech without entering your Warframe does not open the Relic.\nFixed an issue where you could not select a Warframe at the start of the game. \nFixed an issue where when playing an Index mission and using Transference would allow the Warframe to regain maximum Shields without being affected by Financial Stress.\nFixed Lavos and Hildryn being able to roll Energy-based Invigorations (Energy Max + 200% and Energy Regen +2) as the Warframes do not use Energy.\nFixed a flickering light during The War Within Quest.\nFixed inability to Chat Link Primed Magazine Warp.\nFixed inability to Trade Primed Magazine Warp"
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -49802,7 +50521,7 @@
     "slideAttack": 500,
     "slot": 5,
     "stancePolarity": "Vazarin",
-    "tags": [ "Stalker" ],
+    "tags": [ "Sentient" ],
     "totalDamage": 250,
     "tradable": false,
     "type": "Heavy Blade",
@@ -49814,6 +50533,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1,
         "crit_chance": 17,
         "crit_mult": 1.9,
@@ -49850,7 +50570,6 @@
       },
       {
         "name": "Recall Explosion",
-        "radius": 500,
         "speed": 0.833,
         "crit_chance": 17,
         "crit_mult": 1.9,
@@ -50021,6 +50740,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 1.17,
         "crit_chance": 20,
         "crit_mult": 2.4,
@@ -50058,7 +50778,6 @@
       },
       {
         "name": "Throw Explosion",
-        "radius": 800,
         "speed": 1.17,
         "crit_chance": 20,
         "crit_mult": 2.4,
@@ -50091,7 +50810,6 @@
       },
       {
         "name": "Charged Throw Explosion",
-        "radius": 900,
         "speed": 0.833,
         "crit_chance": 22,
         "crit_mult": 2.4,
@@ -50257,6 +50975,7 @@
   {
     "attacks": [
       {
+        "name": "Normal",
         "speed": 0.833,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -50302,7 +51021,6 @@
       },
       {
         "name": "Disc Explosion",
-        "radius": 400,
         "speed": 0.909,
         "crit_chance": 0,
         "crit_mult": 1,
@@ -50320,7 +51038,6 @@
       },
       {
         "name": "Disc Aura",
-        "radius": 400,
         "speed": 1.2,
         "crit_chance": 0,
         "crit_mult": 1,
@@ -50393,7 +51110,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 80, 0, 68, 150, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Scorch enemies with blistering blows, or set them ablaze with the flying fire disc.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 0.83333337,
     "followThrough": 0.60000002,
     "heavyAttackDamage": 1788,
@@ -50410,7 +51127,7 @@
     },
     "masteryReq": 6,
     "name": "Zenistar",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Heart of Deimos: TennoGen: 29.3.1",

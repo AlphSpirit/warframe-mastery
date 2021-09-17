@@ -129,6 +129,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "alexanderdario-glyph.png",
+    "name": "Alexanderdario Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageAlexanderDario"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "alexandralive-glyph.png",
     "name": "Alexandralive Glyph",
     "tradable": false,
@@ -1017,6 +1027,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "chacytay-glyph.png",
+    "name": "Chacytay Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageChacytay"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "char-glyph.png",
     "name": "Char Glyph",
     "tradable": false,
@@ -1164,6 +1184,16 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "cleo-naturin-partner-glyph.png",
+    "name": "Cleo Naturin Partner Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageCleoNaturin"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
     "imageName": "cohhcarnage-glyph.png",
     "name": "Cohhcarnage Glyph",
     "tradable": false,
@@ -1237,6 +1267,46 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageConquera"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by dull-ahan.",
+    "excludeFromCodex": true,
+    "imageName": "conquera-glyph-i.png",
+    "name": "Conquera Glyph I",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageConquera2021C"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by dull-ahan.",
+    "excludeFromCodex": true,
+    "imageName": "conquera-glyph-ii.png",
+    "name": "Conquera Glyph Ii",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageConquera2021D"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by dull-ahan.",
+    "excludeFromCodex": true,
+    "imageName": "conquera-glyph-iii.png",
+    "name": "Conquera Glyph Iii",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageConquera2021A"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A symbol of support for the Quest to Conquer Cancer, created by dull-ahan.",
+    "excludeFromCodex": true,
+    "imageName": "conquera-glyph-iv.png",
+    "name": "Conquera Glyph Iv",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageConquera2021B"
   },
   {
     "category": "Glyphs",
@@ -1859,6 +1929,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageEduiy"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "el-grineer-exiliado-glyph.png",
+    "name": "El Grineer Exiliado Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageElGrineerExiliado"
   },
   {
     "category": "Glyphs",
@@ -2672,6 +2752,16 @@
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "excludeFromCodex": true,
+    "imageName": "fashion-frame-is-endgame-glyph.png",
+    "name": "Fashion Frame Is Endgame Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageFashionFrameIsEndgame"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
     "imageName": "fass-glyph.png",
     "name": "Fass Glyph",
     "tradable": false,
@@ -3450,6 +3540,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageCreatorH3dsh0t"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "happinessdark-glyph.png",
+    "name": "Happinessdark Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageHappinessDark"
   },
   {
     "category": "Glyphs",
@@ -4280,15 +4380,6 @@
   {
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
-    "imageName": "kingkacchi-glyph.png",
-    "name": "Kingkacchi Glyph",
-    "tradable": false,
-    "type": "Glyph",
-    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKacchi"
-  },
-  {
-    "category": "Glyphs",
-    "description": "A Glyph for your profile.",
     "imageName": "kingkongdonk-glyph.png",
     "name": "Kingkongdonk Glyph",
     "tradable": false,
@@ -4550,6 +4641,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/AvatarImageGlyphLegendaryQuasars"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "leo-doodling-glyph.png",
+    "name": "Leo Doodling Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageLeoDoodling"
   },
   {
     "category": "Glyphs",
@@ -4958,6 +5059,15 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageDramakins"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "imageName": "lotus-symbol-glyph.png",
+    "name": "Lotus Symbol Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageKacchi"
   },
   {
     "category": "Glyphs",
@@ -5864,6 +5974,46 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageNidusDeluxeMutated"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Nidus Prime on a bright background.",
+    "excludeFromCodex": true,
+    "imageName": "nidus-prime-glyph.png",
+    "name": "Nidus Prime Glyph",
+    "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Exclusive Nidus Prime Glyphs",
+        "fixes": ""
+      }
+    ],
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageNidusPrimeBright"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A glyph depicting Nidus Prime on a dark background.",
+    "excludeFromCodex": true,
+    "imageName": "nidus-prime-glyph.png",
+    "name": "Nidus Prime Glyph",
+    "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Exclusive Nidus Prime Glyphs",
+        "fixes": ""
+      }
+    ],
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/Primes/ImageNidusPrimeDark"
   },
   {
     "category": "Glyphs",
@@ -6850,6 +7000,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A glyph depicting Revenant Mephisto.",
+    "excludeFromCodex": true,
+    "imageName": "revenant-mephisto-glyph.png",
+    "name": "Revenant Mephisto Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/ImageRevenantDeluxe"
+  },
+  {
+    "category": "Glyphs",
     "description": "A glyph depicting Revenant Vania on a bright background.",
     "imageName": "revenant-vania-glyph.png",
     "name": "Revenant Vania Glyph",
@@ -7029,6 +7189,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/RequiemRisGlyph"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "ritens-glyph.png",
+    "name": "Ritens Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageRitens"
   },
   {
     "category": "Glyphs",
@@ -7513,6 +7683,16 @@
     "category": "Glyphs",
     "description": "A Glyph for your profile.",
     "excludeFromCodex": true,
+    "imageName": "sharlazard-glyph.png",
+    "name": "Sharlazard Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSharlazard"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
     "imageName": "shenzhao-glyph.png",
     "name": "Shenzhao Glyph",
     "tradable": false,
@@ -7545,6 +7725,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSilentMashiko"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "sillfix-glyph.png",
+    "name": "Sillfix Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageSillfix"
   },
   {
     "category": "Glyphs",
@@ -7952,6 +8142,16 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTavierCorsair"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "tbg-karu-glyph.png",
+    "name": "Tbg Karu Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageTBGKaru"
   },
   {
     "category": "Glyphs",
@@ -9257,6 +9457,16 @@
   },
   {
     "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "widescreenjohn-glyph.png",
+    "name": "Widescreenjohn Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageWidescreenJohn"
+  },
+  {
+    "category": "Glyphs",
     "description": "A festive glyph.",
     "imageName": "winter-glyph-i.png",
     "name": "Winter Glyph I",
@@ -9977,5 +10187,15 @@
     "tradable": false,
     "type": "Glyph",
     "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZotbot"
+  },
+  {
+    "category": "Glyphs",
+    "description": "A Glyph for your profile.",
+    "excludeFromCodex": true,
+    "imageName": "zxpfer-glyph.png",
+    "name": "Zxpfer Glyph",
+    "tradable": false,
+    "type": "Glyph",
+    "uniqueName": "/Lotus/Types/StoreItems/AvatarImages/FanChannel/AvatarImageZxpfer"
   }
 ]

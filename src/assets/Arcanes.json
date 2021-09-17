@@ -198,12 +198,6 @@
         "chance": 0.0529,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Aegis"
-      },
-      {
-        "chance": 0.0529,
-        "location": "Eidolon Gantulyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Pulse"
       },
       {
@@ -211,6 +205,12 @@
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
       },
       {
         "chance": 0.0563,
@@ -300,18 +300,6 @@
         "chance": 0.0602,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Healing"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
-        "type": "Arcane Victory"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Resistance"
       },
       {
@@ -319,6 +307,18 @@
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
       },
       {
         "chance": 0.0667,
@@ -420,13 +420,13 @@
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.0925,
@@ -480,13 +480,13 @@
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.102,
@@ -594,13 +594,7 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1205,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1205,
@@ -618,19 +612,25 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
       },
       {
-        "chance": 0.1274,
-        "location": "Eidolon Hydrolyst (Capture)",
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1274,
         "location": "Eidolon Hydrolyst (Capture)",
         "rarity": "Uncommon",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1376,
@@ -642,13 +642,13 @@
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Rage"
       },
       {
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Rage"
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1463,
@@ -666,13 +666,7 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1495,
-        "location": "Eidolon Teralyst",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1495,
@@ -690,7 +684,13 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1568,
@@ -751,6 +751,14 @@
     "imageName": "arcane.png",
     "name": "Arcane",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Infested Zaw Arcanes ",
+        "fixes": ""
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -2057,12 +2065,6 @@
         "chance": 0.0529,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Aegis"
-      },
-      {
-        "chance": 0.0529,
-        "location": "Eidolon Gantulyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Pulse"
       },
       {
@@ -2070,6 +2072,12 @@
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
       },
       {
         "chance": 0.0563,
@@ -2159,18 +2167,6 @@
         "chance": 0.0602,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Healing"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
-        "type": "Arcane Victory"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Resistance"
       },
       {
@@ -2178,6 +2174,18 @@
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
       },
       {
         "chance": 0.0667,
@@ -2279,13 +2287,13 @@
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.0925,
@@ -2339,13 +2347,13 @@
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.102,
@@ -2453,13 +2461,7 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1205,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1205,
@@ -2477,19 +2479,25 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
       },
       {
-        "chance": 0.1274,
-        "location": "Eidolon Hydrolyst (Capture)",
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1274,
         "location": "Eidolon Hydrolyst (Capture)",
         "rarity": "Uncommon",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1376,
@@ -2501,13 +2509,13 @@
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Rage"
       },
       {
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Rage"
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1463,
@@ -2525,13 +2533,7 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1495,
-        "location": "Eidolon Teralyst",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1495,
@@ -2549,7 +2551,13 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1568,
@@ -2610,6 +2618,14 @@
     "imageName": "arcane.png",
     "name": "Arcane",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Infested Zaw Arcanes ",
+        "fixes": ""
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -3916,12 +3932,6 @@
         "chance": 0.0529,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Aegis"
-      },
-      {
-        "chance": 0.0529,
-        "location": "Eidolon Gantulyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Pulse"
       },
       {
@@ -3929,6 +3939,12 @@
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
       },
       {
         "chance": 0.0563,
@@ -4018,18 +4034,6 @@
         "chance": 0.0602,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Healing"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
-        "type": "Arcane Victory"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Resistance"
       },
       {
@@ -4037,6 +4041,18 @@
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
       },
       {
         "chance": 0.0667,
@@ -4138,13 +4154,13 @@
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.0925,
@@ -4198,13 +4214,13 @@
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.102,
@@ -4312,13 +4328,7 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1205,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1205,
@@ -4336,19 +4346,25 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
       },
       {
-        "chance": 0.1274,
-        "location": "Eidolon Hydrolyst (Capture)",
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1274,
         "location": "Eidolon Hydrolyst (Capture)",
         "rarity": "Uncommon",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1376,
@@ -4360,13 +4376,13 @@
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Rage"
       },
       {
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Rage"
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1463,
@@ -4384,13 +4400,7 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1495,
-        "location": "Eidolon Teralyst",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1495,
@@ -4408,7 +4418,13 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1568,
@@ -4469,6 +4485,14 @@
     "imageName": "arcane.png",
     "name": "Arcane",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Infested Zaw Arcanes ",
+        "fixes": ""
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -5775,12 +5799,6 @@
         "chance": 0.0529,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Aegis"
-      },
-      {
-        "chance": 0.0529,
-        "location": "Eidolon Gantulyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Pulse"
       },
       {
@@ -5788,6 +5806,12 @@
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Ultimatum"
+      },
+      {
+        "chance": 0.0529,
+        "location": "Eidolon Gantulyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Aegis"
       },
       {
         "chance": 0.0563,
@@ -5877,18 +5901,6 @@
         "chance": 0.0602,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Healing"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
-        "type": "Arcane Victory"
-      },
-      {
-        "chance": 0.0602,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Rare",
         "type": "Arcane Resistance"
       },
       {
@@ -5896,6 +5908,18 @@
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Rare",
         "type": "Arcane Deflection"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Healing"
+      },
+      {
+        "chance": 0.0602,
+        "location": "Eidolon Teralyst (Capture)",
+        "rarity": "Rare",
+        "type": "Arcane Victory"
       },
       {
         "chance": 0.0667,
@@ -5997,13 +6021,13 @@
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.0925,
         "location": "Eidolon Gantulyst (Capture)",
         "rarity": "Rare",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.0925,
@@ -6057,13 +6081,13 @@
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Phantasm"
+        "type": "Arcane Eruption"
       },
       {
         "chance": 0.102,
         "location": "Eidolon Gantulyst",
         "rarity": "Uncommon",
-        "type": "Arcane Eruption"
+        "type": "Arcane Phantasm"
       },
       {
         "chance": 0.102,
@@ -6171,13 +6195,7 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1205,
-        "location": "Eidolon Teralyst (Capture)",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1205,
@@ -6195,19 +6213,25 @@
         "chance": 0.1205,
         "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
       },
       {
-        "chance": 0.1274,
-        "location": "Eidolon Hydrolyst (Capture)",
+        "chance": 0.1205,
+        "location": "Eidolon Teralyst (Capture)",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1274,
         "location": "Eidolon Hydrolyst (Capture)",
         "rarity": "Uncommon",
         "type": "Arcane Rage"
+      },
+      {
+        "chance": 0.1274,
+        "location": "Eidolon Hydrolyst (Capture)",
+        "rarity": "Uncommon",
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1376,
@@ -6219,13 +6243,13 @@
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Arachne"
+        "type": "Arcane Rage"
       },
       {
         "chance": 0.1376,
         "location": "Eidolon Hydrolyst",
         "rarity": "Uncommon",
-        "type": "Arcane Rage"
+        "type": "Arcane Arachne"
       },
       {
         "chance": 0.1463,
@@ -6243,13 +6267,7 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Consequence"
-      },
-      {
-        "chance": 0.1495,
-        "location": "Eidolon Teralyst",
-        "rarity": "Uncommon",
-        "type": "Arcane Ice"
+        "type": "Arcane Warmth"
       },
       {
         "chance": 0.1495,
@@ -6267,7 +6285,13 @@
         "chance": 0.1495,
         "location": "Eidolon Teralyst",
         "rarity": "Uncommon",
-        "type": "Arcane Warmth"
+        "type": "Arcane Consequence"
+      },
+      {
+        "chance": 0.1495,
+        "location": "Eidolon Teralyst",
+        "rarity": "Uncommon",
+        "type": "Arcane Ice"
       },
       {
         "chance": 0.1568,
@@ -6328,6 +6352,14 @@
     "imageName": "arcane.png",
     "name": "Arcane",
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Infested Zaw Arcanes ",
+        "fixes": ""
+      },
       {
         "name": "Nightwave: Nora’s Choice: Update 30.6.0",
         "date": "2021-08-04T17:32:47Z",
@@ -7871,22 +7903,22 @@
     "imageName": "arcane-barrier.png",
     "levelStats": [
       {
-        "stats": [ "On Shield Damaged:1% chance to instantly restore all Shields" ]
+        "stats": [ "On Shield Damaged:1% chance to instantly restore all Shields1s cooldown" ]
       },
       {
-        "stats": [ "On Shield Damaged:2% chance to instantly restore all Shields" ]
+        "stats": [ "On Shield Damaged:2% chance to instantly restore all Shields2s cooldown" ]
       },
       {
-        "stats": [ "On Shield Damaged:3% chance to instantly restore all Shields" ]
+        "stats": [ "On Shield Damaged:3% chance to instantly restore all Shields3s cooldown" ]
       },
       {
-        "stats": [ "On Shield Damaged:4% chance to instantly restore all Shields+1 Arcane Revive" ]
+        "stats": [ "On Shield Damaged:4% chance to instantly restore all Shields4s cooldown+1 Arcane Revive" ]
       },
       {
-        "stats": [ "On Shield Damaged:5% chance to instantly restore all Shields+1 Arcane Revive" ]
+        "stats": [ "On Shield Damaged:5% chance to instantly restore all Shields5s cooldown+1 Arcane Revive" ]
       },
       {
-        "stats": [ "On Shield Damaged:6% chance to instantly restore all Shields+1 Arcane Revive" ]
+        "stats": [ "On Shield Damaged:6% chance to instantly restore all Shields6s cooldown+1 Arcane Revive" ]
       }
     ],
     "name": "Arcane Barrier",

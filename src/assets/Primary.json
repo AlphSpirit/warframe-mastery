@@ -18,7 +18,6 @@
       },
       {
         "name": "Rocket Explosion",
-        "radius": 400,
         "speed": 12,
         "crit_chance": 32,
         "crit_mult": 2.8,
@@ -301,8 +300,7 @@
         }
       },
       {
-        "name": "Charged Explosion",
-        "radius": 600,
+        "name": "Charged AoE",
         "speed": 1,
         "crit_chance": 16,
         "crit_mult": 2.8,
@@ -334,10 +332,10 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0833,
-            "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
-            "rarity": "Rare",
-            "type": "Ambassador Barrel"
+            "chance": 0.05,
+            "location": "Aurax Atloc Raknoid",
+            "rarity": "Common",
+            "type": "Ambassador Barrel Blueprint"
           }
         ]
       },
@@ -349,6 +347,24 @@
         "imageName": "blueprint.png",
         "tradable": false,
         "drops": [
+          {
+            "chance": 0.0833,
+            "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
+            "rarity": "Rare",
+            "type": "Ambassador Blueprint"
+          },
+          {
+            "chance": 0.0833,
+            "location": "Pluto/Fenton's Field (Skirmish), Rotation C",
+            "rarity": "Rare",
+            "type": "Ambassador Blueprint"
+          },
+          {
+            "chance": 0.0833,
+            "location": "Venus/Luckless Expanse (Skirmish), Rotation C",
+            "rarity": "Rare",
+            "type": "Ambassador Blueprint"
+          },
           {
             "chance": 0.1667,
             "location": "Veil/Lu-Yan (Skirmish), Rotation C",
@@ -367,10 +383,10 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0833,
-            "location": "Pluto/Fenton's Field (Skirmish), Rotation C",
-            "rarity": "Rare",
-            "type": "Ambassador Receiver"
+            "chance": 0.05,
+            "location": "Aurax Atloc Raknoid",
+            "rarity": "Common",
+            "type": "Ambassador Receiver Blueprint"
           }
         ]
       },
@@ -384,10 +400,10 @@
         "tradable": false,
         "drops": [
           {
-            "chance": 0.0833,
-            "location": "Neptune/Enkidu Ice Drifts (Skirmish), Rotation C",
-            "rarity": "Rare",
-            "type": "Ambassador Stock"
+            "chance": 0.05,
+            "location": "Aurax Atloc Raknoid",
+            "rarity": "Common",
+            "type": "Ambassador Stock Blueprint"
           }
         ]
       }
@@ -415,6 +431,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 1.05,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Ambassador Component Blueprints have a chance to drop from Aurax Atloc Raknoids. The main Blueprint can now be attained as a Rotation C reward from any Corpus Railjack Survival mission.\nAfter engaging with Community Feedback, we noticed that obtaining the Ambassador parts was a tough combination of playing the same mission in 4 different locations with some difficult RNG. The Ambassador components have also been moved to an enemy that was without a drop table!\nEvery Aurax Atloc Raknoid has a 15% to drop any component Blueprints for the Ambassador \nEnemies typically only drop Weapon Blueprints or component Blueprints which is why the Ambassador components were given individual Blueprints ",
+        "fixes": ""
+      },
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
@@ -528,7 +552,7 @@
     "criticalMultiplier": 2.2,
     "damagePerShot": [ 0, 0, 0, 0, 0, 22, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The Amprex rifle fires a continuous beam of high voltage electricity that arcs among nearby enemies. This weapon excels at Crowd Control.",
-    "disposition": 1,
+    "disposition": 2,
     "fireRate": 12.000001,
     "imageName": "amprex.png",
     "introduced": {
@@ -544,7 +568,7 @@
     "multishot": 1,
     "name": "Amprex",
     "noise": "Alarming",
-    "omegaAttenuation": 0.75,
+    "omegaAttenuation": 0.80000001,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Update 22.14.0",
@@ -746,7 +770,7 @@
     "criticalMultiplier": 1.6,
     "damagePerShot": [ 0, 0, 0, 0, 0, 0, 0, 0, 600, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Stagger targets with blasts from this Corpus engineered plasma shotgun. Surviving enemies are consumed with radiation.",
-    "disposition": 1,
+    "disposition": 2,
     "fireRate": 1.1,
     "imageName": "arca-plasmor.png",
     "introduced": {
@@ -762,7 +786,7 @@
     "multishot": 1,
     "name": "Arca Plasmor",
     "noise": "Alarming",
-    "omegaAttenuation": 0.69999999,
+    "omegaAttenuation": 0.80000001,
     "patchlogs": [
       {
         "name": "The Old Blood: Hotfix 26.0.3",
@@ -1208,7 +1232,6 @@
       },
       {
         "name": "Glass Explosion",
-        "radius": 240,
         "speed": 4.33,
         "crit_chance": 17,
         "crit_mult": 1.9,
@@ -1297,7 +1320,7 @@
     "multishot": 1,
     "name": "Astilla",
     "noise": "Alarming",
-    "omegaAttenuation": 1.2,
+    "omegaAttenuation": 1.25,
     "patchlogs": [
       {
         "name": "Warframe Revised: Hotfix 27.2.2",
@@ -1372,7 +1395,6 @@
       },
       {
         "name": "Glass Explosion",
-        "radius": 240,
         "speed": 4.33,
         "crit_chance": 21,
         "crit_mult": 1.9,
@@ -1491,8 +1513,20 @@
             "type": "Astilla Prime Receiver"
           },
           {
+            "chance": 0.1667,
+            "location": "Lith N8 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Receiver"
+          },
+          {
             "chance": 0.2,
             "location": "Axi N7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Receiver"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith N8 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Astilla Prime Receiver"
           },
@@ -1503,8 +1537,20 @@
             "type": "Astilla Prime Receiver"
           },
           {
+            "chance": 0.2333,
+            "location": "Lith N8 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Receiver"
+          },
+          {
             "chance": 0.2533,
             "location": "Axi N7 Relic",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Receiver"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith N8 Relic",
             "rarity": "Uncommon",
             "type": "Astilla Prime Receiver"
           }
@@ -1527,8 +1573,20 @@
             "type": "Astilla Prime Stock"
           },
           {
+            "chance": 0.11,
+            "location": "Neo P3 Relic",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Stock"
+          },
+          {
             "chance": 0.13,
             "location": "Meso T5 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Stock"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo P3 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Astilla Prime Stock"
           },
@@ -1539,8 +1597,20 @@
             "type": "Astilla Prime Stock"
           },
           {
+            "chance": 0.17,
+            "location": "Neo P3 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Stock"
+          },
+          {
             "chance": 0.2,
             "location": "Meso T5 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Astilla Prime Stock"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo P3 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Astilla Prime Stock"
           }
@@ -1553,8 +1623,8 @@
     "criticalMultiplier": 1.9,
     "damagePerShot": [ 100, 49, 91, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Loose explosive glass slugs that tear through enemies with Gara’s signature shotgun, presented here in its spectacular Prime form.",
-    "disposition": 1,
-    "estimatedVaultDate": "2023 02 15",
+    "disposition": 2,
+    "estimatedVaultDate": "2023 05 31",
     "fireRate": 4.3333335,
     "imageName": "astilla-prime.png",
     "introduced": {
@@ -1569,7 +1639,7 @@
     "multishot": 1,
     "name": "Astilla Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.80000001,
     "polarities": [ "Madurai", "Naramon", "Madurai" ],
     "procChance": 0.37,
     "productCategory": "LongGuns",
@@ -1806,7 +1876,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 170,
         "speed": 12,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -2069,7 +2138,6 @@
       },
       {
         "name": "Beam AoE",
-        "radius": 340,
         "speed": 5,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -2157,7 +2225,7 @@
     "multishot": 1,
     "name": "Battacor",
     "noise": "Alarming",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Derelict Shift: Update 28.3.0",
@@ -2804,6 +2872,12 @@
         "drops": [
           {
             "chance": 0.11,
+            "location": "Axi I2 Relic",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Barrel"
+          },
+          {
+            "chance": 0.11,
             "location": "Axi Z1 Relic",
             "rarity": "Uncommon",
             "type": "Baza Prime Barrel"
@@ -2829,6 +2903,12 @@
           {
             "chance": 0.11,
             "location": "Neo N15 Relic",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Barrel"
+          },
+          {
+            "chance": 0.13,
+            "location": "Axi I2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Baza Prime Barrel"
           },
@@ -2864,6 +2944,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Axi I2 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Barrel"
+          },
+          {
+            "chance": 0.17,
             "location": "Axi Z1 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Baza Prime Barrel"
@@ -2889,6 +2975,12 @@
           {
             "chance": 0.17,
             "location": "Neo N15 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Barrel"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi I2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Baza Prime Barrel"
           },
@@ -2960,6 +3052,12 @@
             "type": "Baza Prime Blueprint"
           },
           {
+            "chance": 0.02,
+            "location": "Meso B5 Relic",
+            "rarity": "Rare",
+            "type": "Baza Prime Blueprint"
+          },
+          {
             "chance": 0.04,
             "location": "Axi B4 Relic (Exceptional)",
             "rarity": "Rare",
@@ -2980,6 +3078,12 @@
           {
             "chance": 0.04,
             "location": "Meso B4 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Baza Prime Blueprint"
+          },
+          {
+            "chance": 0.04,
+            "location": "Meso B5 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Baza Prime Blueprint"
           },
@@ -3008,6 +3112,12 @@
             "type": "Baza Prime Blueprint"
           },
           {
+            "chance": 0.06,
+            "location": "Meso B5 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Baza Prime Blueprint"
+          },
+          {
             "chance": 0.1,
             "location": "Axi B4 Relic (Radiant)",
             "rarity": "Uncommon",
@@ -3028,6 +3138,12 @@
           {
             "chance": 0.1,
             "location": "Meso B4 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Blueprint"
+          },
+          {
+            "chance": 0.1,
+            "location": "Meso B5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Baza Prime Blueprint"
           }
@@ -3060,6 +3176,12 @@
           {
             "chance": 0.1667,
             "location": "Axi W2 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Receiver"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Lith K7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Baza Prime Receiver"
           },
@@ -3101,6 +3223,12 @@
           },
           {
             "chance": 0.2,
+            "location": "Lith K7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Receiver"
+          },
+          {
+            "chance": 0.2,
             "location": "Meso C6 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Baza Prime Receiver"
@@ -3137,6 +3265,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith K7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Receiver"
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso C6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Baza Prime Receiver"
@@ -3168,6 +3302,12 @@
           {
             "chance": 0.2533,
             "location": "Axi W2 Relic",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Receiver"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith K7 Relic",
             "rarity": "Uncommon",
             "type": "Baza Prime Receiver"
           },
@@ -3215,6 +3355,12 @@
           },
           {
             "chance": 0.02,
+            "location": "Meso B6 Relic",
+            "rarity": "Rare",
+            "type": "Baza Prime Stock"
+          },
+          {
+            "chance": 0.02,
             "location": "Neo B7 Relic",
             "rarity": "Rare",
             "type": "Baza Prime Stock"
@@ -3222,6 +3368,12 @@
           {
             "chance": 0.04,
             "location": "Axi B3 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Baza Prime Stock"
+          },
+          {
+            "chance": 0.04,
+            "location": "Meso B6 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Baza Prime Stock"
           },
@@ -3239,6 +3391,12 @@
           },
           {
             "chance": 0.06,
+            "location": "Meso B6 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Baza Prime Stock"
+          },
+          {
+            "chance": 0.06,
             "location": "Neo B7 Relic (Flawless)",
             "rarity": "Rare",
             "type": "Baza Prime Stock"
@@ -3246,6 +3404,12 @@
           {
             "chance": 0.1,
             "location": "Axi B3 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Baza Prime Stock"
+          },
+          {
+            "chance": 0.1,
+            "location": "Meso B6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Baza Prime Stock"
           },
@@ -3265,7 +3429,7 @@
     "damagePerShot": [ 5.7600002, 6.7199998, 3.5200005, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "This rapid-fire classic is the Orokin-engineered definition of silent, pinpoint lethality.",
     "disposition": 3,
-    "estimatedVaultDate": "2021 08 24",
+    "estimatedVaultDate": "2021 09 08",
     "fireRate": 16.666668,
     "imageName": "baza-prime.png",
     "introduced": {
@@ -3328,7 +3492,8 @@
     "trigger": "Auto",
     "type": "Rifle",
     "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeBaza/PrimeBazaGun",
-    "vaultDate": "n/a",
+    "vaultDate": "2021 09 08",
+    "vaulted": true,
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/1/10/BazaPrime.png/revision/latest?cb=20191218021158",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Baza_Prime"
   },
@@ -4300,7 +4465,7 @@
     "multishot": 1,
     "name": "Boltor",
     "noise": "Alarming",
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.3,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -4878,7 +5043,7 @@
     "multishot": 1,
     "name": "Boltor Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 1.15,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -5515,6 +5680,12 @@
             "type": "Braton Prime Barrel"
           },
           {
+            "chance": 0.1667,
+            "location": "Neo T5 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Barrel"
+          },
+          {
             "chance": 0.2,
             "location": "Axi A3 Relic (Flawless)",
             "rarity": "Uncommon",
@@ -5613,6 +5784,12 @@
           {
             "chance": 0.2,
             "location": "Neo N11 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Barrel"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo T5 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Braton Prime Barrel"
           },
@@ -5719,6 +5896,12 @@
             "type": "Braton Prime Barrel"
           },
           {
+            "chance": 0.2333,
+            "location": "Neo T5 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Barrel"
+          },
+          {
             "chance": 0.2533,
             "location": "Axi A3 Relic",
             "rarity": "Uncommon",
@@ -5817,6 +6000,12 @@
           {
             "chance": 0.2533,
             "location": "Neo N11 Relic",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Barrel"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo T5 Relic",
             "rarity": "Uncommon",
             "type": "Braton Prime Barrel"
           }
@@ -5938,6 +6127,12 @@
           {
             "chance": 0.1667,
             "location": "Axi V6 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Lith N7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Braton Prime Blueprint"
           },
@@ -6093,6 +6288,12 @@
           },
           {
             "chance": 0.2,
+            "location": "Lith N7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
             "location": "Lith T2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Braton Prime Blueprint"
@@ -6219,6 +6420,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith N7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith T6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Braton Prime Blueprint"
@@ -6328,6 +6535,12 @@
           {
             "chance": 0.2533,
             "location": "Axi V6 Relic",
+            "rarity": "Uncommon",
+            "type": "Braton Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith N7 Relic",
             "rarity": "Uncommon",
             "type": "Braton Prime Blueprint"
           },
@@ -7726,7 +7939,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 700,
         "speed": 3.37,
         "crit_chance": 3,
         "crit_mult": 3.5,
@@ -8575,6 +8787,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Axi M2 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Axi S6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Burston Prime Blueprint"
@@ -8666,6 +8884,12 @@
           {
             "chance": 0.2,
             "location": "Axi L5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi M2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Burston Prime Blueprint"
           },
@@ -8767,6 +8991,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi M2 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Axi S6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Burston Prime Blueprint"
@@ -8858,6 +9088,12 @@
           {
             "chance": 0.2533,
             "location": "Axi L5 Relic",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi M2 Relic",
             "rarity": "Uncommon",
             "type": "Burston Prime Blueprint"
           },
@@ -9069,6 +9305,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo N17 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo S3 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
@@ -9166,6 +9408,12 @@
           {
             "chance": 0.2,
             "location": "Neo I2 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo N17 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
           },
@@ -9273,6 +9521,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo N17 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo S3 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
@@ -9375,6 +9629,12 @@
           },
           {
             "chance": 0.2533,
+            "location": "Neo N17 Relic",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Receiver"
+          },
+          {
+            "chance": 0.2533,
             "location": "Neo S3 Relic",
             "rarity": "Uncommon",
             "type": "Burston Prime Receiver"
@@ -9472,6 +9732,12 @@
           {
             "chance": 0.1667,
             "location": "Neo M2 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Stock"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Neo N16 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Burston Prime Stock"
           },
@@ -9585,6 +9851,12 @@
           },
           {
             "chance": 0.2,
+            "location": "Neo N16 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Stock"
+          },
+          {
+            "chance": 0.2,
             "location": "Neo S2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Burston Prime Stock"
@@ -9693,6 +9965,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo N16 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Stock"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo S2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Burston Prime Stock"
@@ -9796,6 +10074,12 @@
           {
             "chance": 0.2533,
             "location": "Neo M2 Relic",
+            "rarity": "Uncommon",
+            "type": "Burston Prime Stock"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo N16 Relic",
             "rarity": "Uncommon",
             "type": "Burston Prime Stock"
           },
@@ -10024,6 +10308,14 @@
     "omegaAttenuation": 1.45,
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed issue where Buzlok’s fire homing would cause no damage. "
+      },
+      {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
         "date": "2021-08-10T18:03:49Z",
         "url": "https://forums.warframe.com/topic/1276639-nightwave-prime-vault-hotfix-3061/",
@@ -10227,7 +10519,6 @@
       },
       {
         "name": "Grenade Detonation",
-        "radius": 400,
         "speed": 2.7,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -10662,7 +10953,6 @@
       },
       {
         "name": "Glaive Radial Attack",
-        "radius": 600,
         "speed": 1,
         "crit_chance": 2,
         "crit_mult": 1.4,
@@ -10826,8 +11116,16 @@
     "multishot": 6,
     "name": "Cedo",
     "noise": "Alarming",
-    "omegaAttenuation": 0.60000002,
+    "omegaAttenuation": 0.64999998,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Cedo, Cyanex and Akarius causing a parried reaction (knock back) versus certain enemies."
+      },
       {
         "name": "Orphix Venom: Hotfix 29.6.8 + 29.6.8.1",
         "date": "2021-01-25T16:31:27Z",
@@ -12709,7 +13007,6 @@
       },
       {
         "name": "Air Burst Explosion",
-        "radius": 940,
         "speed": 1.17,
         "crit_chance": 4,
         "crit_mult": 1.6,
@@ -12781,7 +13078,7 @@
     "criticalMultiplier": 2.8,
     "damagePerShot": [ 25.200001, 37.799999, 27.000002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Deliver a massive punch with each blast of this shotgun, or launch a round that explodes mid-air knocking down nearby enemies.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 1.1666667,
     "imageName": "corinth.png",
     "introduced": {
@@ -12797,7 +13094,7 @@
     "multishot": 6,
     "name": "Corinth",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Update 30.5: Sisters of Parvos",
@@ -13057,7 +13354,6 @@
       },
       {
         "name": "Air Burst Explosion",
-        "radius": 980,
         "speed": 0.667,
         "crit_chance": 4,
         "crit_mult": 1.6,
@@ -13198,6 +13494,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso S10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo E2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Corinth Prime Blueprint"
@@ -13223,6 +13525,12 @@
           {
             "chance": 0.2,
             "location": "Meso I1 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso S10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Corinth Prime Blueprint"
           },
@@ -13258,6 +13566,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso S10 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo E2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Corinth Prime Blueprint"
@@ -13283,6 +13597,12 @@
           {
             "chance": 0.2533,
             "location": "Meso I1 Relic",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso S10 Relic",
             "rarity": "Uncommon",
             "type": "Corinth Prime Blueprint"
           },
@@ -13337,6 +13657,12 @@
             "type": "Corinth Prime Receiver"
           },
           {
+            "chance": 0.11,
+            "location": "Neo T5 Relic",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Receiver"
+          },
+          {
             "chance": 0.13,
             "location": "Axi T7 Relic (Exceptional)",
             "rarity": "Uncommon",
@@ -13357,6 +13683,12 @@
           {
             "chance": 0.13,
             "location": "Neo R4 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Receiver"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo T5 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Corinth Prime Receiver"
           },
@@ -13385,6 +13717,12 @@
             "type": "Corinth Prime Receiver"
           },
           {
+            "chance": 0.17,
+            "location": "Neo T5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Receiver"
+          },
+          {
             "chance": 0.2,
             "location": "Axi T7 Relic (Radiant)",
             "rarity": "Uncommon",
@@ -13405,6 +13743,12 @@
           {
             "chance": 0.2,
             "location": "Neo R4 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Corinth Prime Receiver"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo T5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Corinth Prime Receiver"
           }
@@ -13478,7 +13822,7 @@
     "damagePerShot": [ 25.200001, 37.799999, 27.000002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Heavy in the hand with a bone-crunching kickback. This Prime version of this shotgun adds remote detonation of the weapon's airburst round.",
     "disposition": 3,
-    "estimatedVaultDate": "2021 11 22",
+    "estimatedVaultDate": "2021 12 22",
     "fireRate": 1.4166667,
     "imageName": "corinth-prime.png",
     "introduced": {
@@ -14957,7 +15301,7 @@
     "multishot": 1,
     "name": "Dex Sybaris",
     "noise": "Alarming",
-    "omegaAttenuation": 1.2,
+    "omegaAttenuation": 1.3,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -15749,7 +16093,6 @@
       },
       {
         "name": "Area Attacks",
-        "radius": 360,
         "speed": 1.33,
         "crit_chance": 32,
         "crit_mult": 2.8,
@@ -16301,6 +16644,18 @@
     "ammo": null,
     "attacks": [
       {
+        "name": "Full Auto Mode",
+        "speed": 9.33,
+        "crit_chance": 28,
+        "crit_mult": 2.4,
+        "status_chance": 10,
+        "shot_type": "Hit-Scan",
+        "damage": {
+          "puncture": 8,
+          "electricity": 25
+        }
+      },
+      {
         "name": "Semi-Auto Mode",
         "speed": 2.17,
         "crit_chance": 30,
@@ -16317,18 +16672,6 @@
         "damage": {
           "impact": 100,
           "electricity": 400
-        }
-      },
-      {
-        "name": "Full Auto Mode",
-        "speed": 9.33,
-        "crit_chance": 28,
-        "crit_mult": 2.4,
-        "status_chance": 10,
-        "shot_type": "Hit-Scan",
-        "damage": {
-          "puncture": 8,
-          "electricity": 25
         }
       }
     ],
@@ -16404,8 +16747,16 @@
     "multishot": 1,
     "name": "Fulmin",
     "noise": "Silent",
-    "omegaAttenuation": 0.64999998,
+    "omegaAttenuation": 0.69999999,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Mod rewards include the Fulmination Mod and the Sacrifice Mod.",
+        "fixes": ""
+      },
       {
         "name": "Deimos: Arcana: Hotfix 29.5.7",
         "date": "2020-12-10T21:22:06Z",
@@ -18009,9 +18360,9 @@
         "crit_chance": 25,
         "crit_mult": 2.3,
         "status_chance": 13,
-        "shot_type": 50,
-        "shot_speed": null,
-        "flight": "???",
+        "shot_type": "Projectile",
+        "shot_speed": 50,
+        "flight": 50,
         "damage": {
           "impact": 40,
           "slash": 10,
@@ -18287,6 +18638,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 1.2,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Vay Hek\nVay Hek possesses a toxin that can destroy the boil at the meteorite crash site, but he refuses to help. He sees it as a means to destroy Cetus and the Ostron colony. We need to get ahold of his toxin and destroy the boil before it becomes unstoppable.\nThe Plague Star Bounty starts with enemies in the Medium difficulty range, but you can increase the event difficulty by purchasing and mixing the Eidolon Phylaxis from Nakak into Vay Hek’s Toxin.",
+        "fixes": ""
+      },
       {
         "name": "Call of the Tempestarii: TennoGen: Hotfix 30.1.1",
         "date": "2021-05-05T21:12:25Z",
@@ -18901,7 +19260,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 300,
         "speed": 0.91,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -19399,7 +19757,6 @@
     "attacks": [
       {
         "name": "Normal",
-        "radius": 300,
         "speed": 8,
         "crit_chance": 11,
         "crit_mult": 2,
@@ -19820,7 +20177,6 @@
     "attacks": [
       {
         "name": "Normal",
-        "radius": 300,
         "speed": 8,
         "crit_chance": 17,
         "crit_mult": 2.5,
@@ -20015,7 +20371,6 @@
       },
       {
         "name": "Projectile Explosion",
-        "radius": 240,
         "speed": 3.33,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -20048,7 +20403,6 @@
       },
       {
         "name": "Spear Explosion",
-        "radius": 600,
         "speed": 1,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -21156,7 +21510,27 @@
     "ammo": 40,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 6,
+        "crit_chance": 16,
+        "crit_mult": 2.1,
+        "status_chance": 35,
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 8.7,
+          "slash": 41.76,
+          "puncture": 36.54
+        }
+      },
+      {
+        "name": "2x Zoom",
         "speed": 6,
         "crit_chance": 16,
         "crit_mult": 2.1,
@@ -21189,7 +21563,6 @@
       },
       {
         "name": "3.5x Zoom Radial Attack",
-        "radius": 350,
         "speed": 1.5,
         "crit_chance": 16,
         "crit_mult": 2.1,
@@ -21260,7 +21633,7 @@
     "criticalMultiplier": 2.0999999,
     "damagePerShot": [ 8.6999998, 36.539997, 41.760002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Corpus ingenuity leveraging Tau-tech to create a high-capacity bi-modal sniper weapon of terrifying capability. Zoom in to reduce recoil and add punch through. Zoom again to fire a bursting viral round, but with a lower rate of fire. Komorex features built-in ammo conversion.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 6.0000005,
     "imageName": "komorex.png",
     "introduced": {
@@ -21276,7 +21649,7 @@
     "multishot": 1,
     "name": "Komorex",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Update 29.5: Deimos Arcana",
@@ -21375,7 +21748,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 900,
         "speed": 4.58,
         "crit_chance": 35,
         "crit_mult": 2,
@@ -21391,7 +21763,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -21429,6 +21801,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 1,
     "patchlogs": [
+      {
+        "name": "Nidus Prime & Plague Star: Hotfix 30.7.5",
+        "date": "2021-09-16T20:15:52Z",
+        "url": "https://forums.warframe.com/topic/1281196-nidus-prime-plague-star-hotfix-3075/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Kuva Ayanga firing projectiles back on the player with maximum Fire Rate."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -21522,7 +21902,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 830,
         "speed": 1,
         "crit_chance": 35,
         "crit_mult": 2.1,
@@ -21567,7 +21946,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -21730,7 +22109,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 290,
         "speed": 1.17,
         "crit_chance": 50,
         "crit_mult": 2.3,
@@ -21748,7 +22126,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -21837,7 +22215,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -21915,7 +22293,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 900,
         "speed": 5.55,
         "crit_chance": 27,
         "crit_mult": 2.1,
@@ -21931,7 +22308,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -21967,7 +22344,7 @@
     "multishot": 1,
     "name": "Kuva Grattler",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.60000002,
     "patchlogs": [
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
@@ -22043,7 +22420,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22079,7 +22456,7 @@
     "multishot": 7,
     "name": "Kuva Hek",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.69999999,
     "polarities": [  ],
     "procChance": 0.13285714,
     "productCategory": "LongGuns",
@@ -22101,16 +22478,16 @@
     "ammo": 540,
     "attacks": [
       {
-        "name": "Burst",
-        "speed": 9.09,
-        "crit_chance": 25,
-        "crit_mult": 2.1,
+        "name": "Auto",
+        "speed": 10,
+        "crit_chance": 21,
+        "crit_mult": 1.9,
         "status_chance": 33,
         "shot_type": "Hit-Scan",
         "damage": {
-          "impact": 7.5,
-          "slash": 15,
-          "puncture": 7.5
+          "impact": 6,
+          "slash": 18,
+          "puncture": 6
         }
       },
       {
@@ -22127,19 +22504,20 @@
         }
       },
       {
-        "name": "Auto",
-        "speed": 10,
-        "crit_chance": 21,
-        "crit_mult": 1.9,
+        "name": "Burst",
+        "speed": 9.09,
+        "crit_chance": 25,
+        "crit_mult": 2.1,
         "status_chance": 33,
+        "shot_type": "Hit-Scan",
         "damage": {
-          "impact": 6,
-          "slash": 18,
-          "puncture": 6
+          "impact": 7.5,
+          "slash": 15,
+          "puncture": 7.5
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22220,7 +22598,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22324,7 +22702,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22407,7 +22785,6 @@
       },
       {
         "name": "Rocket Explosion",
-        "radius": 790,
         "speed": 1.5,
         "crit_chance": 9,
         "crit_mult": 2,
@@ -22425,7 +22802,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22445,7 +22822,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 18.9, 191.10001, 155, 0, 0, 0, 0, 348.99997, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The custom weapon of a fearsome Kuva Lich. Unlike the basic version the Kuva Ogris fires detonite-infused casings semi-automatically, from a smaller magazine, while dealing greater damage per shot.",
-    "disposition": 3,
+    "disposition": 2,
     "fireRate": 1.5000001,
     "imageName": "kuva-ogris.png",
     "introduced": {
@@ -22461,7 +22838,7 @@
     "multishot": 1,
     "name": "Kuva Ogris",
     "noise": "Alarming",
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.85000002,
     "patchlogs": [
       {
         "name": "Warframe Revised: Hotfix 27.2.2",
@@ -22535,7 +22912,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22641,7 +23018,6 @@
       },
       {
         "name": "Grenade Explosion",
-        "radius": 700,
         "speed": 3.17,
         "crit_chance": 30,
         "crit_mult": 2.5,
@@ -22659,7 +23035,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22758,7 +23134,6 @@
       },
       {
         "name": "Cannon Mode Explosion",
-        "radius": 700,
         "speed": 2.17,
         "crit_chance": 25,
         "crit_mult": 2.5,
@@ -22774,12 +23149,30 @@
         }
       },
       {
-        "name": "Cannon Mode Cluster Bombs",
+        "name": "Cannon Mode Cluster Bomb Contact",
+        "speed": 2.17,
+        "crit_chance": 25,
+        "crit_mult": 2.5,
+        "status_chance": 31,
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
+        "damage": {
+          "impact": 15
+        }
+      },
+      {
+        "name": "Cannon Mode Cluster Bomb Explosion",
         "speed": 2.17,
         "crit_chance": 25,
         "crit_mult": 2.5,
         "status_chance": 31,
         "shot_type": "AoE",
+        "falloff": {
+          "start": 0,
+          "end": 3,
+          "reduction": 0.3
+        },
         "damage": {
           "blast": 50
         }
@@ -22805,7 +23198,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -22841,7 +23234,7 @@
     "multishot": 1,
     "name": "Kuva Zarr",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.60000002,
     "polarities": [ "Madurai", "Madurai", "Madurai" ],
     "procChance": 0.31,
     "productCategory": "LongGuns",
@@ -23015,7 +23408,7 @@
     "multishot": 1,
     "name": "Lanka",
     "noise": "Alarming",
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -24203,7 +24596,6 @@
       },
       {
         "name": "Initial Burst",
-        "radius": 720,
         "speed": 1,
         "crit_chance": 50,
         "crit_mult": 2,
@@ -24221,7 +24613,6 @@
       },
       {
         "name": "Bubble Collapse",
-        "radius": 720,
         "speed": 1,
         "crit_chance": 50,
         "crit_mult": 2,
@@ -24923,6 +25314,21 @@
     "ammo": 72,
     "attacks": [
       {
+        "name": "Uncharged Shot",
+        "speed": 1,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 15,
+        "shot_type": "Projectile",
+        "shot_speed": 70,
+        "flight": 70,
+        "damage": {
+          "impact": 5.75,
+          "slash": 23,
+          "puncture": 86.25
+        }
+      },
+      {
         "name": "Charged Shot",
         "speed": 1,
         "crit_chance": 30,
@@ -24936,21 +25342,6 @@
           "impact": 11.5,
           "slash": 34.5,
           "puncture": 184
-        }
-      },
-      {
-        "name": "Uncharged Shot",
-        "speed": 1,
-        "crit_chance": 30,
-        "crit_mult": 2,
-        "status_chance": 15,
-        "shot_type": "Projectile",
-        "shot_speed": 70,
-        "flight": 70,
-        "damage": {
-          "impact": 5.75,
-          "slash": 23,
-          "puncture": 86.25
         }
       }
     ],
@@ -25110,6 +25501,21 @@
     "ammo": 72,
     "attacks": [
       {
+        "name": "Uncharged Shot",
+        "speed": 1,
+        "crit_chance": 15,
+        "crit_mult": 2,
+        "status_chance": 49,
+        "shot_type": "Projectile",
+        "shot_speed": 70,
+        "flight": 70,
+        "damage": {
+          "impact": 184.5,
+          "slash": 10.25,
+          "puncture": 10.25
+        }
+      },
+      {
         "name": "Charged Shot",
         "speed": 1,
         "crit_chance": 15,
@@ -25126,30 +25532,14 @@
         }
       },
       {
-        "name": "Uncharged Shot",
+        "name": "Toxin Cloud",
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
         "status_chance": 49,
-        "shot_type": "Projectile",
-        "shot_speed": 70,
-        "flight": 70,
-        "damage": {
-          "impact": 184.5,
-          "slash": 10.25,
-          "puncture": 10.25
-        }
-      },
-      {
-        "name": "Toxin Cloud",
-        "radius": 300,
-        "speed": 1,
-        "crit_chance": 0,
-        "crit_mult": 1,
-        "status_chance": 0,
         "shot_type": "AoE",
         "damage": {
-          "toxin": 55
+          "toxin": 5
         }
       }
     ],
@@ -25412,7 +25802,6 @@
       },
       {
         "name": "Infested Orb",
-        "radius": 200,
         "speed": 10,
         "crit_chance": 0,
         "crit_mult": 0,
@@ -25431,7 +25820,6 @@
       },
       {
         "name": "Orb Explosion",
-        "radius": 440,
         "speed": 10,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -25878,7 +26266,6 @@
       },
       {
         "name": "Rocket Explosion",
-        "radius": 710,
         "speed": 1.5,
         "crit_chance": 5,
         "crit_mult": 2,
@@ -26292,7 +26679,6 @@
       },
       {
         "name": "Charged Shot AoE",
-        "radius": 600,
         "speed": 1,
         "crit_chance": 20,
         "crit_mult": 2.5,
@@ -26322,7 +26708,6 @@
       },
       {
         "name": "Quick Shot AoE",
-        "radius": 600,
         "speed": 1,
         "crit_chance": 20,
         "crit_mult": 2.5,
@@ -26394,7 +26779,7 @@
     "criticalMultiplier": 2.5,
     "damagePerShot": [ 100, 850, 49.999954, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Once charged this Corpus laser cannon dispatches a devastating blast of light energy.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 1,
     "imageName": "opticor.png",
     "introduced": {
@@ -26410,7 +26795,7 @@
     "multishot": 1,
     "name": "Opticor",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -26781,7 +27166,6 @@
       },
       {
         "name": "Charged Shot AoE",
-        "radius": 460,
         "speed": 2,
         "crit_chance": 24,
         "crit_mult": 2.6,
@@ -26810,7 +27194,6 @@
       },
       {
         "name": "Quick Shot AoE",
-        "radius": 460,
         "speed": 2,
         "crit_chance": 24,
         "crit_mult": 2.6,
@@ -26846,7 +27229,7 @@
     "multishot": 1,
     "name": "Opticor Vandal",
     "noise": "Alarming",
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "patchlogs": [
       {
         "name": "Warframe Revised: Hotfix 27.2.2",
@@ -27391,7 +27774,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 160,
         "speed": 2,
         "crit_chance": 26,
         "crit_mult": 2,
@@ -27531,6 +27913,12 @@
             "type": "Panthera Prime Blueprint"
           },
           {
+            "chance": 0.1667,
+            "location": "Neo P3 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Blueprint"
+          },
+          {
             "chance": 0.2,
             "location": "Axi C5 Relic (Flawless)",
             "rarity": "Uncommon",
@@ -27551,6 +27939,12 @@
           {
             "chance": 0.2,
             "location": "Axi Z1 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo P3 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Panthera Prime Blueprint"
           },
@@ -27579,6 +27973,12 @@
             "type": "Panthera Prime Blueprint"
           },
           {
+            "chance": 0.2333,
+            "location": "Neo P3 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Blueprint"
+          },
+          {
             "chance": 0.2533,
             "location": "Axi C5 Relic",
             "rarity": "Uncommon",
@@ -27599,6 +27999,12 @@
           {
             "chance": 0.2533,
             "location": "Axi Z1 Relic",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo P3 Relic",
             "rarity": "Uncommon",
             "type": "Panthera Prime Blueprint"
           }
@@ -27684,6 +28090,12 @@
         "drops": [
           {
             "chance": 0.11,
+            "location": "Axi M2 Relic",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Stock"
+          },
+          {
+            "chance": 0.11,
             "location": "Lith G3 Relic",
             "rarity": "Uncommon",
             "type": "Panthera Prime Stock"
@@ -27697,6 +28109,12 @@
           {
             "chance": 0.11,
             "location": "Meso T5 Relic",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Stock"
+          },
+          {
+            "chance": 0.13,
+            "location": "Axi M2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Panthera Prime Stock"
           },
@@ -27720,6 +28138,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Axi M2 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Stock"
+          },
+          {
+            "chance": 0.17,
             "location": "Lith G3 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Panthera Prime Stock"
@@ -27733,6 +28157,12 @@
           {
             "chance": 0.17,
             "location": "Meso T5 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Panthera Prime Stock"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi M2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Panthera Prime Stock"
           },
@@ -27764,7 +28194,7 @@
     "damagePerShot": [ 20, 10, 90, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "The max-velocity saw-launcher perfected. Features a larger magazine, faster fire rate, and a radial, slashing ricochet.",
     "disposition": 4,
-    "estimatedVaultDate": "2022 05 21",
+    "estimatedVaultDate": "2022 07 20",
     "fireRate": 3.6666667,
     "imageName": "panthera-prime.png",
     "introduced": {
@@ -27779,7 +28209,7 @@
     "multishot": 1,
     "name": "Panthera Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 1.15,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "Orphix Venom: Hotfix 29.6.3",
@@ -28518,6 +28948,12 @@
         "drops": [
           {
             "chance": 0.1667,
+            "location": "Axi A14 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Axi E2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint"
@@ -28621,6 +29057,12 @@
           {
             "chance": 0.1667,
             "location": "Neo Z1 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi A14 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint"
           },
@@ -28734,6 +29176,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi A14 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Axi E2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint"
@@ -28837,6 +29285,12 @@
           {
             "chance": 0.2333,
             "location": "Neo Z1 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi A14 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Blueprint"
           },
@@ -28985,6 +29439,12 @@
           },
           {
             "chance": 0.11,
+            "location": "Meso B6 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip"
+          },
+          {
+            "chance": 0.11,
             "location": "Meso S2 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip"
@@ -29040,6 +29500,12 @@
           {
             "chance": 0.13,
             "location": "Lith S7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip"
+          },
+          {
+            "chance": 0.13,
+            "location": "Meso B6 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip"
           },
@@ -29105,6 +29571,12 @@
           },
           {
             "chance": 0.17,
+            "location": "Meso B6 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip"
+          },
+          {
+            "chance": 0.17,
             "location": "Meso S2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip"
@@ -29160,6 +29632,12 @@
           {
             "chance": 0.2,
             "location": "Lith S7 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Grip"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso B6 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Grip"
           },
@@ -29238,6 +29716,12 @@
           {
             "chance": 0.1667,
             "location": "Lith C4 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb"
+          },
+          {
+            "chance": 0.1667,
+            "location": "Lith K7 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb"
           },
@@ -29357,6 +29841,12 @@
           },
           {
             "chance": 0.2,
+            "location": "Lith K7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb"
+          },
+          {
+            "chance": 0.2,
             "location": "Lith T4 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb"
@@ -29471,6 +29961,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Lith K7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb"
+          },
+          {
+            "chance": 0.2333,
             "location": "Lith T4 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb"
@@ -29580,6 +30076,12 @@
           {
             "chance": 0.2533,
             "location": "Lith C4 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Lower Limb"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Lith K7 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Lower Limb"
           },
@@ -29729,6 +30231,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Meso S10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String"
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso S2 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime String"
@@ -29838,6 +30346,12 @@
           {
             "chance": 0.2,
             "location": "Meso N9 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String"
+          },
+          {
+            "chance": 0.2,
+            "location": "Meso S10 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime String"
           },
@@ -29957,6 +30471,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Meso S10 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String"
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso S2 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime String"
@@ -30066,6 +30586,12 @@
           {
             "chance": 0.2533,
             "location": "Meso N9 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime String"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Meso S10 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime String"
           },
@@ -30275,6 +30801,12 @@
           },
           {
             "chance": 0.1667,
+            "location": "Neo N17 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb"
+          },
+          {
+            "chance": 0.1667,
             "location": "Neo S12 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb"
@@ -30401,6 +30933,12 @@
           },
           {
             "chance": 0.2,
+            "location": "Neo N17 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb"
+          },
+          {
+            "chance": 0.2,
             "location": "Neo S12 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb"
@@ -30491,6 +31029,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Neo N17 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb"
+          },
+          {
+            "chance": 0.2333,
             "location": "Neo S12 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb"
@@ -30570,6 +31114,12 @@
           {
             "chance": 0.2533,
             "location": "Meso T5 Relic",
+            "rarity": "Uncommon",
+            "type": "Paris Prime Upper Limb"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Neo N17 Relic",
             "rarity": "Uncommon",
             "type": "Paris Prime Upper Limb"
           },
@@ -30804,7 +31354,6 @@
       },
       {
         "name": "Grenade Detonation",
-        "radius": 400,
         "speed": 1,
         "crit_chance": 10,
         "crit_mult": 2,
@@ -31507,7 +32056,6 @@
       },
       {
         "name": "Plasma Bomb Explosion",
-        "radius": 480,
         "speed": 2,
         "crit_chance": 3,
         "crit_mult": 1.5,
@@ -32207,7 +32755,6 @@
       },
       {
         "name": "Appendages",
-        "radius": 900,
         "speed": 1,
         "crit_chance": 7,
         "crit_mult": 1.9,
@@ -32226,7 +32773,6 @@
       },
       {
         "name": "Charged Shot Explosion",
-        "radius": 700,
         "speed": 1,
         "crit_chance": 7,
         "crit_mult": 1.9,
@@ -32282,6 +32828,21 @@
         "tradable": false,
         "attacks": [
           {
+            "name": "Uncharged Shot",
+            "speed": 1,
+            "crit_chance": 15,
+            "crit_mult": 2,
+            "status_chance": 49,
+            "shot_type": "Projectile",
+            "shot_speed": 70,
+            "flight": 70,
+            "damage": {
+              "impact": 184.5,
+              "slash": 10.25,
+              "puncture": 10.25
+            }
+          },
+          {
             "name": "Charged Shot",
             "speed": 1,
             "crit_chance": 15,
@@ -32298,30 +32859,14 @@
             }
           },
           {
-            "name": "Uncharged Shot",
+            "name": "Toxin Cloud",
             "speed": 1,
             "crit_chance": 15,
             "crit_mult": 2,
             "status_chance": 49,
-            "shot_type": "Projectile",
-            "shot_speed": 70,
-            "flight": 70,
-            "damage": {
-              "impact": 184.5,
-              "slash": 10.25,
-              "puncture": 10.25
-            }
-          },
-          {
-            "name": "Toxin Cloud",
-            "radius": 300,
-            "speed": 1,
-            "crit_chance": 0,
-            "crit_mult": 1,
-            "status_chance": 0,
             "shot_type": "AoE",
             "damage": {
-              "toxin": 55
+              "toxin": 5
             }
           }
         ],
@@ -32392,7 +32937,7 @@
     "multishot": 1,
     "name": "Proboscis Cernos",
     "noise": "Silent",
-    "omegaAttenuation": 0.55000001,
+    "omegaAttenuation": 0.60000002,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Hotfix 29.5.1",
@@ -32444,7 +32989,6 @@
       },
       {
         "name": "Cube (shot by player)",
-        "radius": 600,
         "speed": 4,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -32468,7 +33012,6 @@
       },
       {
         "name": "Cube Explosion",
-        "radius": 50,
         "speed": 4,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -32877,7 +33420,6 @@
       },
       {
         "name": "Cube (shot by player)",
-        "radius": 600,
         "speed": 4,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -32901,7 +33443,6 @@
       },
       {
         "name": "Cube Explosion",
-        "radius": 50,
         "speed": 4,
         "crit_chance": 5,
         "crit_mult": 1.5,
@@ -33234,7 +33775,7 @@
     "ammo": 900,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Auto",
         "speed": 6,
         "crit_chance": 12,
         "crit_mult": 1.6,
@@ -33248,7 +33789,7 @@
         }
       },
       {
-        "name": "Charged",
+        "name": "Alt-Fire",
         "speed": 1,
         "crit_chance": 40,
         "crit_mult": 2.2,
@@ -33558,7 +34099,7 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
         "speed": 2.67,
         "crit_chance": 30,
         "crit_mult": 3,
@@ -33566,7 +34107,8 @@
         "shot_type": "Hit-Scan",
         "falloff": {
           "start": 400,
-          "end": 600
+          "end": 600,
+          "reduction": 0.5
         },
         "damage": {
           "impact": 144,
@@ -33647,7 +34189,7 @@
     "multishot": 1,
     "name": "Rubico",
     "noise": "Alarming",
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.94999999,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: Prime Vault: Hotfix 30.0.8 + 30.0.8.1",
@@ -33767,7 +34309,7 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
         "speed": 3.67,
         "crit_chance": 38,
         "crit_mult": 3,
@@ -34621,7 +35163,7 @@
     "multishot": 6,
     "name": "Sancti Tigris",
     "noise": "Alarming",
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -34690,7 +35232,6 @@
       },
       {
         "name": "Explosion",
-        "radius": 170,
         "speed": 2.67,
         "crit_chance": 2,
         "crit_mult": 1.5,
@@ -34720,7 +35261,6 @@
       },
       {
         "name": "Spear Explosion",
-        "radius": 700,
         "speed": 1,
         "crit_chance": 4,
         "crit_mult": 2,
@@ -34958,7 +35498,6 @@
       },
       {
         "name": "Grenade Detonation",
-        "radius": 600,
         "speed": 2,
         "crit_chance": 26,
         "crit_mult": 2,
@@ -35079,7 +35618,6 @@
       },
       {
         "name": "Radial Attack",
-        "radius": 660,
         "speed": 2.5,
         "crit_chance": 25,
         "crit_mult": 2.1,
@@ -35196,6 +35734,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 0.80000001,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed Reload Speed Mods affecting the Shedu's ammo regeneration delay."
+      },
       {
         "name": "Update 29.5: Deimos Arcana",
         "date": "2020-11-19T23:39:27Z",
@@ -35350,7 +35896,6 @@
       },
       {
         "name": "Orb Explosion",
-        "radius": 500,
         "speed": 3,
         "crit_chance": 12,
         "crit_mult": 2,
@@ -35758,7 +36303,43 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 2,
+        "crit_chance": 30,
+        "crit_mult": 1.5,
+        "status_chance": 12,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 18,
+          "slash": 18,
+          "puncture": 144
+        }
+      },
+      {
+        "name": "2.5x Zoom",
+        "speed": 2,
+        "crit_chance": 30,
+        "crit_mult": 1.5,
+        "status_chance": 12,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 18,
+          "slash": 18,
+          "puncture": 144
+        }
+      },
+      {
+        "name": "6x Zoom",
         "speed": 2,
         "crit_chance": 30,
         "crit_mult": 1.5,
@@ -35849,6 +36430,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 1.3,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Snipetron ",
+        "fixes": ""
+      },
       {
         "name": "Empyrean: Update 27",
         "date": "2019-12-13T02:34:29Z",
@@ -36047,7 +36636,43 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 2,
+        "crit_chance": 28,
+        "crit_mult": 2,
+        "status_chance": 16,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 10,
+          "slash": 10,
+          "puncture": 180
+        }
+      },
+      {
+        "name": "2.5x Zoom",
+        "speed": 2,
+        "crit_chance": 28,
+        "crit_mult": 2,
+        "status_chance": 16,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 10,
+          "slash": 10,
+          "puncture": 180
+        }
+      },
+      {
+        "name": "6x Zoom",
         "speed": 2,
         "crit_chance": 28,
         "crit_mult": 2,
@@ -36494,7 +37119,7 @@
     "criticalMultiplier": 3,
     "damagePerShot": [ 1.2, 4.8000002, 6, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Accuracy coupled with a massive magazine makes the Soma assault rifle a formidable weapon.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 15.000001,
     "imageName": "soma.png",
     "introduced": {
@@ -36510,7 +37135,7 @@
     "multishot": 1,
     "name": "Soma",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: Update 30",
@@ -37456,7 +38081,7 @@
     "multishot": 1,
     "name": "Soma Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 1,
+    "omegaAttenuation": 1.05,
     "patchlogs": [
       {
         "name": "Update 29.5: Deimos Arcana",
@@ -37634,7 +38259,7 @@
     "ammo": 45,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
         "speed": 1.83,
         "crit_chance": 1,
         "crit_mult": 3,
@@ -37654,8 +38279,27 @@
         }
       },
       {
-        "name": "Normal",
-        "radius": 170,
+        "name": "2.7x Zoom",
+        "speed": 1.83,
+        "crit_chance": 1,
+        "crit_mult": 3,
+        "status_chance": 53,
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 100.17,
+          "slash": 155.82,
+          "puncture": 115.01
+        }
+      },
+      {
+        "name": "AoE",
         "speed": 1.83,
         "crit_chance": 1,
         "crit_mult": 3,
@@ -37876,7 +38520,7 @@
     "criticalMultiplier": 3,
     "damagePerShot": [ 100.17001, 115.01, 155.81998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "This long-distance rifle fires a razor-sharp, virus-soaked barb that continues to attack its host before violently erupting in a spore-laden mist. Scoped headshots increase lethality.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 1.8333334,
     "imageName": "sporothrix.png",
     "introduced": {
@@ -37891,7 +38535,7 @@
     "multishot": 1,
     "name": "Sporothrix",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "Deimos: Arcana: Prime Vault 29.5.9",
@@ -37939,7 +38583,7 @@
     "ammo": 300,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Auto",
         "speed": 6,
         "crit_chance": 24,
         "crit_mult": 1.8,
@@ -37954,7 +38598,7 @@
         }
       },
       {
-        "name": "Charged Shot Projectile",
+        "name": "Alt-fire",
         "speed": 0.667,
         "crit_chance": 40,
         "crit_mult": 3,
@@ -37970,12 +38614,12 @@
         }
       },
       {
-        "name": "Charged Shot Explosion",
-        "radius": 720,
+        "name": "Alt-Fire AoE",
         "speed": 0.667,
         "crit_chance": 40,
         "crit_mult": 3,
         "status_chance": 32,
+        "charge_time": 1.6,
         "shot_type": "AoE",
         "falloff": {
           "start": 0,
@@ -38062,7 +38706,7 @@
     "criticalMultiplier": 1.8,
     "damagePerShot": [ 7.2800002, 16.639999, 28.080002, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Nail them to the wall! The Stahlta automatic rifle propels hardened steel rods at high speed, while a charged fire mode fuses a number of volatile rods together for a large radioactive explosion.",
-    "disposition": 2,
+    "disposition": 3,
     "fireRate": 6.0000005,
     "imageName": "stahlta.png",
     "introduced": {
@@ -38078,7 +38722,7 @@
     "multishot": 1,
     "name": "Stahlta",
     "noise": "Alarming",
-    "omegaAttenuation": 0.85000002,
+    "omegaAttenuation": 0.89999998,
     "patchlogs": [
       {
         "name": "Orphix Venom: Hotfix 29.6.8 + 29.6.8.1",
@@ -39149,6 +39793,14 @@
     "omegaAttenuation": 1.4,
     "patchlogs": [
       {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Strun Prime",
+        "fixes": ""
+      },
+      {
         "name": "Empyrean: Update 27",
         "date": "2019-12-13T02:34:29Z",
         "url": "https://forums.warframe.com/topic/1151428-empyrean-update-27/",
@@ -39395,6 +40047,237 @@
     "uniqueName": "/Lotus/Weapons/Tenno/Shotgun/Shotgun",
     "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/2/26/Strun.png/revision/latest?cb=20161125225500",
     "wikiaUrl": "http://warframe.fandom.com/wiki/Strun"
+  },
+  {
+    "accuracy": 9.090909,
+    "ammo": 120,
+    "attacks": [
+      {
+        "name": "Normal",
+        "speed": 3.33,
+        "crit_chance": 24,
+        "crit_mult": 2.2,
+        "status_chance": 6.67,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 26,
+          "end": 52,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 19.8,
+          "slash": 17.6,
+          "puncture": 6.6
+        }
+      }
+    ],
+    "buildPrice": 15000,
+    "buildQuantity": 1,
+    "buildTime": 43200,
+    "category": "Primary",
+    "components": [
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeBarrel",
+        "name": "Barrel",
+        "description": "A prime weapon-crafting component.",
+        "primeSellingPrice": 45,
+        "itemCount": 1,
+        "imageName": "prime-barrel.png",
+        "tradable": true,
+        "drops": [
+          {
+            "chance": 0.11,
+            "location": "Lith T7 Relic",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Barrel"
+          },
+          {
+            "chance": 0.13,
+            "location": "Lith T7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Barrel"
+          },
+          {
+            "chance": 0.17,
+            "location": "Lith T7 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Barrel"
+          },
+          {
+            "chance": 0.2,
+            "location": "Lith T7 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Barrel"
+          }
+        ],
+        "ducats": 45
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/StrunPrimeBlueprint",
+        "name": "Blueprint",
+        "description": "A classic shotgun design, embellished for the elite as only the Orokin could.",
+        "itemCount": 1,
+        "primeSellingPrice": 100,
+        "imageName": "blueprint.png",
+        "tradable": true,
+        "ducats": 100,
+        "drops": [
+          {
+            "chance": 0.02,
+            "location": "Meso S10 Relic",
+            "rarity": "Rare",
+            "type": "Strun Prime Blueprint"
+          },
+          {
+            "chance": 0.04,
+            "location": "Meso S10 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Strun Prime Blueprint"
+          },
+          {
+            "chance": 0.06,
+            "location": "Meso S10 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Strun Prime Blueprint"
+          },
+          {
+            "chance": 0.1,
+            "location": "Meso S10 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Blueprint"
+          }
+        ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Items/MiscItems/OrokinCell",
+        "name": "Orokin Cell",
+        "description": "Ancient energy cell from the Orokin era.Locations: Ceres, Saturn, and Deimos.",
+        "itemCount": 10,
+        "imageName": "orokin-cell.png",
+        "tradable": false,
+        "drops": [  ]
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeReceiver",
+        "name": "Receiver",
+        "description": "A prime weapon-crafting component.",
+        "primeSellingPrice": 15,
+        "itemCount": 1,
+        "imageName": "prime-receiver.png",
+        "tradable": true,
+        "drops": [
+          {
+            "chance": 0.1667,
+            "location": "Axi I2 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Receiver"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi I2 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Receiver"
+          },
+          {
+            "chance": 0.2333,
+            "location": "Axi I2 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Receiver"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi I2 Relic",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Receiver"
+          }
+        ],
+        "ducats": 15
+      },
+      {
+        "uniqueName": "/Lotus/Types/Recipes/Weapons/WeaponParts/StrunPrimeStock",
+        "name": "Stock",
+        "description": "A prime weapon-crafting component.",
+        "primeSellingPrice": 45,
+        "itemCount": 1,
+        "imageName": "prime-stock.png",
+        "tradable": true,
+        "drops": [
+          {
+            "chance": 0.11,
+            "location": "Neo N17 Relic",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Stock"
+          },
+          {
+            "chance": 0.13,
+            "location": "Neo N17 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Stock"
+          },
+          {
+            "chance": 0.17,
+            "location": "Neo N17 Relic (Flawless)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Stock"
+          },
+          {
+            "chance": 0.2,
+            "location": "Neo N17 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Strun Prime Stock"
+          }
+        ],
+        "ducats": 45
+      }
+    ],
+    "consumeOnBuild": true,
+    "criticalChance": 0.23999999,
+    "criticalMultiplier": 2.2,
+    "damagePerShot": [ 19.799999, 6.6000004, 17.599998, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
+    "description": "A classic shotgun design, embellished for the elite as only the Orokin could.",
+    "disposition": 1,
+    "estimatedVaultDate": "2023 09 13",
+    "fireRate": 3.3333335,
+    "imageName": "strun-prime.png",
+    "introduced": {
+      "name": "Update 30.7",
+      "url": "http://warframe.fandom.com/wiki/Update_30%23Update_30.7",
+      "aliases": [ "30.7" ],
+      "parent": "30.7",
+      "date": "2021-09-08"
+    },
+    "magazineSize": 10,
+    "masteryReq": 14,
+    "multishot": 12,
+    "name": "Strun Prime",
+    "noise": "Alarming",
+    "omegaAttenuation": 0.5,
+    "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "Strun Prime",
+        "fixes": ""
+      }
+    ],
+    "polarities": [ "Naramon", "Madurai", "Madurai" ],
+    "procChance": 0.066666663,
+    "productCategory": "LongGuns",
+    "releaseDate": "2021 09 08",
+    "reloadTime": 4.5999999,
+    "skipBuildTimePrice": 50,
+    "slot": 1,
+    "tags": [ "Prime" ],
+    "totalDamage": 44,
+    "tradable": true,
+    "trigger": "Semi",
+    "type": "Shotgun",
+    "uniqueName": "/Lotus/Weapons/Tenno/LongGuns/PrimeStrun/PrimeStrunWeapon",
+    "vaultDate": "n/a",
+    "wikiaThumbnail": "https://static.wikia.nocookie.net/warframe/images/d/d0/StrunPrime.png/revision/latest?cb=20210908230230",
+    "wikiaUrl": "http://warframe.fandom.com/wiki/Strun_Prime"
   },
   {
     "accuracy": 6.6666665,
@@ -39695,7 +40578,7 @@
     "multishot": 1,
     "name": "Supra",
     "noise": "Alarming",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Gara Prime: Update 30.3.0",
@@ -39954,7 +40837,7 @@
     "multishot": 1,
     "name": "Supra Vandal",
     "noise": "Alarming",
-    "omegaAttenuation": 0.94999999,
+    "omegaAttenuation": 1,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -40240,7 +41123,7 @@
     "multishot": 1,
     "name": "Sybaris",
     "noise": "Alarming",
-    "omegaAttenuation": 1.25,
+    "omegaAttenuation": 1.3,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -40961,7 +41844,7 @@
     "multishot": 1,
     "name": "Sybaris Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 1.15,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -41190,7 +42073,6 @@
     "attacks": [
       {
         "name": "Orb Merging Damage",
-        "radius": 400,
         "speed": 3.33,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -41207,7 +42089,6 @@
       },
       {
         "name": "Orb Explosion",
-        "radius": 500,
         "speed": 3.33,
         "crit_chance": 14,
         "crit_mult": 2,
@@ -41224,7 +42105,6 @@
       },
       {
         "name": "Singularity",
-        "radius": 500,
         "speed": 4,
         "crit_chance": 0,
         "crit_mult": 0,
@@ -41519,7 +42399,7 @@
     "multishot": 1,
     "name": "Telos Boltor",
     "noise": "Alarming",
-    "omegaAttenuation": 1.15,
+    "omegaAttenuation": 1.2,
     "patchlogs": [
       {
         "name": "Update 28: The Deadlock Protocol",
@@ -41608,7 +42488,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -41680,7 +42560,6 @@
       },
       {
         "name": "Rocket Explosion",
-        "radius": 800,
         "speed": 0.83,
         "crit_chance": 28,
         "crit_mult": 2.6,
@@ -41696,7 +42575,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -41734,6 +42613,14 @@
     "noise": "Alarming",
     "omegaAttenuation": 0.5,
     "patchlogs": [
+      {
+        "name": "Update 30.7: Nidus Prime & Plague Star",
+        "date": "2021-09-08T16:58:55Z",
+        "url": "https://forums.warframe.com/topic/1279845-update-307-nidus-prime-plague-star/",
+        "additions": "",
+        "changes": "",
+        "fixes": "Fixed the Tenet Envoy's guided rockets being unable to pass through Volt's Shield and Gara's Vitrify."
+      },
       {
         "name": "Sisters of Parvos: Hotfix 30.5.5",
         "date": "2021-07-29T17:08:32Z",
@@ -41800,7 +42687,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -41836,7 +42723,7 @@
     "multishot": 1,
     "name": "Tenet Flux Rifle",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.69999999,
     "patchlogs": [
       {
         "name": "Nightwave: Prime Vault: Hotfix 30.6.1",
@@ -41896,8 +42783,7 @@
         }
       },
       {
-        "name": "Grenade Explosion",
-        "radius": 800,
+        "name": "Grenade AoE",
         "speed": 1.33,
         "crit_chance": 28,
         "crit_mult": 2.2,
@@ -41913,7 +42799,7 @@
         }
       }
     ],
-    "buildPrice": 0,
+    "buildPrice": 10000,
     "buildQuantity": 1,
     "buildTime": 60,
     "category": "Primary",
@@ -41949,7 +42835,7 @@
     "multishot": 1,
     "name": "Tenet Tetra",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.69999999,
     "patchlogs": [
       {
         "name": "Sisters of Parvos: Hotfix 30.5.4",
@@ -42218,6 +43104,12 @@
             "type": "Tenora Prime Barrel"
           },
           {
+            "chance": 0.02,
+            "location": "Neo T5 Relic",
+            "rarity": "Rare",
+            "type": "Tenora Prime Barrel"
+          },
+          {
             "chance": 0.04,
             "location": "Lith T5 Relic (Exceptional)",
             "rarity": "Rare",
@@ -42226,6 +43118,12 @@
           {
             "chance": 0.04,
             "location": "Meso T5 Relic (Exceptional)",
+            "rarity": "Rare",
+            "type": "Tenora Prime Barrel"
+          },
+          {
+            "chance": 0.04,
+            "location": "Neo T5 Relic (Exceptional)",
             "rarity": "Rare",
             "type": "Tenora Prime Barrel"
           },
@@ -42242,6 +43140,12 @@
             "type": "Tenora Prime Barrel"
           },
           {
+            "chance": 0.06,
+            "location": "Neo T5 Relic (Flawless)",
+            "rarity": "Rare",
+            "type": "Tenora Prime Barrel"
+          },
+          {
             "chance": 0.1,
             "location": "Lith T5 Relic (Radiant)",
             "rarity": "Uncommon",
@@ -42250,6 +43154,12 @@
           {
             "chance": 0.1,
             "location": "Meso T5 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Tenora Prime Barrel"
+          },
+          {
+            "chance": 0.1,
+            "location": "Neo T5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Tenora Prime Barrel"
           }
@@ -42268,6 +43178,12 @@
         "drops": [
           {
             "chance": 0.1667,
+            "location": "Axi I2 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Tenora Prime Blueprint"
+          },
+          {
+            "chance": 0.1667,
             "location": "Meso P5 Relic (Radiant)",
             "rarity": "Uncommon",
             "type": "Tenora Prime Blueprint"
@@ -42275,6 +43191,12 @@
           {
             "chance": 0.1667,
             "location": "Neo B7 Relic (Radiant)",
+            "rarity": "Uncommon",
+            "type": "Tenora Prime Blueprint"
+          },
+          {
+            "chance": 0.2,
+            "location": "Axi I2 Relic (Flawless)",
             "rarity": "Uncommon",
             "type": "Tenora Prime Blueprint"
           },
@@ -42292,6 +43214,12 @@
           },
           {
             "chance": 0.2333,
+            "location": "Axi I2 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Tenora Prime Blueprint"
+          },
+          {
+            "chance": 0.2333,
             "location": "Meso P5 Relic (Exceptional)",
             "rarity": "Uncommon",
             "type": "Tenora Prime Blueprint"
@@ -42299,6 +43227,12 @@
           {
             "chance": 0.2333,
             "location": "Neo B7 Relic (Exceptional)",
+            "rarity": "Uncommon",
+            "type": "Tenora Prime Blueprint"
+          },
+          {
+            "chance": 0.2533,
+            "location": "Axi I2 Relic",
             "rarity": "Uncommon",
             "type": "Tenora Prime Blueprint"
           },
@@ -42451,8 +43385,8 @@
     "criticalMultiplier": 2.2,
     "damagePerShot": [ 8.4000006, 11.2, 8.3999987, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Add lethal staccato percussion to Octavia's melodies with this masterpiece assault rifle.",
-    "disposition": 1,
-    "estimatedVaultDate": "2022 11 17",
+    "disposition": 2,
+    "estimatedVaultDate": "2023 02 15",
     "fireRate": 12.666667,
     "imageName": "tenora-prime.png",
     "introduced": {
@@ -42467,7 +43401,7 @@
     "multishot": 1,
     "name": "Tenora Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 0.5,
+    "omegaAttenuation": 0.80000001,
     "patchlogs": [
       {
         "name": "Octavia Prime: Hotfix 29.9.1",
@@ -42982,11 +43916,11 @@
     "ammo": 540,
     "attacks": [
       {
-        "name": "Burst",
-        "speed": 7.38,
-        "crit_chance": 28,
-        "crit_mult": 3,
-        "status_chance": 20,
+        "name": "Auto",
+        "speed": 8.33,
+        "crit_chance": 16,
+        "crit_mult": 2.8,
+        "status_chance": 32,
         "shot_type": "Hit-Scan",
         "damage": {
           "impact": 13.8,
@@ -43008,11 +43942,11 @@
         }
       },
       {
-        "name": "Auto",
-        "speed": 8.33,
-        "crit_chance": 16,
-        "crit_mult": 2.8,
-        "status_chance": 32,
+        "name": "Burst",
+        "speed": 7.38,
+        "crit_chance": 28,
+        "crit_mult": 3,
+        "status_chance": 20,
         "shot_type": "Hit-Scan",
         "damage": {
           "impact": 13.8,
@@ -43561,7 +44495,7 @@
     "multishot": 1,
     "name": "Tiberon Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 0.89999998,
+    "omegaAttenuation": 0.94999999,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: Prime Vault: Hotfix 30.0.8 + 30.0.8.1",
@@ -44540,7 +45474,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 19.5, 19.5, 156, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "An artifact of exquisite beauty. A weapon of deadly purpose.",
-    "disposition": 2,
+    "disposition": 3,
     "estimatedVaultDate": "2018 06 19",
     "fireRate": 2,
     "imageName": "tigris-prime.png",
@@ -44556,7 +45490,7 @@
     "multishot": 8,
     "name": "Tigris Prime",
     "noise": "Alarming",
-    "omegaAttenuation": 0.85000002,
+    "omegaAttenuation": 0.89999998,
     "patchlogs": [
       {
         "name": "Shrine of the Eidolon: Hotfix 22.12.3",
@@ -44620,7 +45554,6 @@
       },
       {
         "name": "Grenade Explosion",
-        "radius": 700,
         "speed": 3.17,
         "crit_chance": 25,
         "crit_mult": 2.5,
@@ -44996,7 +45929,6 @@
       },
       {
         "name": "Poison Cloud",
-        "radius": 300,
         "speed": 1,
         "crit_chance": 15,
         "crit_mult": 2,
@@ -45367,8 +46299,7 @@
         }
       },
       {
-        "name": "Auto Radial Attack",
-        "radius": 160,
+        "name": "Auto AoE",
         "speed": 4.67,
         "crit_chance": 24,
         "crit_mult": 2.2,
@@ -45394,8 +46325,7 @@
         }
       },
       {
-        "name": "Grenade Explosion on Bounce",
-        "radius": 600,
+        "name": "Grenade Bounce AoE",
         "speed": 1.33,
         "crit_chance": 38,
         "crit_mult": 2.4,
@@ -45468,7 +46398,7 @@
     "criticalMultiplier": 2.2,
     "damagePerShot": [ 29, 0, 0, 53, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "An ancient weapon designed by the Entrati. Primary fire siphons life essence from the target to fuel a devastating secondary fire. A heavy, oversized automatic rifle with withering fire that delivers rapid heat damage. Secondary fire unleashes an arcing projectile that ricochets off surfaces and enemies, exploding on every impact.",
-    "disposition": 1,
+    "disposition": 2,
     "fireRate": 4.666667,
     "imageName": "trumna.png",
     "introduced": {
@@ -45483,7 +46413,7 @@
     "multishot": 1,
     "name": "Trumna",
     "noise": "Alarming",
-    "omegaAttenuation": 0.75,
+    "omegaAttenuation": 0.80000001,
     "patchlogs": [
       {
         "name": "Call of the Tempestarii: TennoGen: Update 30.2.0",
@@ -45570,7 +46500,7 @@
     "criticalMultiplier": 2,
     "damagePerShot": [ 11.25, 48.75, 15.000004, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0 ],
     "description": "Forged in the fires of rebel struggle, this shotgun is a force for liberation.",
-    "disposition": 3,
+    "disposition": 4,
     "fireRate": 3.0000002,
     "imageName": "vaykor-hek.png",
     "introduced": {
@@ -45585,7 +46515,7 @@
     "multishot": 7,
     "name": "Vaykor Hek",
     "noise": "Alarming",
-    "omegaAttenuation": 1.1,
+    "omegaAttenuation": 1.15,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -45648,7 +46578,43 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 1.5,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 30,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 90,
+          "slash": 56.25,
+          "puncture": 78.75
+        }
+      },
+      {
+        "name": "3x Zoom",
+        "speed": 1.5,
+        "crit_chance": 25,
+        "crit_mult": 2,
+        "status_chance": 30,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 90,
+          "slash": 56.25,
+          "puncture": 78.75
+        }
+      },
+      {
+        "name": "4.5x Zoom",
         "speed": 1.5,
         "crit_chance": 25,
         "crit_mult": 2,
@@ -45738,7 +46704,7 @@
     "multishot": 1,
     "name": "Vectis",
     "noise": "Alarming",
-    "omegaAttenuation": 1.05,
+    "omegaAttenuation": 1.1,
     "patchlogs": [
       {
         "name": "Empyrean: Update 27",
@@ -45962,7 +46928,43 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 2.67,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 30,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 140,
+          "slash": 52.5,
+          "puncture": 157.5
+        }
+      },
+      {
+        "name": "3.5x Zoom",
+        "speed": 2.67,
+        "crit_chance": 30,
+        "crit_mult": 2,
+        "status_chance": 30,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 140,
+          "slash": 52.5,
+          "puncture": 157.5
+        }
+      },
+      {
+        "name": "6x Zoom",
         "speed": 2.67,
         "crit_chance": 30,
         "crit_mult": 2,
@@ -46826,7 +47828,61 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 1.5,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 180,
+          "slash": 11.2,
+          "puncture": 33.8
+        }
+      },
+      {
+        "name": "2.5x Zoom",
+        "speed": 1.5,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 180,
+          "slash": 11.2,
+          "puncture": 33.8
+        }
+      },
+      {
+        "name": "4x Zoom",
+        "speed": 1.5,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 180,
+          "slash": 11.2,
+          "puncture": 33.8
+        }
+      },
+      {
+        "name": "8x Zoom",
         "speed": 1.5,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -47060,7 +48116,58 @@
     "ammo": 72,
     "attacks": [
       {
-        "name": "Normal",
+        "name": "Unzoomed",
+        "speed": 2,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 245.7,
+          "puncture": 27.3
+        }
+      },
+      {
+        "name": "2.5x Zoom",
+        "speed": 2,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 245.7,
+          "puncture": 27.3
+        }
+      },
+      {
+        "name": "4x Zoom",
+        "speed": 2,
+        "crit_chance": 20,
+        "crit_mult": 2,
+        "status_chance": 25,
+        "shot_type": "Hit-Scan",
+        "falloff": {
+          "start": 400,
+          "end": 600,
+          "reduction": 0.5
+        },
+        "damage": {
+          "impact": 245.7,
+          "puncture": 27.3
+        }
+      },
+      {
+        "name": "8x Zoom",
         "speed": 2,
         "crit_chance": 20,
         "crit_mult": 2,
@@ -47271,7 +48378,6 @@
       },
       {
         "name": "Cannon Mode Explosion",
-        "radius": 400,
         "speed": 1.67,
         "crit_chance": 17,
         "crit_mult": 2.5,
@@ -47305,7 +48411,9 @@
         "crit_chance": 17,
         "crit_mult": 2.5,
         "status_chance": 8.7,
-        "shot_type": "Hit-Scan",
+        "shot_type": "Projectile",
+        "shot_speed": null,
+        "flight": "???",
         "damage": {
           "impact": 24,
           "slash": 16,
@@ -48061,7 +49169,6 @@
       },
       {
         "name": "Arrow Explosion",
-        "radius": 260,
         "speed": 5.5,
         "crit_chance": 26,
         "crit_mult": 2,
