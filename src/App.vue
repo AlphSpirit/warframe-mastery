@@ -92,6 +92,11 @@
           name: "Amps",
           items: Misc.filter(m => m.name.indexOf("Prism") > -1 && m.productCategory == "Pistols")
         }];
+      for (let key of Object.keys(this.mastered)) {
+        if (this.mastered[key] === true) {
+          this.mastered[key] = 1;
+        }
+      }
     },
     computed: {
       isMastered() {
@@ -116,7 +121,7 @@
         if (this.mastered[item.name]) {
           delete this.mastered[item.name];
         } else {
-          this.mastered[item.name] = true;
+          this.mastered[item.name] = 1;
         }
         this.save();
       },
