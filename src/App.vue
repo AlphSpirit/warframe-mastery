@@ -257,7 +257,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    color: #666;
+    color: #777;
     border-left: 1px solid #30363D;
     user-select: none;
     cursor: pointer;
