@@ -14,6 +14,16 @@
         <div class="element">
           <div class="name">Size : {{ Math.round(JSON.stringify(mastered).length * 16 / 1000) }}kb</div>
         </div>
+        <div class="element">
+          <div class="name">Save</div>
+          <div class="grow"></div>
+          <div class="completed" @click="saveFile">🖫</div>
+        </div>
+        <div class="element">
+          <div class="name">Load</div>
+          <div class="grow"></div>
+          <div class="completed" @click="loadFile">↻</div>
+        </div>
       </div>
       <div class="column" :class="{hidden: howManyMastered(category.items) == category.items.length && hideMastered}" v-for="category of categories" :key="category.name">
         <div class="title">{{ category.name }} ({{ howManyMastered(category.items) }}/{{ category.items.length }})</div>
@@ -129,6 +139,27 @@
       },
       openWiki(item) {
         window.open("https://warframe.fandom.com/wiki/" + item.name.replace(" ", "_"), "_blank");
+      },
+      saveFile() {
+        var a = document.createElement("a");
+        var text = localStorage.getItem("warframe-mastery") || "{}";
+        a.setAttribute("href", "data:text/plain;charset=utf-8," + encodeURIComponent(text));
+        a.setAttribute("download", "warframe-mastery.json");
+        a.click();
+      },
+      loadFile() {
+        var input = document.createElement("input");
+        input.type = "file";
+        input.addEventListener("change", e => {
+          var file = e.target.files[0];
+          var reader = new FileReader();
+          reader.onload = e => {
+            localStorage.setItem("warframe-mastery", e.target.result);
+            this.mastered = JSON.parse(e.target.result);
+          }
+          reader.readAsText(file);
+        });
+        input.click();
       }
     }
   }
