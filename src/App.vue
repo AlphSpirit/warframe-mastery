@@ -65,7 +65,7 @@
           items: Secondaries.filter(s => this.founders.indexOf(s.name) == -1)
         }, {
           name: "Melee",
-          items: [...Melees.filter(m => this.founders.indexOf(m.name) == -1), ...Misc.filter(m => m.name.startsWith("Plague ") && m.type != "Melee" && !m.components)]
+          items: [...Melees.filter(m => this.founders.indexOf(m.name) == -1 && (m.type != "Zaw Component" || m.attacks != undefined) && !m.excludeFromCodex)]
             .sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Kitguns",
