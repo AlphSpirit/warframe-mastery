@@ -101,7 +101,7 @@
           items: Archmelees
         }, {
           name: "Amps",
-          items: Misc.filter(m => m.name.indexOf("Prism") > -1 && m.productCategory == "Pistols")
+          items: [...Misc.filter(m => m.name.indexOf("Prism") > -1 && m.productCategory == "Pistols"), ...Primaries.filter(p => p.name == "Sirocco")]
         }];
         console.log(this.categories[0].items);
     },
