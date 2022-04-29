@@ -1,3 +1,4 @@
+
 <template>
   <div class="containerContainer">
     <div class="container">
@@ -102,6 +103,7 @@
           name: "Amps",
           items: Misc.filter(m => m.name.indexOf("Prism") > -1 && m.productCategory == "Pistols")
         }];
+        console.log(this.categories[0].items);
     },
     computed: {
       isMastered() {
