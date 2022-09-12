@@ -6,13 +6,13 @@
     "serve": "vite preview"
   },
   "dependencies": {
-    "sass": "^1.37.5",
-    "vue": "^3.2.2",
-    "warframe-items": "^1.1249.74"
+    "sass": "^1.54.9",
+    "vue": "^3.2.39",
+    "warframe-items": "^1.1253.3031"
   },
   "devDependencies": {
-    "@vitejs/plugin-vue": "^1.4.0",
-    "@vue/compiler-sfc": "^3.2.2",
-    "vite": "^2.4.4"
+    "@vitejs/plugin-vue": "^3.1.0",
+    "@vue/compiler-sfc": "^3.2.39",
+    "vite": "^3.1.0"
   }
 }
