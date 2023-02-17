@@ -6,12 +6,12 @@ specifiers:
   sass: ^1.54.9
   vite: ^3.1.0
   vue: ^3.2.39
-  warframe-items: ^1.1253.3031
+  warframe-items: ^1.1258.34
 
 dependencies:
   sass: 1.54.9
   vue: 3.2.39
-  warframe-items: 1.1253.3031
+  warframe-items: 1.1258.34
 
 devDependencies:
   '@vitejs/plugin-vue': 3.1.0_vite@3.1.0+vue@3.2.39
@@ -569,6 +569,6 @@ packages:
       '@vue/server-renderer': 3.2.39_vue@3.2.39
       '@vue/shared': 3.2.39
 
-  /warframe-items/1.1253.3031:
-    resolution: {integrity: sha512-nm2rMIihkCo69+VVwvsNYHZWxjWw/uuBDWoh/mwv8yceqSazqrP25n3ubQShxdonrJdOlClw2j87wbEYPBx3LQ==}
+  /warframe-items/1.1258.34:
+    resolution: {integrity: sha512-iRu12C1bJIN5anMHtYxMnvW0BJow5FGko6geuuwQK5yv703kt2jNQ/OEkUiMvI/hIZJpI9f4/bjr4htOiib2UA==}
     dev: false
