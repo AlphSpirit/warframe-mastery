@@ -76,8 +76,10 @@
           items: Secondaries.filter(s => this.founders.indexOf(s.name) == -1)
         }, {
           name: "Melee",
-          items: [...Melees.filter(m => this.founders.indexOf(m.name) == -1 && (m.type != "Zaw Component" || m.attacks != undefined) && !m.excludeFromCodex)]
-            .sort((a, b) => a.name.localeCompare(b.name))
+          items: [
+            ...Melees.filter(m => this.founders.indexOf(m.name) == -1 && (m.type != "Zaw Component" || m.attacks != undefined) && !m.excludeFromCodex),
+            ...Archmelees.filter(a => a.productCategory !== "SpaceMelee")
+          ].sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Kitguns",
           items: [...Misc.filter(m => m.primeOmegaAttenuation)]
@@ -98,7 +100,7 @@
           items: [...Archguns, ...Primaries.filter(p => p.productCategory == "SpaceGuns")].sort((a, b) => a.name.localeCompare(b.name))
         }, {
           name: "Archmelees",
-          items: Archmelees
+          items: Archmelees.filter(a => a.productCategory == "SpaceMelee")
         }, {
           name: "Amps",
           items: [...Misc.filter(m => m.name.indexOf("Prism") > -1 && m.productCategory == "Pistols"), ...Primaries.filter(p => p.name == "Sirocco")]
