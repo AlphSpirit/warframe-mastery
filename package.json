@@ -8,7 +8,7 @@
   "dependencies": {
     "sass": "^1.69.4",
     "vue": "^3.3.4",
-    "warframe-items": "^1.1260.135"
+    "warframe-items": "^1.1260.191"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^3.2.0",

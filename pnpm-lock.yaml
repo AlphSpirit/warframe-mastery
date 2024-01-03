@@ -12,8 +12,8 @@ dependencies:
     specifier: ^3.3.4
     version: 3.3.4
   warframe-items:
-    specifier: ^1.1260.135
-    version: 1.1260.135
+    specifier: ^1.1260.191
+    version: 1.1260.191
 
 devDependencies:
   '@vitejs/plugin-vue':
@@ -584,6 +584,6 @@ packages:
       '@vue/server-renderer': 3.3.4(vue@3.3.4)
       '@vue/shared': 3.3.4
 
-  /warframe-items@1.1260.135:
-    resolution: {integrity: sha512-v/lYXAiQ7D9tKPN3fWZ3d8ksmgNN2rtfNuWf5HtP/tSLhsIx4d1TLMAu/BOmUUCeNbuRHJSXrl8KS4QbqDe6Hg==}
+  /warframe-items@1.1260.191:
+    resolution: {integrity: sha512-4FtP+finGp0XtD3J88MMahASl3bpz7YgV0+7/VK3cOnGeXAbOvoh4suqduRv428nLb++5wzU/4PYl86tc89VuA==}
     dev: false
